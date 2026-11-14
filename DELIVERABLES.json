@@ -1,0 +1,132 @@
+{
+  "updated": "2026-11-14",
+  "core_count": 14,
+  "artifacts": [
+    {
+      "id": "D01",
+      "type": "研究报告·历史初版",
+      "path": "reports/archive/脑机接口行业全景与消费产品机会调研_20261111.docx",
+      "research_date": "2026-11-11",
+      "note": "历史初版；后续框架见重构版与四方向版",
+      "bytes": 71842,
+      "sha256": "35d26238cfcd683b8cc0607998dc67f7f410b2d534b7065b0ff441644c7e76bf"
+    },
+    {
+      "id": "D02",
+      "type": "研究报告·重构版",
+      "path": "reports/脑机接口行业认知与产品方向重构报告_20261111.docx",
+      "research_date": "2026-11-11",
+      "note": "行业地图、公司、证据与项目判断；机会排序为历史口径",
+      "bytes": 72287,
+      "sha256": "ca7353c12d354c65813cbeb2738269a81eadf2cb99585312500fb20dacde0245"
+    },
+    {
+      "id": "D03",
+      "type": "研究报告·四方向版",
+      "path": "reports/四大产品方向竞品与论文调研_20261111.docx",
+      "research_date": "2026-11-11",
+      "note": "四方向竞品与研究版；2026-11-14网页新增论文关联未回写",
+      "bytes": 74897,
+      "sha256": "4d0384ec7a42ffc2ed2de8125e91d83299b27fa2c8cbb3b8fac043847429258d"
+    },
+    {
+      "id": "D04",
+      "type": "一页决策摘要",
+      "path": "reports/脑机接口项目一页决策摘要_20261111.docx",
+      "research_date": "2026-11-11",
+      "note": "历史机会判断；当前讨论保留四个方向",
+      "bytes": 39411,
+      "sha256": "ac354f8725aa2f22d1c9dbef2647f3ee17f61aa600d523a485d60ffba24f8c59"
+    },
+    {
+      "id": "D05",
+      "type": "Excel·历史初版",
+      "path": "data/archive/脑机接口产品库与机会对照_20261111.xlsx",
+      "research_date": "2026-11-11",
+      "note": "历史产品库",
+      "bytes": 64549,
+      "sha256": "b4eefcf960d9043ed98f5ce219797ca71add53ac380af4fdd31f8f92daf5a897"
+    },
+    {
+      "id": "D06",
+      "type": "Excel·重构证据库",
+      "path": "data/脑机接口产品与证据关联库_20261111.xlsx",
+      "research_date": "2026-11-11",
+      "note": "六张关联表；属于重构版证据口径",
+      "bytes": 73579,
+      "sha256": "b8b4fdf789702e574db5eb47c3d2be08e1c404075242033db4e090ba17fd199e"
+    },
+    {
+      "id": "D07",
+      "type": "Excel·四方向关联表",
+      "path": "data/四大方向公司产品论文关联表_20261111.xlsx",
+      "research_date": "2026-11-11",
+      "note": "44项产品／项目、38条研究；新增13篇赵教授研究另见网页",
+      "bytes": 63228,
+      "sha256": "29c0c4156810196bd98e5d1b50d7874705d40b66e0f62a7692f4ecf5b806a072"
+    },
+    {
+      "id": "D08",
+      "type": "HTML·研究图谱",
+      "path": "site/脑机接口研究图谱.html",
+      "research_date": "2026-11-14",
+      "note": "公开整理版；四方向与13篇署名研究关联；未附原始项目PPT及截图",
+      "bytes": 4699955,
+      "sha256": "f78f7905ac6d7e84436712874491472e456e102281326711b8338c281f0a528f"
+    },
+    {
+      "id": "D09",
+      "type": "HTML·教授作品目录",
+      "path": "publications/赵湖斌作品阅读目录.html",
+      "research_date": "2026-11-14",
+      "note": "82条成果记录，含会议摘要、章节、专利等，不是82篇正式论文",
+      "bytes": 114524,
+      "sha256": "9e8eadab42a89d8025f44e2967483213de91e86b196990c24f78f34e939cc577"
+    },
+    {
+      "id": "D10",
+      "type": "中文讲解视频",
+      "path": "media/用光看见大脑_Gowerlabs中文讲解.mp4",
+      "research_date": "2026-11-14",
+      "note": "Gowerlabs技术讲解；以配套来源和研究日期为准",
+      "bytes": 2986133,
+      "sha256": "c92305f8ee7c1e9213d4d7c3591169811fc1e1159c13ef519c30224942a773db"
+    },
+    {
+      "id": "D11",
+      "type": "视频字幕",
+      "path": "media/中文字幕.srt",
+      "research_date": "2026-11-14",
+      "note": "与中文讲解视频配套",
+      "bytes": 4097,
+      "sha256": "fa3dce97679244538689544e9b602ec6956c131175cf7969a3206cd22c6b8d23"
+    },
+    {
+      "id": "D12",
+      "type": "视频讲解稿与来源",
+      "path": "media/讲解稿与来源.txt",
+      "research_date": "2026-11-14",
+      "note": "与中文讲解视频配套",
+      "bytes": 4820,
+      "sha256": "997e8d3cdfecb96cf1f91add502f08f7cdc94153e83f10cf86a8135ff5ef19eb"
+    },
+    {
+      "id": "D13",
+      "type": "论文目录CSV",
+      "path": "publications/赵湖斌作品清单.csv",
+      "research_date": "2026-11-14",
+      "note": "Excel可打开的作品索引",
+      "bytes": 49404,
+      "sha256": "2f179099c7c14dfc26b3673d89423da95e32d084534a02783e476b3520015ac1"
+    },
+    {
+      "id": "D14",
+      "type": "论文目录BibTeX",
+      "path": "publications/赵湖斌作品清单.bib",
+      "research_date": "2026-11-14",
+      "note": "Zotero等文献管理器可导入",
+      "bytes": 37888,
+      "sha256": "0ad6c8827c908e387bbaba9ebf503836614239357d93dd711d0a65c987d8df9f"
+    }
+  ]
+}

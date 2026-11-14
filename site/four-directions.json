@@ -1,0 +1,3607 @@
+{
+  "date": "2026-11-11",
+  "sources": {
+    "mendi": {
+      "id": "S001",
+      "title": "Mendi 头带商品页",
+      "url": "https://www.mendi.io/products/mendi",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "mendi_science": {
+      "id": "S002",
+      "title": "Mendi科学说明与直接及间接证据区分",
+      "url": "https://www.mendi.io/pages/science",
+      "kind": "厂商说明",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "mendi2024": {
+      "id": "S003",
+      "title": "Boere等 2024 Mendi工作记忆负荷验证",
+      "url": "https://www.krigolsonlab.com/uploads/4/3/8/4/43848243/boere_hecker___krigolson_2023.pdf",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "mendi_multi": {
+      "id": "S004",
+      "title": "Boere等 Mendi多任务认知负荷研究",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12172848/",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "muse": {
+      "id": "S005",
+      "title": "Muse 美国商店与功能比较",
+      "url": "https://choosemuse.com/pages/shop",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "muse_health": {
+      "id": "S006",
+      "title": "Muse Athena专业配置与数据接口",
+      "url": "https://musehealth.ai/products/muse-s-athena",
+      "kind": "厂商产品",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "同页套餐金额有不一致；不用此页作为成交报价",
+      "checked": "2026-11-11"
+    },
+    "muse_sleep": {
+      "id": "S007",
+      "title": "Lanthier等 2026 Muse S与PSG验证",
+      "url": "https://doi.org/10.1093/sleepadvances/zpaf089",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "2025年12月在线发表 2026卷期",
+      "checked": "2026-11-11"
+    },
+    "muse_rct": {
+      "id": "S008",
+      "title": "Bhayee等 2016 Muse正念随机试验",
+      "url": "https://link.springer.com/article/10.1186/s40359-016-0168-6",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "muse_null": {
+      "id": "S009",
+      "title": "Svetlov等 2019 Muse短时放松对照研究",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6423491/",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neurable": {
+      "id": "S010",
+      "title": "Neurable One 规格与定价",
+      "url": "https://www.neurable.com/products/neurable-one",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neurable_white": {
+      "id": "S011",
+      "title": "Neurable 2021 Enten Focus白皮书",
+      "url": "https://downloads.ctfassets.net/2yjc1ych3g2w/4081ZGqAAzmgjZnvKvGYL9/e9edab589d786c12d3f6b84346ca4b5a/Neurable_Whitepaper.pdf",
+      "kind": "厂商白皮书",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "无期刊同行评审证明；不能套用当前One的全部指标",
+      "checked": "2026-11-11"
+    },
+    "elemind": {
+      "id": "S012",
+      "title": "Elemind 官方商品页",
+      "url": "https://elemindtech.com/products/elemind",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "elemind_rct": {
+      "id": "S013",
+      "title": "Bressler等 2024 SLEEPFAST交叉试验",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11156862/",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "正文访问间歇受限；不声称完整补充材料复核",
+      "checked": "2026-11-11"
+    },
+    "elemind_corr": {
+      "id": "S014",
+      "title": "SLEEPFAST 2024作者更正",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11413223/",
+      "kind": "论文更正",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "更正Figure5b纵轴标签对齐",
+      "checked": "2026-11-11"
+    },
+    "somnee": {
+      "id": "S015",
+      "title": "Somnee 2.0 官方产品页",
+      "url": "https://somneesleep.com/",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "somneescience": {
+      "id": "S016",
+      "title": "Somnee 官方科学与方案说明",
+      "url": "https://somneesleep.com/pages/science",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "somnee_rct": {
+      "id": "S017",
+      "title": "Ayanampudi等 2023个体化tACS初步试验",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2022.1066453/full",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "somnee_pre": {
+      "id": "S018",
+      "title": "Somnee 2025 early findings预印本",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.10.09.25335041v1",
+      "kind": "预印本",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "全文未取得；不采用跨研究倍数比较为头对头结论",
+      "checked": "2026-11-11"
+    },
+    "sensai": {
+      "id": "S019",
+      "title": "Sens.ai 商品与订阅说明",
+      "url": "https://sens.ai/product/",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "sens_sleep": {
+      "id": "S020",
+      "title": "Sens ai Sleep Nirvana白皮书",
+      "url": "https://sensai-cms-assets.s3.us-west-2.amazonaws.com/Sleep_Nirvana_Mission_Protocol_Whitepaper_4c0a1bc164.pdf",
+      "kind": "厂商白皮书",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "正文31人 认知终点28人；非随机非盲比较",
+      "checked": "2026-11-11"
+    },
+    "sens_mind": {
+      "id": "S021",
+      "title": "Sens ai Sharp Mind白皮书",
+      "url": "https://sensai-cms-assets.s3.us-west-2.amazonaws.com/Sharp_Mind_Mission_Protocol_Whitepaper_f228aabc82.pdf",
+      "kind": "厂商白皮书",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "42人 干预组合 无法归因单模块",
+      "checked": "2026-11-11"
+    },
+    "flowfda": {
+      "id": "S022",
+      "title": "FDA Flow FL-100 PMA P230024",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm?id=P230024",
+      "kind": "监管原文",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "flowssed": {
+      "id": "S023",
+      "title": "FDA Flow FL-100安全有效性摘要",
+      "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230024B.pdf",
+      "kind": "监管原文",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "flowlaunch": {
+      "id": "S024",
+      "title": "Flow 2026年美国处方上市公告",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3363570/0/en/flow-neuroscience-launches-fl-100-in-the-us-the-first-fda-approved-at-home-tdcs-treatment-for-depression.html",
+      "kind": "厂商新闻稿",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "flow_rct": {
+      "id": "S025",
+      "title": "Woodham等 2024远程居家tDCS随机试验",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11750699/",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "在线2024 卷期2025",
+      "checked": "2026-11-11"
+    },
+    "easleep": {
+      "id": "S026",
+      "title": "BrainCo Easleep 产品页",
+      "url": "https://www.brainco.cn/health/easleep",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "easleep_rct": {
+      "id": "S027",
+      "title": "Zhang等 2025 Easleep CES加声音研究",
+      "url": "https://link.springer.com/article/10.1186/s12883-025-04304-3",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "oxyzen": {
+      "id": "S028",
+      "title": "BrainCo OxyZen 产品页",
+      "url": "https://www.brainco.cn/health/oxyzen",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "brainlink": {
+      "id": "S029",
+      "title": "宏智力 BrainLink 使用与型号说明",
+      "url": "https://macrotellect.tawk.help/article/faqs-on-brainlink-usage",
+      "kind": "厂商官方",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "brainlink_eval": {
+      "id": "S030",
+      "title": "Lee等 2026消费EEG四设备对照",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12972051/",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "braincobrochure": {
+      "id": "S031",
+      "title": "BrainCo 2025年6月官方介绍手册",
+      "url": "https://www.worldrobotconference.com/profile/robot/download/2025/07/21/20250721112107000522_20250721112107A113.pdf",
+      "kind": "厂商手册",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "kernel2024": {
+      "id": "S032",
+      "title": "Dubois等 2024 Flow2指标重测可靠性",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11289386/",
+      "kind": "原始研究",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "kernel_report": {
+      "id": "S033",
+      "title": "Kernel Brain Age示例报告及模型误差",
+      "url": "https://www.kernel.com/reports/Brain%20Age%20Tracker%20Report%20%28Example%29.pdf",
+      "kind": "厂商报告",
+      "reading": "前轮已读记录 本轮按场景重新对应",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "lumo": {
+      "id": "S034",
+      "title": "LUMO现售研究系统",
+      "url": "https://www.gowerlabs.co.uk/lumo",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "nts": {
+      "id": "S035",
+      "title": "NTS停止新机供应及BRIGHT研究",
+      "url": "https://www.gowerlabs.co.uk/nts",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "babybrite": {
+      "id": "S036",
+      "title": "BabyBrite厂商手册",
+      "url": "https://static1.squarespace.com/static/64e314a8c69b933a41187ec2/t/6531132b8fd5453f138554ca/1697714988702/BabyBrite%2BLeaflet.pdf",
+      "kind": "厂商规格",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "nirxchild": {
+      "id": "S037",
+      "title": "NIRx婴幼儿研究系统及适用边界",
+      "url": "https://nirx.net/children",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "infant24": {
+      "id": "S038",
+      "title": "Collins-Jones等 婴儿全头HD-DOT 2024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12272203/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "zhaoneo": {
+      "id": "S039",
+      "title": "Zhao等 新生儿柔性HD-DOT 2021",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995199/",
+      "kind": "原始论文",
+      "reading": "正文相关方法、结果与作者通信信息；本轮复核公开全文",
+      "note": "",
+      "checked": "2026-11-14"
+    },
+    "neocap": {
+      "id": "S040",
+      "title": "Galderisi等 早产儿DOT与EEG连续监测 2016",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5180615/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neocappdf": {
+      "id": "S041",
+      "title": "NeoCAP作者公开全文",
+      "url": "https://colab.psy.unipd.it/wp-content/uploads/2017/02/Galderisi-Long-term-continuous-monitoring-of-the-preterm-brain-with-dot-and-eeg-1.pdf",
+      "kind": "作者机构全文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "pipkin": {
+      "id": "S042",
+      "title": "PIPKIN成长队列方案 2025",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330915",
+      "kind": "原始方案",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "pipkinfamily": {
+      "id": "S043",
+      "title": "PIPKIN婴儿LUMO和EEG使用流程",
+      "url": "https://www.pipkinstudy.com/about",
+      "kind": "研究项目官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "natus": {
+      "id": "S044",
+      "title": "Natus Olympic Brainz新生儿监护仪",
+      "url": "https://natus.com/neuro/cfm-olympic-brainz-monitor/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "invos": {
+      "id": "S045",
+      "title": "INVOS儿科及新生儿监护技术白皮书",
+      "url": "https://www.medtronic.com/content/dam/medtronic-wide/public/western-europe/products/patient-monitoring/invos-pediatric-cardiac-critical-care-white-paper.pdf",
+      "kind": "厂商规格",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "masimo": {
+      "id": "S046",
+      "title": "Masimo O3脑氧监测",
+      "url": "https://www.masimo.com/technology/brain-monitoring/cerebral-oximetry/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "masimodfu": {
+      "id": "S047",
+      "title": "O3婴儿及新生儿探头使用说明库",
+      "url": "https://techdocs.masimo.com/products/sensor/o3-sensor-infant-neonatal-rso2-adhesive-sensor/",
+      "kind": "厂商说明书",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "nonin": {
+      "id": "S048",
+      "title": "Nonin新生儿及成人组织脑氧监测",
+      "url": "https://www.nonin.com/technologies/cerebral-tissue-oximetry/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "safeboosc": {
+      "id": "S049",
+      "title": "SafeBoosC III 2023多国随机试验",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2207554",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "cosgod": {
+      "id": "S050",
+      "title": "COSGOD III 2023出生转换期随机试验",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9871806/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "o3compare": {
+      "id": "S051",
+      "title": "Masimo O3与INVOS7100新生儿比较研究",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13190425/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "vishee": {
+      "id": "S052",
+      "title": "伟思医疗官网产品与渠道",
+      "url": "https://www.vishee.com/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "visheeannual": {
+      "id": "S053",
+      "title": "伟思医疗2024年报公开刊载 新生儿脑电用途",
+      "url": "https://epaper.cs.com.cn/zgzqb/wap/html/2025-04/25/nw.D110000zgzqb_20250425_1-B570.htm",
+      "kind": "发行人年报公开刊载",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "foison": {
+      "id": "S054",
+      "title": "丰盛生物2025新生儿学术会议及产品",
+      "url": "https://foisonrich.com/news-details4.html",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "shence": {
+      "id": "S055",
+      "title": "神策科技InfraMind及Baby产品页",
+      "url": "https://www.shenceai.cn/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "huichuang": {
+      "id": "S056",
+      "title": "慧创医疗2026南京子公司与成像产品",
+      "url": "https://invest.nanjing.gov.cn/gzdt/202602/t20260209_5789962.html",
+      "kind": "政府产业资料",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hcpatent": {
+      "id": "S057",
+      "title": "慧创阿尔茨海默光治疗头帽专利",
+      "url": "https://patents.google.com/patent/CN115212467A/en",
+      "kind": "专利原文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hctrialnews": {
+      "id": "S058",
+      "title": "慧创光治疗临床进度报道 2026年6月",
+      "url": "https://m.jstv.com/news/2026/6/5/1512578976276856832.html",
+      "kind": "地方媒体现场报道",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neuracle": {
+      "id": "S059",
+      "title": "博睿康脑科学产品目录",
+      "url": "https://www.neuracle.cn/nkxxl",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "shimadzu": {
+      "id": "S060",
+      "title": "岛津LIGHTNIRS规格",
+      "url": "https://www.shimadzu.com/an/products/life-science-lab-instruments/imaging/lightnirs/spec.html",
+      "kind": "厂商规格",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neeuro": {
+      "id": "S061",
+      "title": "NeeuroFIT银发课程与机构后台",
+      "url": "https://www.neeuro.com/solutions/brain-fitness/neeurofit-for-seniors",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neeurostudy": {
+      "id": "S062",
+      "title": "Yeo等 社区BCI认知课程实施RCT 2021",
+      "url": "https://formative.jmir.org/2021/4/e25462/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neeuroapps": {
+      "id": "S063",
+      "title": "Neeuro应用与训练产品目录",
+      "url": "https://www.neeuro.com/downloads",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "brainco25": {
+      "id": "S064",
+      "title": "BrainCo强脑科技2025年6月产品手册",
+      "url": "https://www.worldrobotconference.com/profile/robot/download/2025/07/21/20250721112107000522_20250721112107A113.pdf",
+      "kind": "厂商手册",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "kerneldev": {
+      "id": "S065",
+      "title": "Kernel Flow2与服务平台",
+      "url": "https://www.kernel.com/developers",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "kerneltrack": {
+      "id": "S066",
+      "title": "Kernel 2025秋季Trackers机构上线公告",
+      "url": "https://www.kernel.com/newsletter/2025fall.html",
+      "kind": "厂商公告",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "auroraannual": {
+      "id": "S067",
+      "title": "脑动极光2025年报 港交所原文",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042801062.pdf",
+      "kind": "发行人原始财报",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "brainscope": {
+      "id": "S068",
+      "title": "BrainScope说明书适用范围",
+      "url": "https://www.brainscope.com/ifu",
+      "kind": "厂商说明书",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "brain20fda": {
+      "id": "S069",
+      "title": "BraiN20 FDA K253301 2026年6月27日",
+      "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253301.pdf",
+      "kind": "监管原文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "brain20": {
+      "id": "S070",
+      "title": "Time is Brain产品官网",
+      "url": "https://www.tibtimeisbrain.com/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "promise": {
+      "id": "S071",
+      "title": "PROMISE N20卒中预后研究 2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12778700/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "promiseprotocol": {
+      "id": "S072",
+      "title": "PROMISE20 2023设备试验方案摘要",
+      "url": "https://jnis.bmj.com/content/neurintsurg/15/Suppl_2/A15.3.full.pdf",
+      "kind": "会议方案摘要",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "promiseglobal": {
+      "id": "S073",
+      "title": "BraiN20 PROMISE-GLOB注册",
+      "url": "https://clinicaltrials.gov/study/NCT06421337",
+      "kind": "临床注册",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "electra": {
+      "id": "S074",
+      "title": "ELECTRA-STROKE院前结果 2023",
+      "url": "https://n.neurology.org/content/neurology/early/2023/10/17/WNL.0000000000207831.full.pdf",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "electraprotocol": {
+      "id": "S075",
+      "title": "ELECTRA-STROKE设备和院前流程方案",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9576201/",
+      "kind": "原始方案",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "electra26": {
+      "id": "S076",
+      "title": "2026年11月6日 EEG机器学习LVO研究",
+      "url": "https://academic.oup.com/esj/article/11/11/aakag134/9017766?searchresult=1",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "openwater": {
+      "id": "S077",
+      "title": "Openwater Open-Motion产品与研究入口",
+      "url": "https://www.openwater.health/open-motion",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "openwaterdocs": {
+      "id": "S078",
+      "title": "Open-Motion现行使用与版本区别",
+      "url": "https://docs.openwater.health/research/platform-evaluation/optical-blood-flow-monitoring/",
+      "kind": "厂商技术文档",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "openwaterpaper": {
+      "id": "S079",
+      "title": "Favilla等 光学血流LVO研究 在线2024 卷期2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11415534/",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "visorfda": {
+      "id": "S080",
+      "title": "Cerebrotech Visor FDA K182967",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K182967",
+      "kind": "监管原文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "visornice": {
+      "id": "S081",
+      "title": "NICE撤回Visor简介 因NHS不再提供",
+      "url": "https://www.nice.org.uk/advice/mib165",
+      "kind": "卫生技术机构",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neuranova": {
+      "id": "S082",
+      "title": "NeuraNova 原StrokeDx 产品研发官网",
+      "url": "https://neura-nova.com/",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "stedifda": {
+      "id": "S083",
+      "title": "STEDI Scan FDA TPLC入口 K253840",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?ID=3988&manufacturer=STROKE+DX&min_report_year=2020&pmndecision=SUBSTANTIALLY+EQUIVALENT",
+      "kind": "监管原文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "harmony": {
+      "id": "S084",
+      "title": "MindRhythm Harmony突破性器械认定公告",
+      "url": "https://mindrhythm.com/harmony-mindrhythms-innovative-device-for-lvo-stroke-granted-breakthrough-device-designation-by-the-fda/",
+      "kind": "厂商公告",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "harmonypaper": {
+      "id": "S085",
+      "title": "EPISODE-PS-COVID院前Headpulse研究 2024",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/acem.14919",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "forest": {
+      "id": "S086",
+      "title": "Duke研究者及Forest Devices EDGAR项目",
+      "url": "https://medschool.duke.edu/profile/bruce-james-derrick",
+      "kind": "研究机构官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "neurableone": {
+      "id": "S087",
+      "title": "Neurable One官方商品页",
+      "url": "https://www.neurable.com/products/neurable-one",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "elemindnow": {
+      "id": "S088",
+      "title": "Elemind当前商品及会员费用",
+      "url": "https://elemindtech.com/products/elemind",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "sensnow": {
+      "id": "S089",
+      "title": "Sens.ai产品组合和当前报价",
+      "url": "https://get.sens.ai/buy/a.html",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "sensresults": {
+      "id": "S090",
+      "title": "Sens.ai研究及白皮书入口",
+      "url": "https://support.sens.ai/support/solutions/articles/69000649330",
+      "kind": "厂商资料",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "museathena": {
+      "id": "S091",
+      "title": "Muse Athena新增功能说明",
+      "url": "https://choosemuse.my.site.com/s/article/Muse-S-Athena-What-s-New",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "flowletter": {
+      "id": "S092",
+      "title": "Flow FL100 FDA批准函 2025年12月8日",
+      "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230024A.pdf",
+      "kind": "监管原文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "vielight": {
+      "id": "S093",
+      "title": "Vielight产品相关研究目录",
+      "url": "https://www.vielight.com/research/",
+      "kind": "厂商研究目录",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "vielightad": {
+      "id": "S094",
+      "title": "Vielight阿尔茨海默病关键试验介绍",
+      "url": "https://www.vielight.com/vielight-alzheimers-disease-trial/",
+      "kind": "厂商试验介绍",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "chao": {
+      "id": "S095",
+      "title": "Chao 2019居家Vielight痴呆先导研究全文",
+      "url": "https://vielight.com/wp-content/uploads/2020/01/Brain_Photobiomodulation_Alzheimers_Chao_2019.pdf",
+      "kind": "原始论文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "pbminsomnia": {
+      "id": "S096",
+      "title": "Mehdizadeh等 2025慢性失眠tPBM RCT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41125953/",
+      "kind": "原始论文摘要",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "pbmguu": {
+      "id": "S097",
+      "title": "Guu等 2025抑郁与睡眠可穿戴tPBM RCT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39706483/",
+      "kind": "原始论文摘要",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "longcovid": {
+      "id": "S098",
+      "title": "Vielight脑雾随机假刺激先导研究 2025预印本",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.07.24.25331961v1.full",
+      "kind": "预印本",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hcinfant": {
+      "id": "S099",
+      "title": "国产NirSmart早产儿脑连接与神经评估研究 2025",
+      "url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2025.1508840/full",
+      "kind": "原始论文",
+      "reading": "本轮正文方法与结果",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hcmci": {
+      "id": "S100",
+      "title": "NirScan8000轻度认知障碍静息脑网络研究",
+      "url": "https://journal.hep.com.cn/JIN/EN/10.31083/JIN26406",
+      "kind": "原始论文",
+      "reading": "本轮正文方法 结果与讨论",
+      "note": "卷期标2025 页面在线日期2026-04-28",
+      "checked": "2026-11-11"
+    },
+    "hcasym": {
+      "id": "S101",
+      "title": "NirSmart三至九月婴儿网络不对称研究 2022",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0010945222001873",
+      "kind": "原始论文",
+      "reading": "本轮摘要及方法检索片段",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hitachifda": {
+      "id": "S102",
+      "title": "日立ETG4100 FDA K172492婴儿探头及测量用途",
+      "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172492.pdf",
+      "kind": "监管原文",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hitachichannel": {
+      "id": "S103",
+      "title": "日立光拓扑仪日本渠道2024年8月销售结束说明",
+      "url": "https://www.miyuki-net.co.jp/jp/products_research/by_maker/Hitachi/",
+      "kind": "授权或专业渠道资料",
+      "reading": "本轮供应页面检索",
+      "note": "仅对应该日本渠道记录 不判定全球停售",
+      "checked": "2026-11-11"
+    },
+    "hitachipaper": {
+      "id": "S104",
+      "title": "六个月语音反应与24个月语言结局研究 2020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7750322/",
+      "kind": "原始论文",
+      "reading": "本轮摘要及方法片段",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "myndliftcurrent": {
+      "id": "S105",
+      "title": "Myndlift个人套件与远程服务",
+      "url": "https://www.myndlift.com/individuals",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "myndliftpaper": {
+      "id": "S106",
+      "title": "Myndlift远程神经反馈真实世界回顾研究 2022",
+      "url": "https://formative.jmir.org/2022/7/e35636/",
+      "kind": "原始论文",
+      "reading": "本轮正文方法 结果与讨论相关段落",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "obelab": {
+      "id": "S107",
+      "title": "OBELAB NIRSIT评估及训练研究设备",
+      "url": "https://www.obelab.com/product/product_nirsit.php",
+      "kind": "厂商官方",
+      "reading": "本轮官方页面或检索可见内容",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "obelabpaper": {
+      "id": "S108",
+      "title": "NIRSIT静息前额连接区分SCD及MCI研究 2025",
+      "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2024.1468246/full",
+      "kind": "原始论文",
+      "reading": "本轮摘要及设备方法段落",
+      "note": "",
+      "checked": "2026-11-11"
+    },
+    "hz_hz051": {
+      "id": "S109",
+      "title": "赵教授署名 · 柔性、超轻量新生儿 HD-DOT",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995199/",
+      "kind": "硬件与头模验证",
+      "reading": "正文相关方法、结果与作者通信信息；本轮复核公开全文",
+      "note": "70g对应特定局部配置；不外推为全头帽重量，也不证明成长筛查、智力预测或诊断。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz031": {
+      "id": "S110",
+      "title": "赵教授署名 · 婴儿光极的快速三维定位",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10593123/",
+      "kind": "配准与工作流验证",
+      "reading": "公开全文摘要、配准方法与结果、作者信息",
+      "note": "扫描时间不等于完整服务耗时；头模误差不等于所有活动婴儿的定位表现。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz009": {
+      "id": "S111",
+      "title": "赵教授署名 · 心智疲劳与任务负荷同步评估",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270415/",
+      "kind": "任务状态分类研究",
+      "reading": "全文方法、模型验证、结果与讨论；作者通信信息已复核",
+      "note": "不能写成陌生用户实时识别率；没有跨天／老年人验证，没有恢复、助眠或刺激疗效比较。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz043": {
+      "id": "S112",
+      "title": "赵教授署名 · 可穿戴 EEG–fNIRS 集成路线",
+      "url": "https://www.mdpi.com/1424-8220/21/18/6106",
+      "kind": "技术综述",
+      "reading": "出版社全文的摘要、集成技术章节与作者信息",
+      "note": "综述他人设备不等于拥有全部实现；不构成你们整机融合增益或临床效果验证。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz008": {
+      "id": "S113",
+      "title": "赵教授署名 · 真实生活中的辅助移动技术",
+      "url": "https://www.nature.com/articles/s41467-025-67126-4",
+      "kind": "观点文章（Perspective）",
+      "reading": "出版社文章类型、摘要及作者表；未逐项复核所有引文",
+      "note": "不能作为老年课程效果、认知改善或光电帽临床收益的直接证据。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz034": {
+      "id": "S114",
+      "title": "赵教授署名 · 光电融合脑机接口与运动康复",
+      "url": "https://www.mdpi.com/2306-5354/10/12/1393",
+      "kind": "应用综述",
+      "reading": "出版社全文摘要、脑机系统及康复相关章节、作者表",
+      "note": "运动康复不等于急性卒中识别；综述不能证明院前分流、病灶定位或当前产品疗效。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz021": {
+      "id": "S115",
+      "title": "赵教授署名 · 康复动作评估的多模态算法",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10195046/",
+      "kind": "人体任务与算法验证",
+      "reading": "高校接受稿首页、摘要及作者通信信息；未精读全部方法",
+      "note": "不能把肌电融合的结果移作光电融合增益，更不支持中风快速识别。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz003": {
+      "id": "S116",
+      "title": "赵教授署名 · 卒中后的居家监测与智能辅助",
+      "url": "https://repository.kaust.edu.sa/bitstreams/091f44c6-4751-4ed9-accc-38f6c853ab63/download",
+      "kind": "康复场景系统研究",
+      "reading": "高校接受稿首页、摘要、作者通信信息；未精读全部方法",
+      "note": "针对卒中后生活辅助，不是院前卒中检测；不将满意度或步态分类当脑成像诊断效能。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz023": {
+      "id": "S117",
+      "title": "赵教授署名 · HD-DOT 心智疲劳可行性研究",
+      "url": "https://doi.org/10.1109/EMBC53108.2024.10782566",
+      "kind": "会议论文",
+      "reading": "本人ORCID、DOI及2025期刊论文的引用关系；本轮未精读会议全文",
+      "note": "不与2025期刊工作算作两项独立人群复制；具体样本关系仍需复核。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz019": {
+      "id": "S118",
+      "title": "赵教授署名 · fNIRS／DOT 实时处理平台",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10219919/",
+      "kind": "算法与处理链路验证",
+      "reading": "UCL作者记录与摘要；本轮未重新精读已下载全文",
+      "note": "处理速度不改变血氧反应本身的延迟；不证明融合、刺激、恢复或整机ASIC已完成。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz025": {
+      "id": "S119",
+      "title": "赵教授署名 · 低功耗运动伪迹检测",
+      "url": "https://doi.org/10.1109/TVLSI.2024.3356161",
+      "kind": "算法／硬件研究",
+      "reading": "本人ORCID、论文书目信息与此前核对记录；本轮未重新精读全文",
+      "note": "伪迹识别率不是精神状态识别率；电路功耗不等于整机续航或整机功耗。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz056": {
+      "id": "S120",
+      "title": "赵教授署名 · 宽视场模块化可穿戴 HD-DOT",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10110076/",
+      "kind": "硬件及人体功能成像",
+      "reading": "UCL作者记录、摘要；本轮未重新精读已下载全文",
+      "note": "合作研究不自动等于公司独占IP；不直接证明EEG融合或消费者收益。",
+      "checked": "2026-11-14"
+    },
+    "hz_hz005": {
+      "id": "S121",
+      "title": "赵教授署名 · 小型化、模块化 FD-fNIRS 硬件",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10225451/",
+      "kind": "硬件与体外评估",
+      "reading": "UCL作者记录、摘要及开放稿状态；未精读全部正文",
+      "note": "不能把FD论文参数与CW产品参数拼接；你们当前帽子是否集成该方案仍需确认。",
+      "checked": "2026-11-14"
+    }
+  },
+  "products": [
+    {
+      "id": "P01",
+      "area": "婴幼儿",
+      "company": "Gowerlabs",
+      "name": "LUMO婴儿配置",
+      "region": "英国",
+      "relation": "同路线直接参照",
+      "route": "CW HD-DOT",
+      "signal": "多距离HbO/HbR空间响应",
+      "workflow": "按头围配帽 看人脸视频或听声音 重建皮层任务图；成长队列可多次到访",
+      "buyer": "大学婴儿实验室 医院研究团队",
+      "stage": "研究系统可询价；婴儿实际采集论文与队列已公开",
+      "model": "设备 配帽 软件支持及机构项目",
+      "lesson": "核心参照是婴儿服务工作流与任务包；商业服务还需要年龄化报告，而非只交脑图",
+      "keys": [
+        "lumo",
+        "infant24",
+        "pipkin",
+        "pipkinfamily"
+      ],
+      "paper_ids": [
+        "R01",
+        "R03"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP01"
+    },
+    {
+      "id": "P02",
+      "area": "婴幼儿",
+      "company": "Gowerlabs",
+      "name": "NTS及BRIGHT婴儿队列",
+      "region": "英国",
+      "relation": "历史同路线参照",
+      "route": "CW fNIRS 光纤系统",
+      "signal": "特定任务血氧响应",
+      "workflow": "婴儿出生至24个月多次采集；官网介绍BRIGHT队列",
+      "buyer": "研究机构及队列资助方",
+      "stage": "厂商明确停止供应新系统 转向LUMO；历史研究继续可查",
+      "model": "历史仪器销售及支持",
+      "lesson": "纵向随访有真实研究流程，不能将科研随访自动算成商业体检连锁",
+      "keys": [
+        "nts"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "历史项目核查",
+      "checked": "2026-11-11",
+      "site_id": "FP02"
+    },
+    {
+      "id": "P03",
+      "area": "婴幼儿",
+      "company": "Artinis",
+      "name": "BabyBrite",
+      "region": "荷兰",
+      "relation": "同路线直接参照",
+      "route": "可穿戴CW fNIRS",
+      "signal": "HbO HbR与总血红蛋白变化",
+      "workflow": "柔软光极与婴儿帽配合自然互动任务 传输至采集软件",
+      "buyer": "婴儿研究机构",
+      "stage": "有厂商产品手册与询价入口；本轮未取得客户交付数量",
+      "model": "科研硬件 软件 配件及支持",
+      "lesson": "婴儿专用尺寸、软接触与佩戴流程本身可以形成产品系列",
+      "keys": [
+        "babybrite"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "厂商规格核查",
+      "checked": "2026-11-11",
+      "site_id": "FP03"
+    },
+    {
+      "id": "P04",
+      "area": "婴幼儿",
+      "company": "NIRx",
+      "name": "NIRScout／NIRSport婴儿配置",
+      "region": "德国及美国",
+      "relation": "同路线直接参照",
+      "route": "CW fNIRS 可同步EEG",
+      "signal": "局部皮层血氧与外接EEG",
+      "workflow": "选婴儿钝头光极与帽型 安排语言或感觉任务 分析血氧响应",
+      "buyer": "高校 婴儿研究实验室",
+      "stage": "厂商提供婴幼儿研究配置及询价；官网说明研究用途",
+      "model": "主机 软件 探头及分析支持",
+      "lesson": "不是从零发明婴儿采集；机会在定制流程和解释服务",
+      "keys": [
+        "nirxchild",
+        "neocap"
+      ],
+      "paper_ids": [
+        "R04"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP04"
+    },
+    {
+      "id": "P05",
+      "area": "婴幼儿",
+      "company": "Medtronic",
+      "name": "INVOS儿科及新生儿配置",
+      "region": "美国",
+      "relation": "成熟监护与渠道参照",
+      "route": "NIRS区域脑氧",
+      "signal": "rSO2趋势 不是功能性脑发育地图",
+      "workflow": "前额贴一次性探头 连续观察区域脑氧 进入床旁照护流程",
+      "buyer": "NICU PICU及心脏手术机构",
+      "stage": "既有临床监护产品；不同型号和地区适用范围分别核对",
+      "model": "设备及一次性传感器",
+      "lesson": "可借鉴耗材和床旁集成模式；大脑体检需要比脑氧读数更多的功能内容",
+      "keys": [
+        "invos",
+        "safeboosc"
+      ],
+      "paper_ids": [
+        "R05"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP05"
+    },
+    {
+      "id": "P06",
+      "area": "婴幼儿",
+      "company": "Masimo",
+      "name": "Root＋O3婴儿／新生儿探头",
+      "region": "美国",
+      "relation": "成熟监护与渠道参照",
+      "route": "多波长NIRS区域脑氧",
+      "signal": "区域氧合状态及趋势",
+      "workflow": "将O3接入Root平台 前额贴传感器 与其他监护参数共同显示",
+      "buyer": "医院监护及围术期科室",
+      "stage": "产品与新生儿探头说明书可查；型号4384有官方文件",
+      "model": "平台 模块及一次性传感器",
+      "lesson": "多参数平台能进入医院现有工作流；不把平台多参数等同于HD-DOT＋EEG功能成像",
+      "keys": [
+        "masimo",
+        "masimodfu",
+        "o3compare"
+      ],
+      "paper_ids": [
+        "R06"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP06"
+    },
+    {
+      "id": "P07",
+      "area": "婴幼儿",
+      "company": "Nonin",
+      "name": "SenSmart X-100儿科／新生儿配置",
+      "region": "美国",
+      "relation": "成熟监护参照",
+      "route": "多波长NIRS区域脑氧",
+      "signal": "区域氧饱和度",
+      "workflow": "小尺寸探头用于床旁连续或点测 输出氧合趋势",
+      "buyer": "医院及医疗机构",
+      "stage": "官网列新生儿到成人监测用途；当前渠道与报价需询价",
+      "model": "仪器与传感器",
+      "lesson": "按年龄做探头系列和适配配件，持续收入可来自耗材",
+      "keys": [
+        "nonin"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方用途核查",
+      "checked": "2026-11-11",
+      "site_id": "FP07"
+    },
+    {
+      "id": "P08",
+      "area": "婴幼儿",
+      "company": "Natus",
+      "name": "Olympic Brainz Monitor",
+      "region": "美国",
+      "relation": "脑电监护直接参照",
+      "route": "EEG＋aEEG",
+      "signal": "脑电波形 压缩趋势及自动事件提示",
+      "workflow": "贴电极 持续记录 观察惊厥及背景模式",
+      "buyer": "NICU 医院设备采购",
+      "stage": "官网现列售并提供临床案例；供应地区以代理为准",
+      "model": "监护仪 电极及服务",
+      "lesson": "让复杂信号变成可操作的事件提示和趋势，而非只显示原始波形",
+      "keys": [
+        "natus"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方产品及临床案例核查",
+      "checked": "2026-11-11",
+      "site_id": "FP08"
+    },
+    {
+      "id": "P09",
+      "area": "婴幼儿",
+      "company": "伟思医疗",
+      "name": "新生儿脑电测量仪",
+      "region": "中国",
+      "relation": "国内直接参照",
+      "route": "EEG／aEEG",
+      "signal": "脑电及脑功能监护",
+      "workflow": "医院门诊 NICU或母婴同室进行监护 筛查及脑发育评估",
+      "buyer": "医院新生儿科",
+      "stage": "发行人年报列为产品并说明用途；本轮未核到具体在售型号和单机销量",
+      "model": "设备 耗材与医院渠道",
+      "lesson": "国内已有发育评估用途的脑电产品，差异化要落到光电联合与随访服务",
+      "keys": [
+        "vishee",
+        "visheeannual"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "上市公司披露整体业绩，本轮不把整体收入分配给新生儿产品",
+      "depth": "发行人产品披露核查",
+      "checked": "2026-11-11",
+      "site_id": "FP09"
+    },
+    {
+      "id": "P10",
+      "area": "婴幼儿",
+      "company": "丰盛生物",
+      "name": "新生儿脑电产品系列",
+      "region": "中国",
+      "relation": "国内直接参照",
+      "route": "EEG／aEEG",
+      "signal": "新生儿脑电",
+      "workflow": "医院新生儿监护及学术应用",
+      "buyer": "医院新生儿科",
+      "stage": "厂商2025新生儿会议有产品展示；型号 注册和交付量本轮未取得",
+      "model": "医院设备及支持",
+      "lesson": "专科渠道与培训可与设备一起销售",
+      "keys": [
+        "foison"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方展会与产品入口核查",
+      "checked": "2026-11-11",
+      "site_id": "FP10"
+    },
+    {
+      "id": "P11",
+      "area": "婴幼儿",
+      "company": "神策科技 ShenceAI",
+      "name": "InfraMind Baby",
+      "region": "中国",
+      "relation": "国内光学直接参照",
+      "route": "可穿戴光学fNIRS",
+      "signal": "皮层血氧响应",
+      "workflow": "婴儿专用柔性帽进行研究采集",
+      "buyer": "科研及临床研究团队",
+      "stage": "官网设Baby产品入口；未取得独立产品论文和交付规模",
+      "model": "科研设备及方案咨询",
+      "lesson": "婴儿形态已有国内竞品，不能把柔性婴儿帽本身当空白市场",
+      "keys": [
+        "shence"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "厂商页面核查",
+      "checked": "2026-11-11",
+      "site_id": "FP11"
+    },
+    {
+      "id": "P12",
+      "area": "婴幼儿及银发",
+      "company": "慧创医疗",
+      "name": "NirScan／NirSmart",
+      "region": "中国",
+      "relation": "国内光学直接参照",
+      "route": "多通道CW fNIRS",
+      "signal": "皮层血氧浓度变化与活化图",
+      "workflow": "按具体研究任务采集 并入认知或发育研究",
+      "buyer": "医院与科研机构",
+      "stage": "2026政府资料记载成像产品及注册进展；不据此认定婴儿体检或银发课程套餐已获批；NirSmart与NirScan8000已有婴儿及MCI患者实际研究使用",
+      "model": "设备及机构应用方案",
+      "lesson": "中国医院已有光学成像采购供给，产品机会要进一步到任务和服务",
+      "keys": [
+        "huichuang",
+        "hcpatent",
+        "hcinfant",
+        "hcmci",
+        "hcasym"
+      ],
+      "paper_ids": [
+        "R18",
+        "R19",
+        "R35"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "国产型号与婴儿及MCI原始研究对应",
+      "checked": "2026-11-11",
+      "site_id": "FP12"
+    },
+    {
+      "id": "P13",
+      "area": "银发",
+      "company": "Neeuro",
+      "name": "NeeuroFIT for Seniors＋SenzeBand＋Memorie",
+      "region": "新加坡",
+      "relation": "场景直接参照",
+      "route": "EEG＋认知游戏",
+      "signal": "EEG驱动部分游戏反馈及任务表现",
+      "workflow": "到社区中心上课 玩分领域游戏 讲师指导 后台管理与季度报告",
+      "buyer": "社区中心 康养机构 老人及补贴方",
+      "stage": "现有课程和企业后台；2021论文有两个社区中心真实付费实施记录",
+      "model": "设备 内容课程 讲师培训与机构服务",
+      "lesson": "最值得借鉴的是课程服务及社区交付，不只是卖头带",
+      "keys": [
+        "neeuro",
+        "neeurostudy",
+        "neeuroapps"
+      ],
+      "paper_ids": [
+        "R07"
+      ],
+      "price": 20,
+      "currency": "SGD",
+      "price_note": "2017至2018年研究中的整期补贴课程收费；不是2026现行售价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP13"
+    },
+    {
+      "id": "P14",
+      "area": "银发",
+      "company": "强脑科技 BrainCo",
+      "name": "脑力欣认知康复训练系统",
+      "region": "中国",
+      "relation": "国内场景直接参照",
+      "route": "EEG＋认知训练软件",
+      "signal": "脑电与训练任务表现",
+      "workflow": "便携脑电设备配合认知课程 后台管理及个性化内容",
+      "buyer": "认知康复机构及中老年用户",
+      "stage": "2025厂商手册正式列产品；本轮未找到独立交付量和专属试验论文",
+      "model": "设备 机构软件及课程服务",
+      "lesson": "国内已有类似产品定位，我们要具体说明光学信息如何进入课程",
+      "keys": [
+        "brainco25"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "厂商手册核查",
+      "checked": "2026-11-11",
+      "site_id": "FP14"
+    },
+    {
+      "id": "P15",
+      "area": "银发及大众日间",
+      "company": "Mendi",
+      "name": "Mendi Headset",
+      "region": "瑞典",
+      "relation": "光学消费产品直接参照",
+      "route": "前额fNIRS神经反馈",
+      "signal": "局部血氧变化",
+      "workflow": "戴前额头带 在App做反馈游戏 重复短时练习",
+      "buyer": "个人消费者",
+      "stage": "有直接销售页面；不是银发专属设备",
+      "model": "硬件＋配套App 官网称无需订阅",
+      "lesson": "低覆盖光学也能形成交互；全头HD-DOT需有额外服务价值",
+      "keys": [
+        "mendi",
+        "mendi_science",
+        "mendi2024",
+        "mendi_multi"
+      ],
+      "paper_ids": [
+        "R20",
+        "R21"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及既有全文拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP15"
+    },
+    {
+      "id": "P16",
+      "area": "银发及大众",
+      "company": "Sens.ai",
+      "name": "Sharp Mind／Sleep Nirvana及头戴系统",
+      "region": "加拿大",
+      "relation": "组合训练直接参照",
+      "route": "EEG反馈＋HRV＋tPBM",
+      "signal": "脑电 心率与任务指标；光用于刺激",
+      "workflow": "建立任务基线 选择数周课程 反馈训练配合光刺激",
+      "buyer": "高客单价消费者及服务机构",
+      "stage": "官方有购买和交付说明；研究以厂商组合方案白皮书为主",
+      "model": "硬件 会员与课程",
+      "lesson": "把多个能力包装成有起止的课程，而非让用户自己看信号",
+      "keys": [
+        "sensnow",
+        "sensresults",
+        "sens_mind",
+        "sens_sleep"
+      ],
+      "paper_ids": [
+        "R27",
+        "R28"
+      ],
+      "price": 1300,
+      "currency": "USD",
+      "price_note": "官方促销页观察价 同页标价1500；非全球含税成交价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP16"
+    },
+    {
+      "id": "P17",
+      "area": "银发及大众评估",
+      "company": "Kernel",
+      "name": "Flow2＋Brain Age／Cognition Tracker",
+      "region": "美国",
+      "relation": "光电评估服务直接参照",
+      "route": "TD-fNIRS＋6通道EEG",
+      "signal": "血氧及光子飞行时间相关特征 脑电 任务表现",
+      "workflow": "在机构完成扫描与认知任务 接收年龄归一化报告",
+      "buyer": "长寿诊所 健康机构及研究者",
+      "stage": "2025秋季官方称五家诊所提供Brain Age扫描；Cognition Tracker发布；当前规模未独立披露",
+      "model": "机构设备 云分析与扫描服务",
+      "lesson": "把成像转成可收费报告的直接商业参照；年龄分数不等于训练效果",
+      "keys": [
+        "kerneldev",
+        "kerneltrack",
+        "kernel2024",
+        "kernel_report"
+      ],
+      "paper_ids": [
+        "R22"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品 工作流及既有论文拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP17"
+    },
+    {
+      "id": "P18",
+      "area": "银发",
+      "company": "脑动极光 BrainAurora",
+      "name": "脑功能信息管理平台及数字认知训练",
+      "region": "中国",
+      "relation": "非BCI的渠道与替代方案参照",
+      "route": "数字认知评估和训练 软件为核心",
+      "signal": "任务行为表现；本条不假定有脑信号闭环",
+      "workflow": "医院或院外渠道使用数字评估与训练方案",
+      "buyer": "医院 健康服务及院外机构",
+      "stage": "港交所2025年报有实际院内院外收入；不能将公司收入称为脑机收入",
+      "model": "软件整体解决方案及院外服务",
+      "lesson": "证明认知服务有付费路径；我们必须解释加头戴设备的具体收益",
+      "keys": [
+        "auroraannual"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "2025集团收入220049000元；亏损316364000元；院内软件113925000元 院外53302000元；均为集团披露 不单列银发或BCI",
+      "depth": "原始年报核查",
+      "checked": "2026-11-11",
+      "site_id": "FP18"
+    },
+    {
+      "id": "P19",
+      "area": "银发及研究平台",
+      "company": "博睿康",
+      "name": "NeuSen W及脑科学平台",
+      "region": "中国",
+      "relation": "采集平台及渠道参照",
+      "route": "无线EEG",
+      "signal": "头皮电活动",
+      "workflow": "按机构任务记录EEG 再接入分析软件或外部应用",
+      "buyer": "科研与医院研究团队",
+      "stage": "官网产品目录可询价；未找到本条对应银发成品课程",
+      "model": "硬件与集成方案",
+      "lesson": "不能将通用EEG销售计作银发训练落地",
+      "keys": [
+        "neuracle"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方目录核查",
+      "checked": "2026-11-11",
+      "site_id": "FP19"
+    },
+    {
+      "id": "P20",
+      "area": "婴幼儿及研究平台",
+      "company": "岛津",
+      "name": "LIGHTNIRS／LABNIRS系列",
+      "region": "日本",
+      "relation": "成像工具参照",
+      "route": "CW fNIRS",
+      "signal": "皮层血氧变化",
+      "workflow": "外接任务系统与光极布局 形成研究数据",
+      "buyer": "科研机构与医院研究团队",
+      "stage": "LIGHTNIRS官网规格可查；本轮未取得四方向专属服务套餐",
+      "model": "科研设备与支持",
+      "lesson": "仪器平台与面向家庭的服务仍是两层产品",
+      "keys": [
+        "shimadzu"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方规格核查",
+      "checked": "2026-11-11",
+      "site_id": "FP20"
+    },
+    {
+      "id": "P21",
+      "area": "中风",
+      "company": "Openwater",
+      "name": "光学血流原型／现行Open-Motion",
+      "region": "美国",
+      "relation": "光学卒中直接参照",
+      "route": "近红外散斑血流 不同于HD-DOT血氧重建",
+      "signal": "血流脉搏波形与双侧特征",
+      "workflow": "早期原型床旁70秒扫描 模型给LVO可能性；现售研究平台另有版本",
+      "buyer": "卒中研究中心及器械开发机构",
+      "stage": "有患者研究及研究设备平台；官方明确研究用途 尚未FDA临床许可",
+      "model": "研究平台硬件 软件与开发支持",
+      "lesson": "同为光学，但血流波形是专门面向急救问题的测量对象",
+      "keys": [
+        "openwater",
+        "openwaterdocs",
+        "openwaterpaper"
+      ],
+      "paper_ids": [
+        "R08"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP21"
+    },
+    {
+      "id": "P22",
+      "area": "中风",
+      "company": "eemagine／ANT Neuro等＋Amsterdam UMC",
+      "name": "ELECTRA-STROKE研究系统",
+      "region": "德国及荷兰",
+      "relation": "EEG院前直接参照",
+      "route": "8电极干式EEG",
+      "signal": "功率比 双侧不对称及分类模型",
+      "workflow": "救护人员安装干电极帽 录约2至3分钟 支持LVO分流研究",
+      "buyer": "急救系统及卒中研究机构",
+      "stage": "2023院前结果与2026新算法论文公开；不是已确认常规销售的卒中急救包",
+      "model": "研究设备与集成；专用产品商业模式未披露",
+      "lesson": "把输出绑定转运分流，比泛化为精确定位更接近已有产品流程",
+      "keys": [
+        "electra",
+        "electraprotocol",
+        "electra26"
+      ],
+      "paper_ids": [
+        "R09",
+        "R10"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP22"
+    },
+    {
+      "id": "P23",
+      "area": "中风",
+      "company": "Time is Brain",
+      "name": "BraiN20",
+      "region": "西班牙",
+      "relation": "电生理监护直接参照",
+      "route": "外周电刺激＋SSEP N20记录",
+      "signal": "N20有无 潜伏期与幅度",
+      "workflow": "皮肤电极刺激外周神经 同步记录皮层反应 床旁显示",
+      "buyer": "卒中中心 手术与急诊团队",
+      "stage": "FDA K253301于2026-06-27许可记录N20监测神经状态；非独立卒中定位诊断许可",
+      "model": "便携主机 一次性电极与机构渠道",
+      "lesson": "低操作负担、专用事件输出和一次性耗材的产品组合值得借鉴",
+      "keys": [
+        "brain20fda",
+        "brain20",
+        "promise",
+        "promiseprotocol",
+        "promiseglobal"
+      ],
+      "paper_ids": [
+        "R11",
+        "R12"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP23"
+    },
+    {
+      "id": "P24",
+      "area": "中风",
+      "company": "Forest Devices",
+      "name": "AlphaStroke",
+      "region": "美国",
+      "relation": "历史EEG卒中项目参照",
+      "route": "EEG＋躯体感觉诱发电位",
+      "signal": "半球电生理差异",
+      "workflow": "便携设备评估疑似卒中患者 支持分流研究",
+      "buyer": "急救与医院研究团队",
+      "stage": "研究机构资料可确认EDGAR项目；2026常规供应和许可未取得可靠记录",
+      "model": "历史设备开发；当前收费未披露",
+      "lesson": "保留为研发路线参照，不写成当前已普及产品",
+      "keys": [
+        "forest"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "研究机构项目记录核查",
+      "checked": "2026-11-11",
+      "site_id": "FP24"
+    },
+    {
+      "id": "P25",
+      "area": "中风",
+      "company": "Cerebrotech",
+      "name": "Visor",
+      "region": "美国",
+      "relation": "相邻技术与历史商业参照",
+      "route": "VIPS电磁阻抗相移",
+      "signal": "颅内双侧液体或阻抗不对称",
+      "workflow": "头戴扫描 得到不对称信息",
+      "buyer": "神经急诊机构",
+      "stage": "2018 FDA K182967可核；NICE已因NHS不再提供而撤回简介；不能据此断言全球停售",
+      "model": "历史设备销售；当前供应不明",
+      "lesson": "获许可、临床研究和持续供货是不同商业阶段",
+      "keys": [
+        "visorfda",
+        "visornice"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "监管及供应状态核查",
+      "checked": "2026-11-11",
+      "site_id": "FP25"
+    },
+    {
+      "id": "P26",
+      "area": "中风",
+      "company": "NeuraNova 原StrokeDx",
+      "name": "STEDI Scan相关项目",
+      "region": "美国",
+      "relation": "相邻技术候选",
+      "route": "颅内阻抗相关；本轮技术细节未取得原始说明书",
+      "signal": "具体输出字段未确认",
+      "workflow": "便携神经血管评估研发；具体临床流程待原始说明书",
+      "buyer": "卒中评估机构",
+      "stage": "FDA TPLC列Stroke DX K253840；现公司品牌关系与许可用途未完成原始文件对应",
+      "model": "机构器械；当前交付和价格未公开核实",
+      "lesson": "列为重要新候选，不把监管条目与公司全部卒中功能画等号",
+      "keys": [
+        "neuranova",
+        "stedifda"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "候选核查 未完成说明书对应",
+      "checked": "2026-11-11",
+      "site_id": "FP26"
+    },
+    {
+      "id": "P27",
+      "area": "中风",
+      "company": "MindRhythm",
+      "name": "Harmony",
+      "region": "美国",
+      "relation": "相邻技术参照",
+      "route": "HeadPulse机械生理信号＋ECG",
+      "signal": "心动相关头部微运动",
+      "workflow": "急救场景佩戴头戴装置 记录生理特征 辅助LVO研究",
+      "buyer": "急救系统与研究医院",
+      "stage": "有院前研究及厂商突破性器械认定公告；本轮未确认最终上市许可",
+      "model": "机构主机或耗材模式 现价未取得",
+      "lesson": "借鉴救护人员操作和单一分流输出，不视为HD-DOT同路线",
+      "keys": [
+        "harmony",
+        "harmonypaper"
+      ],
+      "paper_ids": [
+        "R13"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方公告及论文摘要核查",
+      "checked": "2026-11-11",
+      "site_id": "FP27"
+    },
+    {
+      "id": "P28",
+      "area": "中风相邻",
+      "company": "BrainScope",
+      "name": "BrainScope",
+      "region": "美国",
+      "relation": "头外伤产品形态参照 非卒中直接竞品",
+      "route": "前额定量EEG＋临床参数",
+      "signal": "头外伤相关出血可能性及功能指标",
+      "workflow": "医生针对头外伤患者开展一次多模态评估",
+      "buyer": "急诊及头外伤服务机构",
+      "stage": "官方IFU现有用途是头外伤评估；本轮排除为已上市卒中诊断产品",
+      "model": "设备 耗材与临床服务",
+      "lesson": "可借鉴快速评估包的形态，不能借用适应证",
+      "keys": [
+        "brainscope"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "说明书纠偏核查",
+      "checked": "2026-11-11",
+      "site_id": "FP28"
+    },
+    {
+      "id": "P29",
+      "area": "大众日间及睡眠",
+      "company": "InteraXon Muse",
+      "name": "Muse S Athena",
+      "region": "加拿大",
+      "relation": "光电消费直接参照",
+      "route": "EEG＋前额fNIRS＋PPG",
+      "signal": "日间血氧与脑电；睡眠主要用EEG等",
+      "workflow": "白天训练配声音反馈 夜间软头带记录并提供睡眠音频工具",
+      "buyer": "个人及健康研究机构",
+      "stage": "官方商品和专业页面可查；不同模式用的传感器不同",
+      "model": "硬件＋可选内容订阅及专业服务",
+      "lesson": "光电同机已有消费竞品，关键在具体体验与模式设计",
+      "keys": [
+        "muse",
+        "muse_health",
+        "museathena",
+        "muse_sleep"
+      ],
+      "paper_ids": [
+        "R23"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品与既有全文拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP29"
+    },
+    {
+      "id": "P30",
+      "area": "大众放松",
+      "company": "InteraXon Muse",
+      "name": "Muse 2及冥想反馈",
+      "region": "加拿大",
+      "relation": "EEG消费直接参照",
+      "route": "EEG＋声音反馈",
+      "signal": "额颞有限覆盖脑电与生理信号",
+      "workflow": "坐下练习 根据实时声音反馈调节冥想过程",
+      "buyer": "冥想及压力管理消费者",
+      "stage": "既有在售产品系列与多项研究；老型号论文不自动覆盖新版本",
+      "model": "硬件及可选内容订阅",
+      "lesson": "将仪器变成每天愿意做的短练习，但要比较普通音频替代",
+      "keys": [
+        "muse",
+        "muse_rct",
+        "muse_null"
+      ],
+      "paper_ids": [
+        "R24",
+        "R25"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP30"
+    },
+    {
+      "id": "P31",
+      "area": "大众日间",
+      "company": "Neurable",
+      "name": "Neurable One",
+      "region": "美国",
+      "relation": "EEG日常形态直接参照",
+      "route": "耳周多通道EEG耳机",
+      "signal": "厂商提供认知负荷 专注等状态指标",
+      "workflow": "正常使用降噪耳机 App查看状态与休息建议",
+      "buyer": "办公与知识工作消费者",
+      "stage": "官方One商品页列499美元；当前型号与早期Enten研究分开",
+      "model": "硬件与相关服务",
+      "lesson": "用已有耳机用途吸收佩戴成本；更接近日常状态管理而非恢复干预",
+      "keys": [
+        "neurableone",
+        "neurable_white"
+      ],
+      "paper_ids": [
+        "R26"
+      ],
+      "price": 499,
+      "currency": "USD",
+      "price_note": "2026-11-11官方美国页面观察价 不含地区税费",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP31"
+    },
+    {
+      "id": "P32",
+      "area": "大众睡眠",
+      "company": "Elemind",
+      "name": "Elemind headband",
+      "region": "美国",
+      "relation": "读取加声音干预直接参照",
+      "route": "EEG相位估计＋闭环声音",
+      "signal": "实时脑电节律",
+      "workflow": "睡前戴软头带启动 设备按脑电时序输出声音",
+      "buyer": "入睡及夜间再入睡用户",
+      "stage": "官方可购买并列会员方案；有居家原型试验",
+      "model": "设备＋会员；年付折合6.99美元/月 月付12.99美元",
+      "lesson": "将信号变成一次明确的睡前体验；HD-DOT未必需要全夜运行",
+      "keys": [
+        "elemindnow",
+        "elemind_rct",
+        "elemind_corr"
+      ],
+      "paper_ids": [
+        "R29"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP32"
+    },
+    {
+      "id": "P33",
+      "area": "大众睡眠",
+      "company": "StimScience",
+      "name": "Somnee 2.0",
+      "region": "美国",
+      "relation": "读取加电刺激直接参照",
+      "route": "EEG＋个体化tES／tACS",
+      "signal": "脑电特征用于刺激参数",
+      "workflow": "睡前约15分钟佩戴刺激 结束后可取下；有夜醒再次使用模式",
+      "buyer": "睡眠困扰消费者",
+      "stage": "现售商品 会员与耗材；2023研究不等于现款2.0全部功能",
+      "model": "设备＋必需会员及电极耗材 组合总价未取得",
+      "lesson": "睡前用后取下的流程可降低整夜佩戴负担",
+      "keys": [
+        "somnee",
+        "somneescience",
+        "somnee_rct",
+        "somnee_pre"
+      ],
+      "paper_ids": [
+        "R30",
+        "R31"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP33"
+    },
+    {
+      "id": "P34",
+      "area": "大众睡眠",
+      "company": "强脑科技 BrainCo",
+      "name": "Easleep深海豚",
+      "region": "中国",
+      "relation": "国内睡眠直接参照",
+      "route": "EEG＋CES及音频组合",
+      "signal": "脑电及状态反馈",
+      "workflow": "睡前佩戴 配合电刺激与声音内容",
+      "buyer": "睡眠用户及服务渠道",
+      "stage": "官方目录仍列产品；2025有设备相关组合研究",
+      "model": "硬件 电极耗材 内容及渠道服务",
+      "lesson": "国内睡眠产品已有成形供给；光刺激路线需要自己的体验特色",
+      "keys": [
+        "easleep",
+        "easleep_rct"
+      ],
+      "paper_ids": [
+        "R32"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP34"
+    },
+    {
+      "id": "P35",
+      "area": "大众放松",
+      "company": "强脑科技 BrainCo",
+      "name": "OxyZen仰憩／FocusZen正念",
+      "region": "中国",
+      "relation": "国内放松直接参照",
+      "route": "EEG＋生理反馈与内容",
+      "signal": "脑电 心率等 依具体型号",
+      "workflow": "短时正念练习 配合App内容与反馈",
+      "buyer": "个人及压力管理机构",
+      "stage": "官方产品目录列售；本轮未取得专属干预论文",
+      "model": "硬件及内容课程",
+      "lesson": "学习低学习成本的使用流程；心率用光不等于脑光学成像",
+      "keys": [
+        "oxyzen",
+        "brainco25"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方目录及手册核查",
+      "checked": "2026-11-11",
+      "site_id": "FP35"
+    },
+    {
+      "id": "P36",
+      "area": "大众反馈",
+      "company": "宏智力 Macrotellect",
+      "name": "BrainLink Pro／Tune",
+      "region": "中国",
+      "relation": "EEG消费及开发参照",
+      "route": "前额EEG 部分型号加PPG",
+      "signal": "脑电及专有状态分数",
+      "workflow": "头带或耳机连接App 配合放松或训练交互",
+      "buyer": "个人 开发者及教育渠道",
+      "stage": "既有产品页面及硬件比较研究；不作为直接提神疗效产品",
+      "model": "硬件 配套App及开发服务",
+      "lesson": "轻形态和渠道可借鉴；基础脑电可用不等于已能消除疲劳",
+      "keys": [
+        "brainlink",
+        "brainlink_eval"
+      ],
+      "paper_ids": [
+        "R33"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP36"
+    },
+    {
+      "id": "P37",
+      "area": "银发及大众恢复",
+      "company": "Vielight",
+      "name": "Neuro Gamma／Neuro RX Gamma",
+      "region": "加拿大",
+      "relation": "光刺激直接参照",
+      "route": "经颅及鼻内tPBM",
+      "signal": "主要施加光刺激 不做HD-DOT读取",
+      "workflow": "家庭按既定时长和频次佩戴光照设备",
+      "buyer": "消费者及临床研究机构",
+      "stage": "消费型号与研究型号并行；AD等试验不能等同消费型号获治疗许可",
+      "model": "硬件及配件",
+      "lesson": "读光与放光是不同模块；可借鉴无复杂任务的恢复体验",
+      "keys": [
+        "vielight",
+        "vielightad",
+        "chao",
+        "longcovid"
+      ],
+      "paper_ids": [
+        "R14",
+        "R15"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP37"
+    },
+    {
+      "id": "P38",
+      "area": "银发及情绪",
+      "company": "慧创医疗",
+      "name": "近红外光脑功能治疗仪研发项目",
+      "region": "中国",
+      "relation": "国内光刺激直接参照",
+      "route": "tPBM光治疗",
+      "signal": "光照刺激；是否与成像实时闭环本轮未确认",
+      "workflow": "面向阿尔茨海默病的机构临床研究",
+      "buyer": "医院与研究机构",
+      "stage": "有原始头帽专利；2026报道三期临床推进；未取得对应上市治疗注册和最终RCT论文",
+      "model": "临床器械研发；价格及销售收入未披露",
+      "lesson": "国内光学厂商已从读取扩展光治疗，不能把放光作为独有创意",
+      "keys": [
+        "hcpatent",
+        "hctrialnews"
+      ],
+      "paper_ids": [],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "专利与临床进度报道核查",
+      "checked": "2026-11-11",
+      "site_id": "FP38"
+    },
+    {
+      "id": "P39",
+      "area": "大众情绪",
+      "company": "Flow Neuroscience",
+      "name": "FL-100",
+      "region": "瑞典及英国",
+      "relation": "家用电刺激商业参照",
+      "route": "tDCS＋App 不含EEG读取",
+      "signal": "施加额部电刺激",
+      "workflow": "按疗程居家使用 App引导并与服务方配合",
+      "buyer": "抑郁症患者 医疗服务及处方渠道",
+      "stage": "2025-12-08美国FDA PMA批准；2026-09官方美国上市公告；地区渠道分别记录",
+      "model": "硬件 疗程 耗材与处方服务",
+      "lesson": "明确人群、明确疗程和渠道可形成生意；普通低落情绪是另一个产品定位",
+      "keys": [
+        "flowletter",
+        "flowfda",
+        "flowlaunch",
+        "flow_rct",
+        "flowssed"
+      ],
+      "paper_ids": [
+        "R34"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "监管 产品与既有试验拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP39"
+    },
+    {
+      "id": "P40",
+      "area": "大众睡眠及情绪",
+      "company": "学术团队 非已确认公司产品",
+      "name": "2025前额tPBM慢性失眠方案",
+      "region": "伊朗",
+      "relation": "技术功能研究参照",
+      "route": "810nm tPBM",
+      "signal": "刺激光照；EEG用于结果测量",
+      "workflow": "研究安排连续三天 每次10分钟 前额光照 一周后随访",
+      "buyer": "研究受试者；非已确认商业购买用户",
+      "stage": "30人随机试验已发表；摘要未标出可核实商品型号",
+      "model": "本条无已确认商业收费",
+      "lesson": "可借鉴短疗程体验设计；不误当我们现有读取设备已有助眠功能",
+      "keys": [
+        "pbminsomnia"
+      ],
+      "paper_ids": [
+        "R16"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "原始摘要核查",
+      "checked": "2026-11-11",
+      "site_id": "FP40"
+    },
+    {
+      "id": "P41",
+      "area": "大众睡眠及情绪",
+      "company": "台湾学术团队及研究设备",
+      "name": "可穿戴自用tPBM方案",
+      "region": "中国台湾",
+      "relation": "技术与家用流程参照",
+      "route": "可穿戴tPBM",
+      "signal": "光刺激；量表记录睡眠与抑郁变化",
+      "workflow": "居家每日至少20分钟 使用八周 随访到12周",
+      "buyer": "MDD研究参与者 非普通健康人",
+      "stage": "48人随机假刺激试验发表；本轮未将研究设备映射到可售品牌",
+      "model": "未确认商业价与供货",
+      "lesson": "同一硬件的睡眠和情绪结果可能不同，应分别设计功能",
+      "keys": [
+        "pbmguu"
+      ],
+      "paper_ids": [
+        "R17"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "原始摘要核查",
+      "checked": "2026-11-11",
+      "site_id": "FP41"
+    },
+    {
+      "id": "P42",
+      "area": "婴幼儿及研究平台",
+      "company": "日立相关历史产品",
+      "name": "ETG4000／ETG4100",
+      "region": "日本",
+      "relation": "光学成像历史与随访研究参照",
+      "route": "光纤CW fNIRS",
+      "signal": "血红蛋白相对变化",
+      "workflow": "婴儿适配探头执行语言等任务 并与后续语言发育结局关联研究",
+      "buyer": "婴儿研究及医疗机构",
+      "stage": "历史许可和实际研究可确认；日本专业渠道记载2024年8月销售结束，其他地区现行供货不确定",
+      "model": "历史设备销售及渠道服务",
+      "lesson": "已有婴儿信号与后续发育关联研究；别将论文引用频率视为当前销量",
+      "keys": [
+        "hitachifda",
+        "hitachichannel",
+        "hitachipaper"
+      ],
+      "paper_ids": [
+        "R36"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "监管 历史供应及论文核查",
+      "checked": "2026-11-11",
+      "site_id": "FP42"
+    },
+    {
+      "id": "P43",
+      "area": "银发及大众服务",
+      "company": "Myndlift",
+      "name": "Muse配套远程神经反馈服务",
+      "region": "以色列",
+      "relation": "家庭反馈及服务模式参照",
+      "route": "Muse EEG＋辅助电极＋云端方案",
+      "signal": "脑电与症状及任务表现",
+      "workflow": "在家或机构完成评估 由服务方设置方案 游戏或视频反馈 远程复盘",
+      "buyer": "家庭消费者及神经反馈服务机构",
+      "stage": "官方现列个人套件与会员；有实际使用数据研究；并非银发专用成品",
+      "model": "套件起价＋会员＋指导服务",
+      "lesson": "可把机构指导延伸到家中，不必所有收入依赖卖帽子",
+      "keys": [
+        "myndliftcurrent",
+        "myndliftpaper"
+      ],
+      "paper_ids": [
+        "R37"
+      ],
+      "price": 229,
+      "currency": "USD",
+      "price_note": "官方套件起价；会员另付，不是完整疗程总价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "产品及商业流程拆解",
+      "checked": "2026-11-11",
+      "site_id": "FP43"
+    },
+    {
+      "id": "P44",
+      "area": "银发及研究平台",
+      "company": "OBELAB",
+      "name": "NIRSIT",
+      "region": "韩国",
+      "relation": "前额光学认知评估参照",
+      "route": "前额多通道fNIRS",
+      "signal": "前额血氧及功能连接",
+      "workflow": "坐姿佩戴前额阵列 平板记录静息或认知任务 再进行连接分析",
+      "buyer": "认知研究 医院及研究服务机构",
+      "stage": "官网提供产品；有NIRSIT参与认知下降人群研究，非已确认家庭脑健身课程",
+      "model": "机构设备与分析方案",
+      "lesson": "前额有限覆盖也可提供标准评估流程；覆盖全头应对应额外问题",
+      "keys": [
+        "obelab",
+        "obelabpaper"
+      ],
+      "paper_ids": [
+        "R38"
+      ],
+      "price": null,
+      "currency": "",
+      "price_note": "机构询价或未取得可比现价",
+      "finance": "未取得该产品单独收入披露",
+      "depth": "官方产品与原始设备方法对应",
+      "checked": "2026-11-11",
+      "site_id": "FP44"
+    }
+  ],
+  "papers": [
+    {
+      "id": "R01",
+      "area": "婴幼儿",
+      "title": "Whole-head HD-DOT to map infant audio-visual responses",
+      "year": 2024,
+      "devices": "LUMO 33模块婴儿帽",
+      "n": 24,
+      "analyzed": "16名5至7月足月婴儿；8名排除",
+      "design": "社会与非社会视听任务；组水平皮层重建",
+      "result": "得到颞 枕 额 顶等可及皮层响应；不仅限单个采样区",
+      "meaning": "婴儿成像与任务体验可实现；不是个体发育异常分类器",
+      "reading": "本轮正文方法 结果及讨论相关段落",
+      "keys": [
+        "infant24"
+      ],
+      "boundary": "480g是该研究全头配置；不套用70g局部新生儿原型",
+      "attribution": "外部同路线研究 · 赵教授不在作者表",
+      "attribution_note": "已核对公开作者表；不作为赵教授本人署名成果。"
+    },
+    {
+      "id": "R02",
+      "area": "婴幼儿",
+      "title": "Design and validation of mechanically flexible ultra-lightweight HD-DOT for newborns",
+      "year": 2021,
+      "devices": "ANIMATE柔性新生儿HD-DOT研究原型；CW光学",
+      "n": null,
+      "analyzed": "动态新生儿头模；无真人样本",
+      "design": "70g局部阵列 模拟左右感觉运动区域吸收变化",
+      "result": "可重建头模靶点位置并表征通道质量",
+      "meaning": "直接支持赵教授婴儿设备工程积累",
+      "reading": "本轮正文方法 结果与局限",
+      "keys": [
+        "zhaoneo"
+      ],
+      "boundary": "局部阵列与头模验证；不把70g套用全头配置，不证明婴儿发育筛查效果",
+      "attribution": "赵教授本人论文 · 第一及通讯作者",
+      "hubin_id": "HZ051"
+    },
+    {
+      "id": "R03",
+      "area": "婴幼儿",
+      "title": "PIPKIN longitudinal cohort study protocol",
+      "year": 2025,
+      "devices": "婴儿定制LUMO及EEG",
+      "n": null,
+      "analyzed": "计划队列；本轮未复核目标人数",
+      "design": "围产及出生后多个时间点 结合脑成像与发育任务",
+      "result": "公开了纵向成长研究的设备与任务安排；属于方案",
+      "meaning": "最接近出生后多次到访的随访服务设计",
+      "reading": "本轮方案方法与家属使用说明",
+      "keys": [
+        "pipkin",
+        "pipkinfamily"
+      ],
+      "boundary": "不将预定随访当成已完成商业套餐",
+      "attribution": "外部同路线研究 · 赵教授不在作者表",
+      "attribution_note": "已核对公开作者表；不作为赵教授本人署名成果。"
+    },
+    {
+      "id": "R04",
+      "area": "婴幼儿",
+      "title": "Long-term continuous monitoring of the preterm brain with DOT and EEG",
+      "year": 2016,
+      "devices": "NeoCAP及光学／EEG组合",
+      "n": 1,
+      "analyzed": "一名极早产儿示范",
+      "design": "专用帽设计与长时间床旁采集",
+      "result": "报告七天连续DOT记录的技术可行性",
+      "meaning": "光电整合和新生儿适配具有既有工程先例",
+      "reading": "本轮摘要及作者公开PDF可检索内容",
+      "keys": [
+        "neocap",
+        "neocappdf"
+      ],
+      "boundary": "不扩大成大样本长期发育预测；详细样本设计仍以全文为准"
+    },
+    {
+      "id": "R05",
+      "area": "婴幼儿",
+      "title": "Cerebral Oximetry Monitoring in Extremely Preterm Infants SafeBoosC III",
+      "year": 2023,
+      "devices": "多厂商脑氧监护 非HD-DOT",
+      "n": 1601,
+      "analyzed": "1579主要终点；70中心17国",
+      "design": "小于28孕周 出生72小时脑氧引导照护 对通常照护",
+      "result": "死亡或严重脑损伤35.2%对34.0%；RR1.03 未显著改善",
+      "meaning": "确认脑氧进入医院工作流；不把监测销售解释为体检收益证明",
+      "reading": "本轮原始摘要及可访问方法结果",
+      "keys": [
+        "safeboosc"
+      ],
+      "boundary": "这是照护策略试验，不是证明所有光学监测无价值"
+    },
+    {
+      "id": "R06",
+      "area": "婴幼儿",
+      "title": "Comparison of Masimo O3 and INVOS7100 during neonatal transition",
+      "year": 2026,
+      "devices": "O3新生儿探头 对 INVOS7100",
+      "n": null,
+      "analyzed": "本轮未复核最终样本数",
+      "design": "出生后15分钟连续对照脑氧读数",
+      "result": "设备算法、动静脉假设和采样周期不同",
+      "meaning": "跨设备读数和年龄常模不能直接混用",
+      "reading": "本轮正文设备方法段落",
+      "keys": [
+        "o3compare"
+      ],
+      "boundary": "记录仪器比较，不外推神经发育获益"
+    },
+    {
+      "id": "R07",
+      "area": "银发",
+      "title": "Community-Based BCI Cognitive Group Training Implementation RCT",
+      "year": 2021,
+      "devices": "NeeuroFIT Memorie SenzeBand",
+      "n": 125,
+      "analyzed": "94完成；28人未遵循分组；研究纳入年龄55岁以上",
+      "design": "两社区 10周 每周两次两小时 等候名单对照",
+      "result": "按实际参与分组CTT-2改善约13.5秒；不等于所有认知指标均改善",
+      "meaning": "有付费 社区运营 课程出勤与机构实施的直接参照",
+      "reading": "本轮正文方法 结果与讨论",
+      "keys": [
+        "neeurostudy"
+      ],
+      "boundary": "无同课程无EEG对照；20新元为补贴课程价；当前官网单次1.5小时不是研究2小时"
+    },
+    {
+      "id": "R08",
+      "area": "中风",
+      "title": "Portable cerebral blood flow monitor to detect LVO",
+      "year": 2024,
+      "devices": "Openwater早期双侧散斑血流原型",
+      "n": 162,
+      "analyzed": "135可分析；27排除；LVO约39%",
+      "design": "急诊70秒扫描 五折交叉验证 对照临床血管影像",
+      "result": "作者报告LVO识别优于部分量表；非独立外部测试",
+      "meaning": "光学可围绕血流波形形成快速分流方案",
+      "reading": "本轮正文方法 结果与讨论",
+      "keys": [
+        "openwaterpaper",
+        "openwaterdocs"
+      ],
+      "boundary": "在线2024 卷期2025；当前Open-Motion硬件不同；原文LVO人数51与52存在段落口径差"
+    },
+    {
+      "id": "R09",
+      "area": "中风",
+      "title": "Prehospital Detection of LVO With EEG ELECTRA-STROKE",
+      "year": 2023,
+      "devices": "8电极Waveguard touch＋eego",
+      "n": 311,
+      "analyzed": "212有合格数据；其中6例LVO-a",
+      "design": "救护人员采集 中位151秒 影像作参照",
+      "result": "主要theta/alpha AUC0.80；探索delta不对称AUC0.91",
+      "meaning": "真实救护场景已有采集路径；输出针对大血管分流",
+      "reading": "本轮原始论文摘要及设备方案正文",
+      "keys": [
+        "electra",
+        "electraprotocol"
+      ],
+      "boundary": "不能把探索AUC当整体正确率；不是病灶地图"
+    },
+    {
+      "id": "R10",
+      "area": "中风",
+      "title": "EEG-based machine learning models for hyperacute detection of LVO",
+      "year": 2026,
+      "devices": "ELECTRA-STROKE＋AI-STROKE 8干电极",
+      "n": 1293,
+      "analyzed": "336纳入分析；74%院前；非1293均可用",
+      "design": "2至3分钟EEG 人工选择片段 嵌套交叉验证",
+      "result": "最好模型Naive Bayes AUC0.85；敏感度69% 特异度86%",
+      "meaning": "截至11月6日路线仍有新进展，应纳入最新技术地图",
+      "reading": "本轮原始摘要及可检索方法段落",
+      "keys": [
+        "electra26"
+      ],
+      "boundary": "本轮未取得可完整浏览全文；不可与2023不同样本直接排名"
+    },
+    {
+      "id": "R11",
+      "area": "中风",
+      "title": "Prognostic Accuracy of N20 in AIS and EVT PROMISE",
+      "year": 2023,
+      "devices": "SSEP记录方案；非现售BraiN20完整验证",
+      "n": 223,
+      "analyzed": "110有N20 58无N20 55射频干扰不可评",
+      "design": "取栓前后记录N20 对照7天功能独立性",
+      "result": "取栓前N20预后敏感度93%；关联功能结局",
+      "meaning": "支持床旁N20功能监护和预后路线",
+      "reading": "本轮原始摘要及正文临床视角",
+      "keys": [
+        "promise"
+      ],
+      "boundary": "不等于定位所有卒中或决定家庭自行处置"
+    },
+    {
+      "id": "R12",
+      "area": "中风",
+      "title": "PROMISE20 Brain20 clinical validation protocol",
+      "year": 2023,
+      "devices": "BraiN20",
+      "n": null,
+      "analyzed": "会议试验方案 无可用最终结果",
+      "design": "计划评估设备自动N20及功能恢复预测",
+      "result": "本条为研究计划，不列成效果已证实",
+      "meaning": "建立具体设备与学术路线的映射",
+      "reading": "本轮会议方案摘要",
+      "keys": [
+        "promiseprotocol",
+        "promiseglobal"
+      ],
+      "boundary": "FDA许可与研究终点分开；不把计划样本算已入组"
+    },
+    {
+      "id": "R13",
+      "area": "中风",
+      "title": "EPISODE-PS-COVID Headpulse prehospital study",
+      "year": 2024,
+      "devices": "MindRhythm Harmony5000＋ECG",
+      "n": null,
+      "analyzed": "本轮未核实最终样本及排除",
+      "design": "疑似卒中院前记录Headpulse 评价LVO分类及部署",
+      "result": "原始摘要支持院前可行性研究存在；不摘未经复核准确率",
+      "meaning": "补充非EEG非光学的同场景产品思路",
+      "reading": "本轮论文摘要与官方技术公告",
+      "keys": [
+        "harmonypaper",
+        "harmony"
+      ],
+      "boundary": "突破性器械认定不等于上市许可"
+    },
+    {
+      "id": "R14",
+      "area": "银发",
+      "title": "Home PBM cognition perfusion and connectivity in dementia pilot",
+      "year": 2019,
+      "devices": "Vielight Neuro Gamma",
+      "n": 8,
+      "analyzed": "4干预4通常照护",
+      "design": "居家12周40Hz经颅及鼻内光照；认知及MRI等",
+      "result": "作者报告部分认知 灌注及连接指标变化",
+      "meaning": "支持家庭光照流程与照护者参与的先导案例",
+      "reading": "本轮摘要及厂商托管论文可检索内容",
+      "keys": [
+        "chao"
+      ],
+      "boundary": "很小样本 无假刺激；不是现售所有Gamma型号专属效果"
+    },
+    {
+      "id": "R15",
+      "area": "大众日间",
+      "title": "PBM for cognitive dysfunction in post-COVID pilot",
+      "year": 2025,
+      "devices": "Vielight Neuro RX Gamma v2",
+      "n": null,
+      "analyzed": "本轮未核实人数及最终主要终点数值",
+      "design": "随机双盲假刺激 8周干预 4周观察 认知任务综合终点",
+      "result": "研究方案和原始结果入口已公开；本表不摘未复核效应量",
+      "meaning": "脑雾人群有产品化研究切口，但不同于普通人午间疲劳",
+      "reading": "本轮预印本方法段落",
+      "keys": [
+        "longcovid"
+      ],
+      "boundary": "预印本；不作为普遍电子咖啡已成立的证据"
+    },
+    {
+      "id": "R16",
+      "area": "大众睡眠",
+      "title": "tPBM improves sleep quality in chronic insomnia RCT",
+      "year": 2025,
+      "devices": "前额810nm研究方案 商品型号未确认",
+      "n": 30,
+      "analyzed": "15真刺激15假刺激",
+      "design": "三天 每次10分钟 一周后测PSQI ESS及清醒EEG",
+      "result": "PSQI组间差-4.6分；ESS差-4.1分；前额delta变化",
+      "meaning": "短时光照助眠的直接研究入口",
+      "reading": "本轮PubMed完整摘要",
+      "keys": [
+        "pbminsomnia"
+      ],
+      "boundary": "未取得全文；不解读为一次照光立即恢复或睡眠分期改善"
+    },
+    {
+      "id": "R17",
+      "area": "大众睡眠及情绪",
+      "title": "Wearable self-administered tPBM for MDD and sleep RCT",
+      "year": 2025,
+      "devices": "可穿戴光照研究设备 品牌未映射",
+      "n": 48,
+      "analyzed": "随机1比1；本轮未复核逐终点人数",
+      "design": "至少每日20分钟8周 双盲假刺激 随访12周",
+      "result": "作者报告睡眠改善；未见明确组间抗抑郁获益",
+      "meaning": "同一产品应分开定义睡眠支持与情绪支持",
+      "reading": "本轮原始完整摘要",
+      "keys": [
+        "pbmguu"
+      ],
+      "boundary": "正式卷期2025 在线2024；不是Vielight型号证据"
+    },
+    {
+      "id": "R18",
+      "area": "婴幼儿",
+      "title": "Higher in-hospital breast milk intake and brain connectivity in preterm infants",
+      "year": 2025,
+      "devices": "慧创NirSmart 760／850nm",
+      "n": 106,
+      "analyzed": "文中报告最终97；排除9加5与最终分母存在文字不一致",
+      "design": "NICU观察性研究 比较母乳摄入比例与脑连接及神经量表",
+      "result": "报告母乳比例与部分连接及神经评估结果关联",
+      "meaning": "国内商用光学设备已经用于早产儿床旁功能研究",
+      "reading": "本轮正文方法与结果",
+      "keys": [
+        "hcinfant"
+      ],
+      "boundary": "非随机营养干预 非商品发育诊断准确性；样本分母保留原文冲突"
+    },
+    {
+      "id": "R19",
+      "area": "银发",
+      "title": "Resting-State Brain Network Characteristics Related to MCI",
+      "year": 2025,
+      "devices": "慧创NirScan8000 70通道",
+      "n": 172,
+      "analyzed": "89 MCI与83健康对照；60至85岁",
+      "design": "静息态静态及动态功能连接比较",
+      "result": "部分动态连接变异存在组间差异；与MoCA未见显著相关",
+      "meaning": "支持国产光学认知评估研究 不是训练后改善或通用个人评分",
+      "reading": "本轮正文方法 结果与讨论",
+      "keys": [
+        "hcmci"
+      ],
+      "boundary": "页面卷期2025 在线日期2026；文内部分相关方向叙述不一致，不摘取该系数"
+    },
+    {
+      "id": "R20",
+      "area": "银发及大众",
+      "title": "Mendi工作记忆负荷验证",
+      "year": 2024,
+      "devices": "P15",
+      "n": 35,
+      "analyzed": "电池问题剔除5人 最终30人",
+      "design": "同一参与者1 back与3 back；每条件两段3分钟",
+      "result": "困难任务HbO较高 d约0.50；正确率下降",
+      "meaning": "支持该版本在指定任务的群体差异；不能证明专注增强",
+      "reading": "前轮全文方法结果讨论；本轮场景重编",
+      "keys": [
+        "mendi2024"
+      ],
+      "boundary": "无训练干预 无个人实时分类验证；浅层噪声；论文765/856nm与当前官网660/805nm不一致"
+    },
+    {
+      "id": "R21",
+      "area": "银发及大众",
+      "title": "Mendi多任务认知负荷",
+      "year": 2024,
+      "devices": "P15",
+      "n": 31,
+      "analyzed": "1人数据质量问题 最终30人",
+      "design": "一台与三台iPad俄罗斯方块 同人比较",
+      "result": "三任务负荷高表现差但HbO更低；HbO与主观及表现相关不显著",
+      "meaning": "反驳血氧越高就越专注的通用单调映射",
+      "reading": "前轮全文方法结果讨论；本轮场景重编",
+      "keys": [
+        "mendi_multi"
+      ],
+      "boundary": "过载和投入下降是解释 未独立检验；大学生人群"
+    },
+    {
+      "id": "R22",
+      "area": "银发及评估",
+      "title": "Flow2脑指标重测可靠性",
+      "year": 2024,
+      "devices": "P17",
+      "n": 49,
+      "analyzed": "按特征质量控制；不将保留通道比例当全体准确率",
+      "design": "两次到访一周内 摘戴与交换设备；静息 听觉 Go No Go",
+      "result": "多项静息指标较稳定；可靠性依特征与区域变化",
+      "meaning": "支持短期重复测量部分指标；不证明长期健康变化",
+      "reading": "前轮全文方法结果讨论；本轮场景重编",
+      "keys": [
+        "kernel2024"
+      ],
+      "boundary": "仅浅表皮层 一周窗口；可靠不等于诊断有效；头发肤色需更系统检验"
+    },
+    {
+      "id": "R23",
+      "area": "大众睡眠",
+      "title": "Muse S与一级PSG睡眠验证",
+      "year": 2026,
+      "devices": "P29",
+      "n": 56,
+      "analyzed": "9人信号差剔除 最终47人 84%",
+      "design": "单夜实验室同时PSG；技师装配；PSG评分者盲于Muse结果；算法v2",
+      "result": "全夜κ0.76；深睡平均高估15.2分钟；类别准确率88至96%",
+      "meaning": "支持特定版本睡眠测量；不支持改善睡眠效果",
+      "reading": "前轮完整PDF方法结果讨论；本轮场景重编",
+      "keys": [
+        "muse_sleep"
+      ],
+      "boundary": "旧Muse S不是Athena fNIRS；类别准确率不等于整体多分类正确率；居家自行佩戴待证"
+    },
+    {
+      "id": "R24",
+      "area": "大众放松",
+      "title": "Muse六周正念主动对照试验",
+      "year": 2016,
+      "devices": "P30",
+      "n": 26,
+      "analyzed": "最终分析13对13；依从与任务表现筛选需注意",
+      "design": "每天10分钟6周；对照在线数学 非同内容假反馈",
+      "result": "总体反应速度与躯体症状改善；预期Stroop干扰交互p0.17；焦虑抑郁无特异改善",
+      "meaning": "支持组合初步线索 不支持广泛认知增强",
+      "reading": "前轮正文方法结果讨论；本轮场景重编",
+      "keys": [
+        "muse_rct"
+      ],
+      "boundary": "小样本；不能分离冥想与反馈；部分作者公司员工"
+    },
+    {
+      "id": "R25",
+      "area": "大众放松",
+      "title": "Muse短期放松增益对照",
+      "year": 2019,
+      "devices": "P30",
+      "n": 145,
+      "analyzed": "研究1入99完成96；研究2入46分析44",
+      "design": "交叉加平行两实验；实时反馈与静态平静声音；短时放松",
+      "result": "未显示反馈相对无反馈放松的额外短期生理收益",
+      "meaning": "不支持该实现的短期额外收益；不等于所有反馈无效",
+      "reading": "前轮正文方法结果讨论；本轮场景重编",
+      "keys": [
+        "muse_null"
+      ],
+      "boundary": "短期 不能排除长期训练；对照也提供声音；未预注册"
+    },
+    {
+      "id": "R26",
+      "area": "大众日间",
+      "title": "Enten EEG Focus白皮书",
+      "year": 2021,
+      "devices": "P31",
+      "n": 132,
+      "analyzed": "337会话45实验总量；单项硬件展示部分仅1人",
+      "design": "早期Enten；Stroop难易训练SVM 测其他分心任务；控制部分运动与肌电",
+      "result": "自报总体约80%±4.1%；跨任务与跨天示例",
+      "meaning": "支持原型与任务检测线索 不能转为当前8种指标准确率",
+      "reading": "前轮21页全文方法结果与附图；本轮场景重编",
+      "keys": [
+        "neurable_white"
+      ],
+      "boundary": "厂商白皮书 非独立同行评审；任务难度代理focus；非现款One；未证明提醒提高生产力"
+    },
+    {
+      "id": "R27",
+      "area": "银发及大众",
+      "title": "Sharp Mind组合方案白皮书",
+      "year": 2024,
+      "devices": "P16",
+      "n": 42,
+      "analyzed": "37男5女；比较组70人 非随机非盲",
+      "design": "平均54天 EEG反馈 HRV tPBM组合",
+      "result": "73%自报改善；反应时间等组内前后变化",
+      "meaning": "支持组合探索 不支持逆龄和单模块效果",
+      "reading": "前轮完整方法结果；本轮场景重编",
+      "keys": [
+        "sens_mind"
+      ],
+      "boundary": "练习 选择与期待效应；无模块消融；不证明逆转脑老化"
+    },
+    {
+      "id": "R28",
+      "area": "大众睡眠",
+      "title": "Sleep Nirvana组合方案白皮书",
+      "year": 2024,
+      "devices": "P16",
+      "n": 31,
+      "analyzed": "睡眠自报31人 认知结果28人；比较组70人",
+      "design": "约28天多种反馈加tPBM；非随机非盲低暴露比较 观察间隔不同",
+      "result": "自报77%睡眠改善；有部分任务指标前后变化",
+      "meaning": "支持可在家完成方案及探索线索；无法分离光刺激或闭环贡献",
+      "reading": "前轮完整方法结果与附录范围核对；本轮场景重编",
+      "keys": [
+        "sens_sleep"
+      ],
+      "boundary": "无睡眠PSG主要终点；非等剂量假刺激；组内显著与对照不显著不等于组间显著"
+    },
+    {
+      "id": "R29",
+      "area": "大众睡眠",
+      "title": "SLEEPFAST alpha相位锁定声音",
+      "year": 2024,
+      "devices": "P32",
+      "n": 21,
+      "analyzed": "最终分析21人；逐夜有效日志不同；不把夜数当人数",
+      "design": "居家随机顺序交叉4夜声音对4夜无声；评分者盲 参与者无法盲",
+      "result": "研究报告部分EEG入睡终点缩短；不采用宣传最大缩短值作平均效果",
+      "meaning": "支持该原型居家短期效果线索；锁相必要性需等声音非锁相对照",
+      "reading": "前轮正文方法及可核结果 更正已读；本轮场景重编",
+      "keys": [
+        "elemind_rct",
+        "elemind_corr"
+      ],
+      "boundary": "无声对照无法隔离普通声音收益；小样本短程；更正为图轴标签"
+    },
+    {
+      "id": "R30",
+      "area": "大众睡眠",
+      "title": "个体化tACS初步交叉研究",
+      "year": 2023,
+      "devices": "P33",
+      "n": 25,
+      "analyzed": "无刺激为未使用头带或App的夜晚 非随机假刺激；夜间异常值规则剔除",
+      "design": "两周随机固定与个体化频率周；每晚15分钟；Fitbit测睡眠",
+      "result": "个体化比固定多睡19分钟 SOL短6分钟；比无刺激夜多22分钟",
+      "meaning": "支持个体化相对固定初步线索；不证明实时闭环的必要性",
+      "reading": "前轮全文方法结果讨论；本轮场景重编",
+      "keys": [
+        "somnee_rct"
+      ],
+      "boundary": "无刺激夜无法比较SOL；感觉可察觉；不可推导比假刺激入睡快50%；非当前2.0完整验证"
+    },
+    {
+      "id": "R31",
+      "area": "大众睡眠",
+      "title": "个体化tES early findings",
+      "year": 2025,
+      "devices": "P33",
+      "n": null,
+      "analyzed": "人数与排除本轮未核实",
+      "design": "预印本或白皮书版；与现售型号映射待核",
+      "result": "保留作者报告方向；不摘录跨研究4倍2倍疗效作事实",
+      "meaning": "用于后续索取完整试验；不支持优于CBT I或药物的头对头结论",
+      "reading": "前轮摘要及官方引用 全文未取得；本轮场景重编",
+      "keys": [
+        "somnee_pre",
+        "somneescience"
+      ],
+      "boundary": "未完成全文审计；不同试验人群终点不可相除"
+    },
+    {
+      "id": "R32",
+      "area": "大众睡眠",
+      "title": "Easleep CES加音乐试验",
+      "year": 2025,
+      "devices": "P34",
+      "n": 90,
+      "analyzed": "三组各30；完整缺失处置与方案一致性仍待原始数据核查",
+      "design": "两周CES加双拍或粉噪对TAU；未盲；文中准随机与SAS随机描述并存",
+      "result": "组合组SOL下降大于对照；未显示总时长和深睡比例改善",
+      "meaning": "支持组合短期入睡线索；不能说所有型号闭环改善深睡",
+      "reading": "前轮正文方法结果讨论；本轮场景重编",
+      "keys": [
+        "easleep_rct"
+      ],
+      "boundary": "无音乐单独或CES单独对照；未验证CL CES自适应增益；回顾注册；随机描述不一致"
+    },
+    {
+      "id": "R33",
+      "area": "大众反馈",
+      "title": "消费EEG四设备对研究级对照",
+      "year": 2026,
+      "devices": "P36",
+      "n": 30,
+      "analyzed": "BrainLink头动1人排除；10人连接问题需重录；其他设备排除不同",
+      "design": "四消费设备加DSI24；眨眼咬牙 睁闭眼 头动前后与体验问卷",
+      "result": "BrainLink峰频差约0.24Hz；能测Alpha；消费者设备体验更好",
+      "meaning": "支持基础EEG与佩戴比较；不支持儿童学习效果",
+      "reading": "前轮正文方法结果讨论；本轮场景重编",
+      "keys": [
+        "brainlink_eval"
+      ],
+      "boundary": "头动前后恢复不是运动中无伪影；单通道；不验证专有专注分数或训练迁移"
+    },
+    {
+      "id": "R34",
+      "area": "大众情绪",
+      "title": "居家tDCS抑郁远程随机试验及FDA复核",
+      "year": 2024,
+      "devices": "P39",
+      "n": 174,
+      "analyzed": "87对87；FDA mITT173；不将开放期111人当随机样本",
+      "design": "10周双盲随机假刺激；每次30分钟2mA；远程监督",
+      "result": "论文active改善9.41 sham7.14；差约2.27分 CI0.51至4.01",
+      "meaning": "支持标签限定的居家抑郁治疗；不支持普通人提神或失眠用途",
+      "reading": "前轮可访问正文及35页FDA SSED相关章节；本轮场景重编",
+      "keys": [
+        "flow_rct",
+        "flowssed",
+        "flowfda"
+      ],
+      "boundary": "FDA指出破盲 未预设临床重要差值及文献冲突带来中度获益不确定性"
+    },
+    {
+      "id": "R35",
+      "area": "婴幼儿",
+      "title": "Development and emergence of functional network asymmetry in 3 to 9 month infants",
+      "year": 2022,
+      "devices": "慧创NirSmart",
+      "n": 66,
+      "analyzed": "35名3至6月与31名6至9月婴儿；最终排除未复核",
+      "design": "不同月龄婴儿静息脑网络比较",
+      "result": "原始研究将功能网络不对称与早期月龄发展联系",
+      "meaning": "国产设备已用于适龄功能网络研究，可作为任务与报告设计入口",
+      "reading": "本轮摘要及方法检索片段",
+      "keys": [
+        "hcasym"
+      ],
+      "boundary": "不是同一儿童长期随访，也不是已售体检套餐"
+    },
+    {
+      "id": "R36",
+      "area": "婴幼儿",
+      "title": "Speech response at 6 months and language outcomes at 24 months",
+      "year": 2020,
+      "devices": "Hitachi ETG4000",
+      "n": null,
+      "analyzed": "本轮未核实最终样本",
+      "design": "高低自闭症风险婴儿语音任务 与24月语言结局关联",
+      "result": "初步探索早期脑反应与后续语言结局关系",
+      "meaning": "成长随访可以围绕具体发育领域，不必输出泛化大脑分数",
+      "reading": "本轮摘要及设备方法片段",
+      "keys": [
+        "hitachipaper"
+      ],
+      "boundary": "探索关联，不等于个体语言问题的成熟预测服务"
+    },
+    {
+      "id": "R37",
+      "area": "大众及远程服务",
+      "title": "Remote neurofeedback preliminary real-world evidence",
+      "year": 2022,
+      "devices": "Myndlift＋Muse及辅助湿电极",
+      "n": 593,
+      "analyzed": "560纳入；各问卷 认知和EEG终点分母不同",
+      "design": "13岁以上 至少20次训练 单组回顾性前后比较",
+      "result": "作者报告部分症状及任务改善；EEG部分指标变化",
+      "meaning": "提供远程服务实际运作与用户数据参照",
+      "reading": "本轮正文方法 结果与讨论相关段落",
+      "keys": [
+        "myndliftpaper"
+      ],
+      "boundary": "无随机对照；不是银发专属试验，不将所有使用者说成居家用户"
+    },
+    {
+      "id": "R38",
+      "area": "银发",
+      "title": "Distinguishing SCD and MCI with resting prefrontal FC",
+      "year": 2025,
+      "devices": "OBELAB NIRSIT 48前额通道",
+      "n": null,
+      "analyzed": "本轮未复核最终人数及排除",
+      "design": "静息五分钟 前额连接配合神经心理测验与机器学习",
+      "result": "研究探索SCD和MCI筛分；本表不摘未复核分类数值",
+      "meaning": "给银发阶段评估提供局部光学设备与流程参照",
+      "reading": "本轮摘要及正文设备方法",
+      "keys": [
+        "obelabpaper"
+      ],
+      "boundary": "指标研究，不代表设备能改善认知或已经形成标准筛查服务"
+    }
+  ],
+  "cards": [
+    {
+      "id": "O1",
+      "name": "婴幼儿大脑体检与成长随访",
+      "user": "早产儿出院后随访家庭，以及关注婴幼儿发育的家庭",
+      "buyer": "先由医院新生儿随访门诊与儿童保健中心采购；月子中心可作为合作获客和随访预约渠道",
+      "reason": "将分散的检查和成长记录组织成连续服务，让家长理解孩子在相应年龄阶段的功能反应及变化",
+      "form": "婴儿专用光电帽＋适龄声音及视觉任务＋机构端采集质控＋纵向报告",
+      "flow": "预约并录入校正年龄与既往资料；匹配帽型；睡眠或安静清醒下采集；完成适龄任务；生成可解释记录；安排下一次随访",
+      "business": "机构设备销售或租赁＋按次报告／服务费＋随访软件年费；合作方按当地实际服务资质承接对应环节",
+      "tech": "HD-DOT提供可及皮层空间血氧信息；EEG记录电活动与睡眠／事件背景；融合报告需解释两类信息如何共同描述功能",
+      "borrow": "LUMO与PIPKIN的年龄化任务及多次到访；Natus事件与趋势输出；INVOS和Masimo的医院集成与耗材",
+      "stage": "已有成像、监护和成长队列先例；本轮未找到已规模化、面向健康婴儿的HD-DOT＋EEG定期体检连锁套餐",
+      "decision": "保留为正式产品线。产品创意集中在年龄化服务与随访报告，不以一张脑图或智商分数作为交付物。",
+      "keys": [
+        "infant24",
+        "pipkin",
+        "natus",
+        "visheeannual"
+      ],
+      "products": [
+        "P01",
+        "P03",
+        "P04",
+        "P08",
+        "P09",
+        "P11"
+      ]
+    },
+    {
+      "id": "O2",
+      "name": "银发脑力训练与大脑健身房",
+      "user": "生活基本独立、愿意参加持续认知活动的中老年人；认知障碍康复另设服务层级",
+      "buyer": "养老社区 老年大学 社区健康中心及康养连锁；家庭或机构会员支付课程费用",
+      "reason": "提供有陪伴、适龄、有进阶的脑力活动，以及连续的练习进展；机构获得可持续开班的服务",
+      "form": "头戴设备＋平板任务＋讲师课程＋机构会员后台；阶段性光电评估与日常轻量训练可采用不同配置",
+      "flow": "入班任务评估；分配记忆 注意及执行功能课程；以任务表现为基础调整难度；选定环节加入脑信号反馈；定期复盘与课程续订",
+      "business": "机构设备／租赁＋讲师培训＋课程软件订阅＋会员课包；后续可衔接家庭练习",
+      "tech": "HD-DOT用于阶段性功能图及任务反应；EEG参与部分游戏反馈。课程收益来自实际练习，不能仅把脑记录当成训练",
+      "borrow": "Neeuro的社区交付与季度后台；脑力欣的机构端定位；Kernel的标准任务和年龄化报告",
+      "stage": "四块中已找到最接近完整机构课程模式的实例；但HD-DOT对最佳轻量方案的增益不能由课程存在自动推得",
+      "decision": "保留为正式产品线。先让课程、讲师与会员服务构成完整购买理由，再决定哪些环节需要全头光电帽。",
+      "keys": [
+        "neeuro",
+        "neeurostudy",
+        "brainco25",
+        "kerneltrack"
+      ],
+      "products": [
+        "P13",
+        "P14",
+        "P16",
+        "P17",
+        "P18"
+      ]
+    },
+    {
+      "id": "O3",
+      "name": "中风快速识别与定位辅助",
+      "user": "出现疑似卒中症状、处于救护车或急诊流程中的患者",
+      "buyer": "急救中心 卒中中心 区域医疗集团及设备采购方；家庭版保留为后续形态",
+      "reason": "在影像检查前或转运途中提供快速功能信息，帮助分流与接收医院准备；入院后可增加连续功能监测",
+      "form": "专用快速佩戴头套＋便携主机＋一次性接触件＋接收医院数据连接；分流输出与区域异常图分层呈现",
+      "flow": "救护人员按步骤安装；快速确认信号；短时采集；形成分流辅助信息；同步医院；必要时床旁继续记录",
+      "business": "设备及维护合同＋耗材＋区域急救系统集成；采购理由围绕转运与诊疗流程的具体作用",
+      "tech": "EEG提供快速电活动及双侧差异；HD-DOT提供可及皮层区域血氧图。散斑血流路线测量对象不同，不能直接挪用其性能",
+      "borrow": "ELECTRA的救护人员操作；Openwater的短扫描与单一问题；BraiN20的专用指标和一次性电极",
+      "stage": "已有患者研究及特定监护许可；未找到可由我们现路线直接宣称的全脑病灶定位家用帽",
+      "decision": "保留急救方向，产品首版定位院前分流与区域功能异常辅助。精确病灶定位单列功能，不混在同一个成熟度描述中。",
+      "keys": [
+        "electra",
+        "openwaterpaper",
+        "brain20fda"
+      ],
+      "products": [
+        "P21",
+        "P22",
+        "P23",
+        "P24",
+        "P27"
+      ]
+    },
+    {
+      "id": "O4",
+      "name": "大众脑状态恢复与提升",
+      "user": "脑力工作后疲惫、睡前难以放松、或希望获得日常情绪支持的人群；具体功能分别对应使用者",
+      "buyer": "个人消费者；可经企业健康 福利平台 睡眠服务及线下恢复空间触达",
+      "reason": "购买一次清楚的恢复体验：午间缓一缓、睡前容易进入休息状态，或在低落时获得支持",
+      "form": "共享舒适头戴平台与App；日间恢复 睡前支持 情绪支持三个独立程序；读取和刺激模块按用途配置",
+      "flow": "选目标和时长；短时状态采集；进入声音／呼吸引导／反馈或专门刺激程序；结束后给主观体验与可解释记录；适时提醒复用",
+      "business": "硬件＋程序内容会员；线下恢复体验可按次收费并导向家庭设备；刺激或医疗产品按对应地区渠道单列",
+      "tech": "EEG可用于状态识别及声音时序；HD-DOT可用于特定任务或前后反应观察；真正的光刺激属于独立tPBM设计，不由成像光源自动获得",
+      "borrow": "Muse的内容与软头带；Elemind的单一睡前入口；Somnee的用后取下；Sens.ai的课程包装；Vielight的简单光照流程",
+      "stage": "睡眠和放松已有多类现售产品；电子咖啡式即时恢复的同路线完整产品证据较少；情绪方向已有Flow这类明确疗程商业路径",
+      "decision": "保留一个大众平台和三个功能子场景。先定义每次使用的具体体验，分别说明由读取、内容、反馈还是刺激产生作用。",
+      "keys": [
+        "museathena",
+        "elemindnow",
+        "somnee",
+        "sensnow",
+        "pbminsomnia",
+        "flowletter"
+      ],
+      "products": [
+        "P29",
+        "P30",
+        "P31",
+        "P32",
+        "P33",
+        "P34",
+        "P35",
+        "P37",
+        "P39"
+      ]
+    }
+  ],
+  "hubinResearch": {
+    "updated": "2026-11-14",
+    "papers": [
+      {
+        "id": "HZ051",
+        "title": "Design and validation of a mechanically flexible and ultra-lightweight high-density diffuse optical tomography system for functional neuroimaging of newborns",
+        "year": "2021",
+        "doi": "10.1117/1.nph.8.1.015011",
+        "authors": "Hubin Zhao; Elisabetta M. Frijia; Ernesto Vidal Rosas; Liam Collins-Jones; Greg Smith; Reuben Nixon-Hill; Samuel Powell; Nicholas L. Everdell; Robert J. Cooper",
+        "venue": "Neurophotonics",
+        "primary": "https://doi.org/10.1117/1.nph.8.1.015011",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995199/",
+        "short": "柔性、超轻量新生儿 HD-DOT",
+        "role": "第一作者、通讯作者",
+        "kind": "硬件与头模验证",
+        "reading": "正文相关方法、结果与作者通信信息；本轮复核公开全文",
+        "signal": "CW HD-DOT；局部新生儿柔性阵列",
+        "sample": "动态新生儿头模；本篇没有真人新生儿效果样本",
+        "result": "70g局部系统；在动态头模上验证成像与定位。",
+        "supports": "婴儿帽的轻量化、贴合和模块化结构有直接研究基础。",
+        "limits": "70g对应特定局部配置；不外推为全头帽重量，也不证明成长筛查、智力预测或诊断。",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995199/",
+        "keys": [
+          "hz_hz051"
+        ],
+        "pdf": "../publications/PDF/2021_neonatal_flexible_HD-DOT.pdf"
+      },
+      {
+        "id": "HZ031",
+        "title": "Low-cost, smartphone-based instant three-dimensional registration system for infant functional near-infrared spectroscopy applications",
+        "year": "2023",
+        "doi": "10.1117/1.nph.10.4.046601",
+        "authors": "Yunjia Xia; Kui Wang; Addison Billing; Matthew Billing; Robert J. Cooper; Hubin Zhao",
+        "venue": "Neurophotonics",
+        "primary": "https://doi.org/10.1117/1.nph.10.4.046601",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10593123/",
+        "short": "婴儿光极的快速三维定位",
+        "role": "通讯作者",
+        "kind": "配准与工作流验证",
+        "reading": "公开全文摘要、配准方法与结果、作者信息",
+        "signal": "手机多视角三维扫描；属于空间配准工具",
+        "sample": "6月龄婴儿扫描演示；1.8mm定位误差来自静态仿真婴儿头模",
+        "result": "展示约2秒头部扫描；静态头模的光极位置平均误差1.8mm。",
+        "supports": "支持将帽上光极位置记录纳入婴儿采集流程。",
+        "limits": "扫描时间不等于完整服务耗时；头模误差不等于所有活动婴儿的定位表现。",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10593123/",
+        "keys": [
+          "hz_hz031"
+        ]
+      },
+      {
+        "id": "HZ009",
+        "title": "Simultaneous Mental Fatigue and Mental Workload Assessment With Wearable High-Density Diffuse Optical Tomography",
+        "year": "2025",
+        "doi": "10.1109/tnsre.2025.3551676",
+        "authors": "Jianan Chen; Huixin Yang; Yunjia Xia; Tingchen Gong; Alexander Thomas; Jia Liu; Wei Chen; Tom Carlson; Hubin Zhao",
+        "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "primary": "https://doi.org/10.1109/tnsre.2025.3551676",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270415/",
+        "short": "心智疲劳与任务负荷同步评估",
+        "role": "通讯作者",
+        "kind": "任务状态分类研究",
+        "reading": "全文方法、模型验证、结果与讨论；作者通信信息已复核",
+        "signal": "Gowerlabs LUMO，12模块前额配置；HD-DOT，无同步EEG融合实验",
+        "sample": "24名20–30岁健康右利手成人；任务负荷分析排除1人的受伪迹污染数据",
+        "result": "个体内五折验证：随机森林疲劳二分类平均95.14%，四种n-back任务分类97.93%。",
+        "supports": "为认知任务、疲劳诱发协议、行为与血氧联合记录提供直接研究基础。",
+        "limits": "不能写成陌生用户实时识别率；没有跨天／老年人验证，没有恢复、助眠或刺激疗效比较。",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270415/",
+        "keys": [
+          "hz_hz009"
+        ]
+      },
+      {
+        "id": "HZ043",
+        "title": "Wearable, Integrated EEG–fNIRS Technologies: A Review",
+        "year": "2021",
+        "doi": "10.3390/s21186106",
+        "authors": "Julie Uchitel; Ernesto E. Vidal-Rosas; Robert J. Cooper; Hubin Zhao",
+        "venue": "Sensors",
+        "primary": "https://doi.org/10.3390/s21186106",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8469799/",
+        "short": "可穿戴 EEG–fNIRS 集成路线",
+        "role": "通讯作者",
+        "kind": "技术综述",
+        "reading": "出版社全文的摘要、集成技术章节与作者信息",
+        "signal": "综述多类EEG–fNIRS集成系统；没有单一受试设备",
+        "sample": "综述，非本团队新产品的人体试验",
+        "result": "梳理电极、光学器件、前端电路、机械集成和可穿戴设计。",
+        "supports": "团队对光电同机及佩戴设计具有系统研究积累。",
+        "limits": "综述他人设备不等于拥有全部实现；不构成你们整机融合增益或临床效果验证。",
+        "source": "https://www.mdpi.com/1424-8220/21/18/6106",
+        "keys": [
+          "hz_hz043"
+        ]
+      },
+      {
+        "id": "HZ008",
+        "title": "Wearable technologies for assisted mobility in the real world",
+        "year": "2025",
+        "doi": "10.1038/s41467-025-67126-4",
+        "authors": "Shuo Gao; Jianan Chen; Yunjia Xia; Xuemeng Li; Weihao Ma; Huixin Yang; Jinchen Li; Xinkai Zhou; Tianyu Jia; Yuchen Xu; Julie Uchitel; Dean Ta; Peng Qi; Junbo Ge; Yi Guo; Yajie Qin; Inseung Kang; Wenyao Xu; He Li; Jinke Chang; Siming Zuo; Shiwei Wang; Shan Luo; Letizia Gionfrida; Chen Hu; Shuqin Dong; Yongxin Guo; Yixuan Yuan; Haixia Zhang; Haotian Chen; Yu Pan; Chenyun Dai; Qinyuan Ren; Rui Loureiro; Tom Carlson; Wei Chen; Yuanting Zhang; Panicos Kyriacou; Hadi Heidari; Kia Nazarpour; Themis Prodromakis; Alexander Casson; Tamar R. Makin; Gert Cauwenberghs; Dario Farina; Hubin Zhao",
+        "venue": "Nature Communications",
+        "primary": "https://doi.org/10.1038/s41467-025-67126-4",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12689786/",
+        "short": "真实生活中的辅助移动技术",
+        "role": "共同作者；末位署名",
+        "kind": "观点文章（Perspective）",
+        "reading": "出版社文章类型、摘要及作者表；未逐项复核所有引文",
+        "signal": "跨可穿戴、辅助交互与多模态感知的观点综述",
+        "sample": "观点文章，非银发脑力训练干预试验",
+        "result": "讨论可穿戴感知与辅助移动系统进入真实环境的方向。",
+        "supports": "为机构服务的人机交互、适应性与用户参与设计提供背景。",
+        "limits": "不能作为老年课程效果、认知改善或光电帽临床收益的直接证据。",
+        "source": "https://www.nature.com/articles/s41467-025-67126-4",
+        "keys": [
+          "hz_hz008"
+        ]
+      },
+      {
+        "id": "HZ034",
+        "title": "fNIRS-EEG BCIs for Motor Rehabilitation: A Review",
+        "year": "2023",
+        "doi": "10.3390/bioengineering10121393",
+        "authors": "Jianan Chen; Yunjia Xia; Xinkai Zhou; Ernesto Vidal Rosas; Alexander Thomas; Rui Loureiro; Robert J. Cooper; Tom Carlson; Hubin Zhao",
+        "venue": "Bioengineering",
+        "primary": "https://doi.org/10.3390/bioengineering10121393",
+        "oa": "https://eprints.soton.ac.uk/489133/1/bioengineering-10-01393.pdf",
+        "short": "光电融合脑机接口与运动康复",
+        "role": "通讯作者",
+        "kind": "应用综述",
+        "reading": "出版社全文摘要、脑机系统及康复相关章节、作者表",
+        "signal": "fNIRS、EEG及混合BCI；汇总不同设备研究",
+        "sample": "综述，非本团队新开展的卒中急救或疗效试验",
+        "result": "梳理混合BCI在运动控制、反馈与康复中的研究。",
+        "supports": "为康复训练及反馈系统设计提供知识基础。",
+        "limits": "运动康复不等于急性卒中识别；综述不能证明院前分流、病灶定位或当前产品疗效。",
+        "source": "https://www.mdpi.com/2306-5354/10/12/1393",
+        "keys": [
+          "hz_hz034"
+        ]
+      },
+      {
+        "id": "HZ021",
+        "title": "Temporal Dynamics and Physical Priori Multimodal Network for Rehabilitation Physical Training Evaluation",
+        "year": "2024",
+        "doi": "10.1109/jbhi.2024.3414291",
+        "authors": "Shuo Gao; Jianan Chen; Xuhang Chen; Julie Uchitel; Chenyu Tang; Cong Li; Yu Pan; Hubin Zhao",
+        "venue": "IEEE Journal of Biomedical and Health Informatics",
+        "primary": "https://doi.org/10.1109/jbhi.2024.3414291",
+        "oa": "",
+        "short": "康复动作评估的多模态算法",
+        "role": "通讯作者",
+        "kind": "人体任务与算法验证",
+        "reading": "高校接受稿首页、摘要及作者通信信息；未精读全部方法",
+        "signal": "表面肌电 sEMG＋应力分布；不是EEG／HD-DOT",
+        "sample": "摘要报告24名受试者；细分人群与排除待全文复核",
+        "result": "学习性废用评估任务报告94.7%准确率。",
+        "supports": "展示康复场景的多传感器融合与评估算法经验。",
+        "limits": "不能把肌电融合的结果移作光电融合增益，更不支持中风快速识别。",
+        "source": "https://discovery.ucl.ac.uk/id/eprint/10195046/",
+        "keys": [
+          "hz_hz021"
+        ]
+      },
+      {
+        "id": "HZ003",
+        "title": "An AI-Driven Multimodal Smart Home Platform for Continuous Monitoring and Assistance in Post-Stroke Motor Impairment",
+        "year": "2026",
+        "doi": "10.1109/tnsre.2025.3645093",
+        "authors": "Chenyu Tang; Ruizhi Zhang; Shuo Gao; Zihe Zhao; Zibo Zhang; Jiaqi Wang; Cong Li; Junliang Chen; Yanning Dai; Shengbo Wang; Ruoyu Juan; Qiaoying Li; Ruimou Xie; Xuhang Chen; Xinkai Zhou; Yunjia Xia; Jianan Chen; Fanghao Lu; Xin Li; Ningli Wang; Peter Smielewski; Yu Pan; Hubin Zhao; Luigi G. Occhipinti",
+        "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "primary": "https://doi.org/10.1109/tnsre.2025.3645093",
+        "oa": "",
+        "short": "卒中后的居家监测与智能辅助",
+        "role": "共同通讯作者",
+        "kind": "康复场景系统研究",
+        "reading": "高校接受稿首页、摘要、作者通信信息；未精读全部方法",
+        "signal": "足底压力、可选眼动、环境传感与LLM辅助；非HD-DOT卒中检测",
+        "sample": "摘要的满意度比较n=20；其他子任务样本未在本轮完整核对",
+        "result": "实现居家运动恢复评估、家居交互和提醒辅助的系统研究。",
+        "supports": "团队研究已涉及实际康复场景的传感器、软件与服务整合。",
+        "limits": "针对卒中后生活辅助，不是院前卒中检测；不将满意度或步态分类当脑成像诊断效能。",
+        "source": "https://repository.kaust.edu.sa/bitstreams/091f44c6-4751-4ed9-accc-38f6c853ab63/download",
+        "keys": [
+          "hz_hz003"
+        ]
+      },
+      {
+        "id": "HZ023",
+        "title": "Mental Fatigue Classification with High-Density Diffuse Optical Tomography: A Feasibility Study",
+        "year": "2024",
+        "doi": "10.1109/embc53108.2024.10782566",
+        "authors": "Jianan Chen; Yunjia Xia; Alexander Thomas; Tom Carlson; Hubin Zhao",
+        "venue": "2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+        "primary": "https://doi.org/10.1109/embc53108.2024.10782566",
+        "oa": "",
+        "short": "HD-DOT 心智疲劳可行性研究",
+        "role": "共同作者",
+        "kind": "会议论文",
+        "reading": "本人ORCID、DOI及2025期刊论文的引用关系；本轮未精读会议全文",
+        "signal": "HD-DOT 疲劳分类研究",
+        "sample": "本轮未独立核对会议论文样本，不套用2025期刊样本",
+        "result": "公开书目可确认2024年已有疲劳分类可行性研究。",
+        "supports": "显示疲劳方向的连续研究脉络。",
+        "limits": "不与2025期刊工作算作两项独立人群复制；具体样本关系仍需复核。",
+        "source": "https://doi.org/10.1109/EMBC53108.2024.10782566",
+        "keys": [
+          "hz_hz023"
+        ]
+      },
+      {
+        "id": "HZ019",
+        "title": "A Deep-Learning Empowered, Real-Time Processing Platform of fNIRS/DOT for Brain Computer Interfaces and Neurofeedback",
+        "year": "2025",
+        "doi": "10.1109/tnsre.2025.3553794",
+        "authors": "Yunjia Xia; Jianan Chen; Jinchen Li; Tingchen Gong; Ernesto E. Vidal-Rosas; Rui Loureiro; Robert J. Cooper; Hubin Zhao",
+        "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "primary": "https://doi.org/10.1109/tnsre.2025.3553794",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270413/",
+        "short": "fNIRS／DOT 实时处理平台",
+        "role": "共同作者；末位署名",
+        "kind": "算法与处理链路验证",
+        "reading": "UCL作者记录与摘要；本轮未重新精读已下载全文",
+        "signal": "光学基线校准、DAE运动伪迹校正、预计算矩阵三维重建",
+        "sample": "全头HD-DOT训练数据；独立运动想象数据加入人工伪迹测试",
+        "result": "研究可实时处理约750通道的光学数据与成像链路。",
+        "supports": "为多通道质量处理、反馈显示和机构工作流提供算法基础。",
+        "limits": "处理速度不改变血氧反应本身的延迟；不证明融合、刺激、恢复或整机ASIC已完成。",
+        "source": "https://discovery.ucl.ac.uk/id/eprint/10219919/",
+        "keys": [
+          "hz_hz019"
+        ],
+        "pdf": "../publications/PDF/2025_realtime_processing.pdf"
+      },
+      {
+        "id": "HZ025",
+        "title": "An Ultralow-Power Real-Time Machine Learning Based fNIRS Motion Artifacts Detection",
+        "year": "2024",
+        "doi": "10.1109/tvlsi.2024.3356161",
+        "authors": "Renas Ercan; Yunjia Xia; Yunyi Zhao; Rui Loureiro; Shufan Yang; Hubin Zhao",
+        "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+        "primary": "https://doi.org/10.1109/tvlsi.2024.3356161",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11100859/",
+        "short": "低功耗运动伪迹检测",
+        "role": "共同作者；末位署名",
+        "kind": "算法／硬件研究",
+        "reading": "本人ORCID、论文书目信息与此前核对记录；本轮未重新精读全文",
+        "signal": "fNIRS运动伪迹检测及硬件实现",
+        "sample": "不是疲劳状态分类或消费者干预试验",
+        "result": "研究以低功耗实现运动伪迹识别的处理模块。",
+        "supports": "为有效信号提示和便携设备端侧处理提供技术积累。",
+        "limits": "伪迹识别率不是精神状态识别率；电路功耗不等于整机续航或整机功耗。",
+        "source": "https://doi.org/10.1109/TVLSI.2024.3356161",
+        "keys": [
+          "hz_hz025"
+        ]
+      },
+      {
+        "id": "HZ056",
+        "title": "A wide field-of-view, modular, high-density diffuse optical tomography system for minimally constrained three-dimensional functional neuroimaging",
+        "year": "2020",
+        "doi": "10.1364/boe.394914",
+        "authors": "Hubin Zhao; Sabrina Brigadoi; Danial Chitnis; Enrico De Vita; Marco Castellaro; Samuel Powell; Nicholas L. Everdell; Robert J. Cooper",
+        "venue": "Biomedical Optics Express",
+        "primary": "https://doi.org/10.1364/boe.394914",
+        "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7449732/",
+        "short": "宽视场模块化可穿戴 HD-DOT",
+        "role": "第一作者",
+        "kind": "硬件及人体功能成像",
+        "reading": "UCL作者记录、摘要；本轮未重新精读已下载全文",
+        "signal": "无光纤、多距离、模块化CW HD-DOT；含运动感知",
+        "sample": "包含行走及手机任务的人体功能成像；本轮未重新核对人数",
+        "result": "展示相对少受约束的运动条件下的皮层功能成像。",
+        "supports": "可穿戴光学成像的核心工程研究；与Gowerlabs／UCL技术脉络直接相关。",
+        "limits": "合作研究不自动等于公司独占IP；不直接证明EEG融合或消费者收益。",
+        "source": "https://discovery.ucl.ac.uk/id/eprint/10110076/",
+        "keys": [
+          "hz_hz056"
+        ],
+        "pdf": "../publications/PDF/2020_modular_HD-DOT.pdf"
+      },
+      {
+        "id": "HZ005",
+        "title": "A Miniaturized and Modular FD-fNIRS Technology: Hardware Development and In Vitro Evaluation",
+        "year": "2026",
+        "doi": "10.1109/tim.2026.3677974",
+        "authors": "Xinkai Zhou; Qiao He; Xuanyu Liang; Jianan Chen; Jiang Wu; Hubin Zhao",
+        "venue": "IEEE Transactions on Instrumentation and Measurement",
+        "primary": "https://doi.org/10.1109/tim.2026.3677974",
+        "oa": "https://discovery.ucl.ac.uk/id/eprint/10225451/",
+        "short": "小型化、模块化 FD-fNIRS 硬件",
+        "role": "共同作者；末位署名",
+        "kind": "硬件与体外评估",
+        "reading": "UCL作者记录、摘要及开放稿状态；未精读全部正文",
+        "signal": "频域FD-fNIRS；与连续波CW HD-DOT分别标记",
+        "sample": "组织仿真体／体外评估；不是人体功能或疗效研究",
+        "result": "提出使用商用元器件的小型化模块架构并进行仿真体评估。",
+        "supports": "团队研究覆盖频域硬件，说明技术储备并不限于连续波路线。",
+        "limits": "不能把FD论文参数与CW产品参数拼接；你们当前帽子是否集成该方案仍需确认。",
+        "source": "https://discovery.ucl.ac.uk/id/eprint/10225451/",
+        "keys": [
+          "hz_hz005"
+        ],
+        "pdf": "../publications/PDF/2026_FD-fNIRS_accepted.pdf"
+      }
+    ],
+    "shared": [
+      "HZ056",
+      "HZ043",
+      "HZ025",
+      "HZ019",
+      "HZ005"
+    ],
+    "bibliography": "../publications/赵湖斌作品阅读目录.html",
+    "directions": {
+      "infant": {
+        "level": "直接相关：设备与采集工作流",
+        "summary": "婴幼儿方向有赵教授第一及通讯作者的设备研究，以及通讯作者的快速配准研究。已发表工程积累可以支撑产品开发；年龄参考、纵向报告与临床筛查另行验证。",
+        "papers": [
+          "HZ051",
+          "HZ031"
+        ],
+        "translation": [
+          [
+            "柔性、轻量化原型",
+            "按头围与覆盖区域开发婴儿帽",
+            "核对当前整机、帽重、有效通道与可用数据率"
+          ],
+          [
+            "光极空间配准",
+            "把光极位置留档纳入服务流程",
+            "活动婴儿实测定位、操作时间与失败率"
+          ],
+          [
+            "从单次采集到成长随访",
+            "建立同龄任务与可比较的多次记录",
+            "常模、跨次重测及报告对临床／家长的实际价值"
+          ]
+        ],
+        "gap": "尚不能由这些论文推出健康婴儿常规“大脑体检”、发育异常分类或未来智力预测已成立。"
+      },
+      "senior": {
+        "level": "可迁移基础：任务评估与系统集成",
+        "summary": "已有疲劳／负荷评估和光电集成知识可用于设计银发阶段评估，但主要直接实验来自年轻成人。辅助移动观点文章作为服务设计背景单列。",
+        "papers": [
+          "HZ009",
+          "HZ043",
+          "HZ008"
+        ],
+        "translation": [
+          [
+            "认知任务与状态评估",
+            "课程前后保留行为与脑反应记录",
+            "在目标老年人中检验可采集性、重测与解释性"
+          ],
+          [
+            "集成式光电采集",
+            "为阶段性评估设计一套佩戴流程",
+            "比较行为基线、EEG、光学与融合是否改变课程决策"
+          ],
+          [
+            "真实环境辅助技术经验",
+            "适龄界面、讲师流程与持续服务",
+            "验证课程收益及留存；不只追求脑信号分数"
+          ]
+        ],
+        "gap": "本轮重点核对的赵教授论文中，没有直接证明这套光电帽改善老年认知或预防痴呆的干预试验。"
+      },
+      "stroke": {
+        "level": "相邻证据：康复与居家辅助",
+        "summary": "赵教授署名研究涵盖运动康复、肌电融合及卒中后居家系统。这些积累应进入产品地图，但与本方向的“急性中风快速识别与定位辅助”分开。",
+        "papers": [
+          "HZ034",
+          "HZ021",
+          "HZ003"
+        ],
+        "translation": [
+          [
+            "混合BCI康复综述",
+            "可探索急性期之后的训练反馈",
+            "建立本产品自身的患者研究与适用人群"
+          ],
+          [
+            "肌电＋应力分布评估",
+            "借鉴多模态算法与临床任务设计",
+            "不把不同传感器的增益直接迁移成EEG＋HD-DOT增益"
+          ],
+          [
+            "卒中后居家辅助系统",
+            "可另设出院后的长期服务模块",
+            "明确康复服务与院前急救两条流程、终点和商业路径"
+          ]
+        ],
+        "gap": "本轮未找到赵教授署名、直接验证这套光电设备院前卒中识别、LVO分流或病灶定位性能的临床研究；保留为待验证方向。"
+      },
+      "restore": {
+        "level": "直接相关：疲劳识别；恢复效果待验证",
+        "summary": "心智疲劳是四方向中与赵教授现有任务研究直接对应的场景之一。论文支持状态评估与处理链路，可以作为恢复程序的测量基础；程序能否带来收益需要独立比较。",
+        "papers": [
+          "HZ009",
+          "HZ023",
+          "HZ019"
+        ],
+        "translation": [
+          [
+            "疲劳与任务负荷研究",
+            "明确区分“累了”与“任务更难”",
+            "先复制任务内结果，再检验跨天和自然工作场景"
+          ],
+          [
+            "行为＋主观量表＋HD-DOT",
+            "用多类记录评估一次休息前后的变化",
+            "加入无设备休息等合理对照，避免自然恢复被算作设备效果"
+          ],
+          [
+            "实时处理平台",
+            "减少等待、保留质量标记并给出反馈",
+            "分别验证测量、声音／内容、刺激及闭环的独立作用"
+          ]
+        ],
+        "gap": "已有证据集中在读取与分类；不能据此写成已验证“电子咖啡”、即时恢复、助眠或光刺激改善情绪。"
+      }
+    },
+    "attribution": [
+      {
+        "title": "2021 新生儿柔性HD-DOT",
+        "status": "赵教授本人署名：第一及通讯作者",
+        "reason": "硬件与动态头模验证；不是婴儿发育效果试验。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995199/"
+      },
+      {
+        "title": "2024 婴儿全头视听成像",
+        "status": "外部同路线研究：赵教授不在作者表",
+        "reason": "保留为婴儿真人成像的参照，不归为赵教授本人论文。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12272203/"
+      },
+      {
+        "title": "2025 PIPKIN 随访方案",
+        "status": "外部研究方案：赵教授不在作者表",
+        "reason": "借鉴纵向随访设计；不作为他的个人成果或已完成疗效。",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330915"
+      },
+      {
+        "title": "2025 疲劳／负荷分类",
+        "status": "赵教授本人署名：通讯作者",
+        "reason": "LUMO光学数据的个体内分类；不是自研帽整机或EEG融合验证。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270415/"
+      },
+      {
+        "title": "2024 ICRA 轮椅VR训练",
+        "status": "相关团队作品：公开作者表无赵教授",
+        "reason": "不因课题组网页收录，就计为其个人论文。",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10188527/"
+      },
+      {
+        "title": "2024 SPIE 心智监测报告",
+        "status": "归属／状态待核实",
+        "reason": "会议日程标注取消；未据此添加为完成发表的本人论文。",
+        "url": "https://spie.org/documents/ConferencesExhibitions/Programs/2024/SPIE-Photonics-West-2024-Technical-Program.pdf"
+      }
+    ]
+  }
+}

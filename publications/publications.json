@@ -1,0 +1,2483 @@
+[
+  {
+    "title": "Integrating Multi-Task Eye Tracking and Interpretable Machine Learning for High-Accuracy Screening of Amblyopia in Pediatric Populations",
+    "year": "2026",
+    "date": "2026",
+    "type": "journal-article",
+    "doi": "10.3390/jemr19020026",
+    "authors": "Xiumei Song; Yunhan Zhang; Hongyu Chen; Chenyu Tang; Bohan Yao; Hubin Zhao; Luigi G. Occhipinti; Arokia Nathan; Changbin Zhai; Shuo Gao",
+    "venue": "Journal of Eye Movement Research",
+    "links": [
+      "https://www.mdpi.com/1995-8692/19/2/26"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13010743/",
+    "sources": [
+      "https://www.mdpi.com/1995-8692/19/2/26",
+      "https://api.crossref.org/works/10.3390/jemr19020026"
+    ],
+    "notes": [],
+    "codes": [],
+    "volume": "19",
+    "pages": "26",
+    "published-online": "2026-3-2",
+    "primary": "https://doi.org/10.3390/jemr19020026",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ001",
+    "topic": "眼科／眼动与健康AI",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Deep Learning Prediction of Childhood Myopia Progression Using Fundus Image and Refraction Data",
+    "year": "2026",
+    "date": "2026",
+    "type": "journal-article",
+    "doi": "10.1001/jamanetworkopen.2025.53543",
+    "authors": "Meng-Tian Kang; Yansong Hu; Ningli Wang; Jing Fu; Ankang Zhou; Yuanyuan Liu; Hongbei Meng; Xuemeng Li; Shengbo Wang; Xuhang Chen; Hubin Zhao; Guohua Hu; Wei Wang; Yanning Dai; Arokia Nathan; Peter Smielewski; Shuo Gao; Shi-Ming Li",
+    "venue": "JAMA Network Open",
+    "links": [
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844223",
+      "https://arxiv.org/abs/2407.21467"
+    ],
+    "oa": "https://repository.kaust.edu.sa/server/api/core/bitstreams/2eeabaef-529a-4282-98c5-9a593ab62ad3/content",
+    "sources": [
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844223",
+      "https://api.crossref.org/works/10.1001/jamanetworkopen.2025.53543"
+    ],
+    "notes": [
+      "相关早期预印本另附链接，不另计一篇；题名及作者可能随版本变化。"
+    ],
+    "codes": [],
+    "volume": "9",
+    "pages": "e2553543",
+    "published-online": "2026-1-26",
+    "primary": "https://doi.org/10.1001/jamanetworkopen.2025.53543",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ002",
+    "topic": "眼科／眼动与健康AI",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An AI-Driven Multimodal Smart Home Platform for Continuous Monitoring and Assistance in Post-Stroke Motor Impairment",
+    "year": "2026",
+    "date": "2026",
+    "type": "journal-article",
+    "doi": "10.1109/tnsre.2025.3645093",
+    "authors": "Chenyu Tang; Ruizhi Zhang; Shuo Gao; Zihe Zhao; Zibo Zhang; Jiaqi Wang; Cong Li; Junliang Chen; Yanning Dai; Shengbo Wang; Ruoyu Juan; Qiaoying Li; Ruimou Xie; Xuhang Chen; Xinkai Zhou; Yunjia Xia; Jianan Chen; Fanghao Lu; Xin Li; Ningli Wang; Peter Smielewski; Yu Pan; Hubin Zhao; Luigi G. Occhipinti",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1196329459",
+      "https://arxiv.org/abs/2411.19000"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/201511551",
+      "https://api.crossref.org/works/10.1109/tnsre.2025.3645093"
+    ],
+    "notes": [
+      "相关早期预印本另附链接，不另计一篇；题名及作者可能随版本变化。"
+    ],
+    "codes": [
+      "201511551"
+    ],
+    "volume": "34",
+    "pages": "300-312",
+    "published-print": "2026",
+    "primary": "https://doi.org/10.1109/tnsre.2025.3645093",
+    "evidence": "本人 ORCID",
+    "id": "HZ003",
+    "topic": "康复／可穿戴与辅助技术",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions",
+    "year": "2026",
+    "date": "2026",
+    "type": "journal-article",
+    "doi": "10.1109/rbme.2025.3641383",
+    "authors": "Tianliang Yao; Bo Lu; Markus Kowarschik; Yixuan Yuan; Hubin Zhao; Sebastien Ourselin; Kaspar Althoefer; Junbo Ge; Peng Qi",
+    "venue": "IEEE Reviews in Biomedical Engineering",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1196331432",
+      "https://arxiv.org/abs/2504.15327"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/202218546",
+      "https://api.crossref.org/works/10.1109/rbme.2025.3641383"
+    ],
+    "notes": [
+      "相关早期预印本另附链接，不另计一篇；题名及作者可能随版本变化。"
+    ],
+    "codes": [
+      "202218546"
+    ],
+    "volume": "19",
+    "pages": "248-266",
+    "published-print": "2026",
+    "primary": "https://doi.org/10.1109/rbme.2025.3641383",
+    "evidence": "本人 ORCID",
+    "id": "HZ004",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A Miniaturized and Modular FD-fNIRS Technology: Hardware Development and In Vitro Evaluation",
+    "year": "2026",
+    "date": "2026",
+    "type": "journal-article",
+    "doi": "10.1109/tim.2026.3677974",
+    "authors": "Xinkai Zhou; Qiao He; Xuanyu Liang; Jianan Chen; Jiang Wu; Hubin Zhao",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "links": [
+      "https://discovery.ucl.ac.uk/view/people/HZHAO01.date.html"
+    ],
+    "oa": "https://discovery.ucl.ac.uk/id/eprint/10225451/",
+    "sources": [
+      "https://discovery.ucl.ac.uk/view/people/HZHAO01.date.html",
+      "https://api.crossref.org/works/10.1109/tim.2026.3677974"
+    ],
+    "notes": [],
+    "codes": [],
+    "volume": "75",
+    "pages": "1-10",
+    "published-print": "2026",
+    "primary": "https://doi.org/10.1109/tim.2026.3677974",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ005",
+    "topic": "频域光学与光源硬件",
+    "priority": 10,
+    "zh": "小型化模块化 FD-fNIRS 硬件",
+    "why": "新近硬件方向；题名明确为体外评估，不能当作人体或产品效果证据。",
+    "local_pdf": "PDF/2026_FD-fNIRS_accepted.pdf"
+  },
+  {
+    "title": "A 140.5 μW, 99.8% Accuracy, 96.1dB SNR BioZ IC for Real-Time Cell Analysis with On-Demand Push-Pull Excitation and Continuous-Time ΔΣ T-D Readout",
+    "year": "2026",
+    "date": "2026",
+    "type": "preprint",
+    "doi": "",
+    "authors": "Jiayang Li; Junzhe Chen; Xin Zhang; Peiqing Li; Liwen Zhang; Navya Nayak; Yating Zou; Xuanyu Liang; Hubin Zhao; Roshan Weerasekera; Xiao Liu; Reza Haqshenas; Dai Jiang; Martin Cryan; Sohmyung Ha; Andreas Demosthenous; Edoardo Charbon; Dinesh Pamunuwa",
+    "venue": "arXiv:2610.33648",
+    "links": [
+      "https://arxiv.org/abs/2610.33648"
+    ],
+    "oa": "https://arxiv.org/abs/2610.33648",
+    "sources": [
+      "https://arxiv.org/abs/2610.33648"
+    ],
+    "notes": [
+      "2026-10-24预印本；注明接受ISSCC 2027，未计为已召开会议或正式期刊论文。"
+    ],
+    "codes": [],
+    "primary": "https://arxiv.org/abs/2610.33648",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ006",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Wearable-informed generative digital avatars predict task-conditioned post-stroke locomotion",
+    "year": "2025",
+    "date": "2025",
+    "type": "preprint",
+    "doi": "",
+    "authors": "Yanning Dai; Chenyu Tang; Ruizhi Zhang; Wenyu Yang; Yilan Zhang; Yuhui Wang; Junliang Chen; Xuhang Chen; Ruimou Xie; Yangyue Cao; Qiaoying Li; Jin Cao; Tao Li; Hubin Zhao; Yu Pan; Arokia Nathan; Xin Gao; Peter Smielewski; Shuo Gao",
+    "venue": "arXiv:2512.14329",
+    "links": [
+      "https://arxiv.org/abs/2512.14329"
+    ],
+    "oa": "https://arxiv.org/abs/2512.14329",
+    "sources": [
+      "https://arxiv.org/abs/2512.14329"
+    ],
+    "notes": [
+      "首次提交2025-12；2026年修订题名。早期题名：A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data。仅按预印本收录。"
+    ],
+    "codes": [],
+    "primary": "https://arxiv.org/abs/2512.14329",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ007",
+    "topic": "康复／可穿戴与辅助技术",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Wearable technologies for assisted mobility in the real world",
+    "year": "2025",
+    "date": "2025-12-08",
+    "type": "journal-article",
+    "doi": "10.1038/s41467-025-67126-4",
+    "authors": "Shuo Gao; Jianan Chen; Yunjia Xia; Xuemeng Li; Weihao Ma; Huixin Yang; Jinchen Li; Xinkai Zhou; Tianyu Jia; Yuchen Xu; Julie Uchitel; Dean Ta; Peng Qi; Junbo Ge; Yi Guo; Yajie Qin; Inseung Kang; Wenyao Xu; He Li; Jinke Chang; Siming Zuo; Shiwei Wang; Shan Luo; Letizia Gionfrida; Chen Hu; Shuqin Dong; Yongxin Guo; Yixuan Yuan; Haixia Zhang; Haotian Chen; Yu Pan; Chenyun Dai; Qinyuan Ren; Rui Loureiro; Tom Carlson; Wei Chen; Yuanting Zhang; Panicos Kyriacou; Hadi Heidari; Kia Nazarpour; Themis Prodromakis; Alexander Casson; Tamar R. Makin; Gert Cauwenberghs; Dario Farina; Hubin Zhao",
+    "venue": "Nature Communications",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1195907449"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12689786/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/199131822",
+      "https://api.crossref.org/works/10.1038/s41467-025-67126-4"
+    ],
+    "notes": [],
+    "codes": [
+      "199131822"
+    ],
+    "volume": "16",
+    "pages": "10988",
+    "published-online": "2025-12-8",
+    "primary": "https://doi.org/10.1038/s41467-025-67126-4",
+    "evidence": "本人 ORCID",
+    "id": "HZ008",
+    "topic": "康复／可穿戴与辅助技术",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Simultaneous Mental Fatigue and Mental Workload Assessment With Wearable High-Density Diffuse Optical Tomography",
+    "year": "2025",
+    "date": "2025-03-14",
+    "type": "journal-article",
+    "doi": "10.1109/tnsre.2025.3551676",
+    "authors": "Jianan Chen; Huixin Yang; Yunjia Xia; Tingchen Gong; Alexander Thomas; Jia Liu; Wei Chen; Tom Carlson; Hubin Zhao",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1186602176"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270415/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/180150118",
+      "https://api.crossref.org/works/10.1109/tnsre.2025.3551676"
+    ],
+    "notes": [],
+    "codes": [
+      "180150118"
+    ],
+    "volume": "33",
+    "pages": "1242-1251",
+    "published-print": "2025",
+    "primary": "https://doi.org/10.1109/tnsre.2025.3551676",
+    "evidence": "本人 ORCID",
+    "id": "HZ009",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": 7,
+    "zh": "HD-DOT 心智疲劳与任务负荷评估",
+    "why": "与你们专注、疲劳场景最相关；重点看任务、样本、个体模型及验证划分。"
+  },
+  {
+    "title": "Reconfigurable hardware-accelerated, multi-channel, adaptive temperature control platform of VCSELs for high-density fNIRS/DOT",
+    "year": "2025",
+    "date": "2025",
+    "type": "journal-article",
+    "doi": "10.1364/boe.562181",
+    "authors": "Qiao He; Yunjia Xia; Xuhao Zhang; Xinkai Zhou; Yu Liu; Yixuan Huang; Xiangyu Zhou; Aobo Ren; Hubin Zhao; Jiang Wu",
+    "venue": "Biomedical Optics Express",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1188833539"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12265473/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/186271472",
+      "https://api.crossref.org/works/10.1364/boe.562181"
+    ],
+    "notes": [],
+    "codes": [
+      "186271472"
+    ],
+    "volume": "16",
+    "pages": "2601",
+    "published-online": "2025-6-3",
+    "published-print": "2025-7-1",
+    "primary": "https://doi.org/10.1364/boe.562181",
+    "evidence": "本人 ORCID",
+    "id": "HZ010",
+    "topic": "频域光学与光源硬件",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Real-Time Motion Artifact Removal in fNIRS with Denoising Autoencoder at the Edge",
+    "year": "2025",
+    "date": "2025-05-25",
+    "type": "conference-paper",
+    "doi": "10.1109/iscas56072.2025.11044035",
+    "authors": "Jinchen Li; Yunjia Xia; Jingyu Lei; Robert J. Cooper; Hubin Zhao",
+    "venue": "2025 IEEE International Symposium on Circuits and Systems (ISCAS)",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1190144598"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/184035993",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/184029992",
+      "https://api.crossref.org/works/10.1109/iscas56072.2025.11044035"
+    ],
+    "notes": [],
+    "codes": [
+      "184035993",
+      "184029992"
+    ],
+    "volume": "",
+    "pages": "1-5",
+    "published-print": "2025-5-25",
+    "primary": "https://doi.org/10.1109/iscas56072.2025.11044035",
+    "evidence": "本人 ORCID",
+    "id": "HZ011",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Optimizing Deep Neural Networks for EEG-Based Speech Recognition: A Multimodal Approach to Assistive Communication",
+    "year": "2025",
+    "date": "2025-12-08",
+    "type": "journal-article",
+    "doi": "10.1109/jbhi.2025.3618998",
+    "authors": "Anarghya Das; Puru Soni; Hubin Zhao; Ming-Chun Huang; Wenyao Xu",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1195938156"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/200533774",
+      "https://api.crossref.org/works/10.1109/jbhi.2025.3618998"
+    ],
+    "notes": [],
+    "codes": [
+      "200533774"
+    ],
+    "volume": "29",
+    "pages": "8735-8742",
+    "published-print": "2025-12",
+    "primary": "https://doi.org/10.1109/jbhi.2025.3618998",
+    "evidence": "本人 ORCID",
+    "id": "HZ012",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "MI-CES: An explainable weak labelling approach to example selection for Motor Imagery BCI classification <sup>*</sup>",
+    "year": "2025",
+    "date": "2025-07-14",
+    "type": "conference-paper",
+    "doi": "10.1109/embc58623.2025.11253265",
+    "authors": "Alexander Thomas; Youngjun Cho; Hubin Zhao; Tom Carlson",
+    "venue": "2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1195718814"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/184034242",
+      "https://api.crossref.org/works/10.1109/embc58623.2025.11253265"
+    ],
+    "notes": [],
+    "codes": [
+      "184034242"
+    ],
+    "volume": "",
+    "pages": "1-7",
+    "published-print": "2025-7-14",
+    "primary": "https://doi.org/10.1109/embc58623.2025.11253265",
+    "evidence": "本人 ORCID",
+    "id": "HZ013",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Continuous Wave-Diffuse Optical Tomography (CW-DOT) in Human Brain Mapping: A Review",
+    "year": "2025",
+    "date": "2025-03",
+    "type": "journal-article",
+    "doi": "10.3390/s25072040",
+    "authors": "Shuo Guan; Yuhang Li; Yuanyuan Gao; Yuxi Luo; Hubin Zhao; Dalin Yang; Rihui Li",
+    "venue": "Sensors",
+    "links": [
+      "https://www.mdpi.com/1424-8220/25/7/2040"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11991298/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/181172539",
+      "https://api.crossref.org/works/10.3390/s25072040"
+    ],
+    "notes": [],
+    "codes": [
+      "181172539"
+    ],
+    "volume": "25",
+    "pages": "2040",
+    "published-online": "2025-3-25",
+    "primary": "https://doi.org/10.3390/s25072040",
+    "evidence": "本人 ORCID",
+    "id": "HZ014",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An Optimised on-Device Deep Learning Training: An fNIRS study",
+    "year": "2025",
+    "date": "2025",
+    "type": "conference-paper",
+    "doi": "10.1109/socc66126.2025.11235333",
+    "authors": "Yunyi Zhao; Hubin Zhao; Shufan Yang",
+    "venue": "2025 IEEE 38th International System-on-Chip Conference (SOCC)",
+    "links": [
+      "https://dblp.org/rec/conf/socc/ZhaoZY25a"
+    ],
+    "oa": "",
+    "sources": [
+      "https://dblp.org/rec/conf/socc/ZhaoZY25a",
+      "https://api.crossref.org/works/10.1109/socc66126.2025.11235333"
+    ],
+    "notes": [],
+    "codes": [],
+    "volume": "",
+    "pages": "1-2",
+    "published-print": "2025-9-29",
+    "primary": "https://doi.org/10.1109/socc66126.2025.11235333",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ015",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "AI-Enabled Piezoelectric Wearable for Joint Torque Monitoring",
+    "year": "2025",
+    "date": "2025",
+    "type": "journal-article",
+    "doi": "10.1007/s40820-025-01753-w",
+    "authors": "Jinke Chang; Jinchen Li; Jiahao Ye; Bowen Zhang; Jianan Chen; Yunjia Xia; Jingyu Lei; Tom Carlson; Rui Loureiro; Alexander M. Korsunsky; Jin-Chong Tan; Hubin Zhao",
+    "venue": "Nano-Micro Letters",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1188311793"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12048387/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/183784348",
+      "https://api.crossref.org/works/10.1007/s40820-025-01753-w"
+    ],
+    "notes": [],
+    "codes": [
+      "183784348"
+    ],
+    "volume": "17",
+    "pages": "247",
+    "published-online": "2025-5-3",
+    "published-print": "2025-12",
+    "primary": "https://doi.org/10.1007/s40820-025-01753-w",
+    "evidence": "本人 ORCID",
+    "id": "HZ016",
+    "topic": "康复／可穿戴与辅助技术",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Accelerate On-Chip Artificial Neural Network Training: a Customised fNIRS Signals Processing System-on-Chip",
+    "year": "2025",
+    "date": "2025",
+    "type": "conference-paper",
+    "doi": "10.1109/socc66126.2025.11235415",
+    "authors": "Yunyi Zhao; Hubin Zhao; Shufan Yang",
+    "venue": "2025 IEEE 38th International System-on-Chip Conference (SOCC)",
+    "links": [
+      "https://dblp.org/rec/conf/socc/ZhaoZY25"
+    ],
+    "oa": "",
+    "sources": [
+      "https://dblp.org/rec/conf/socc/ZhaoZY25",
+      "https://api.crossref.org/works/10.1109/socc66126.2025.11235415"
+    ],
+    "notes": [],
+    "codes": [],
+    "volume": "",
+    "pages": "1-6",
+    "published-print": "2025-9-29",
+    "primary": "https://doi.org/10.1109/socc66126.2025.11235415",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ017",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A Novel Optimization Framework for fNIRS: Enhancing Brain Image Reconstruction for Neurorehabilitation",
+    "year": "2025",
+    "date": "2025",
+    "type": "journal-article",
+    "doi": "10.1109/tnsre.2025.3602894",
+    "authors": "Yunyi Zhao; Uwe Dolinsky; Hubin Zhao; Shufan Yang",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "links": [
+      "https://discovery.ucl.ac.uk/view/people/HZHAO01.date.html"
+    ],
+    "oa": "",
+    "sources": [
+      "https://discovery.ucl.ac.uk/view/people/HZHAO01.date.html",
+      "https://api.crossref.org/works/10.1109/tnsre.2025.3602894"
+    ],
+    "notes": [],
+    "codes": [],
+    "volume": "33",
+    "pages": "3409-3420",
+    "published-print": "2025",
+    "primary": "https://doi.org/10.1109/tnsre.2025.3602894",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ018",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A Deep-Learning Empowered, Real-Time Processing Platform of fNIRS/DOT for Brain Computer Interfaces and Neurofeedback",
+    "year": "2025",
+    "date": "2025",
+    "type": "journal-article",
+    "doi": "10.1109/tnsre.2025.3553794",
+    "authors": "Yunjia Xia; Jianan Chen; Jinchen Li; Tingchen Gong; Ernesto E. Vidal-Rosas; Rui Loureiro; Robert J. Cooper; Hubin Zhao",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1186859795"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270413/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/180639560",
+      "https://api.crossref.org/works/10.1109/tnsre.2025.3553794"
+    ],
+    "notes": [],
+    "codes": [
+      "180639560"
+    ],
+    "volume": "33",
+    "pages": "1220-1230",
+    "published-print": "2025",
+    "primary": "https://doi.org/10.1109/tnsre.2025.3553794",
+    "evidence": "本人 ORCID",
+    "id": "HZ019",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": 5,
+    "zh": "fNIRS／DOT 实时处理平台",
+    "why": "看去伪迹、图像重建与实时反馈的软件链路。",
+    "local_pdf": "PDF/2025_realtime_processing.pdf"
+  },
+  {
+    "title": "Wearable Near-Eye Tracking Technologies for Health: A Review",
+    "year": "2024",
+    "date": "2024-07",
+    "type": "journal-article",
+    "doi": "10.3390/bioengineering11070738",
+    "authors": "Lisen Zhu; Jianan Chen; Huixin Yang; Xinkai Zhou; Qihang Gao; Rui Loureiro; Shuo Gao; Hubin Zhao",
+    "venue": "Bioengineering",
+    "links": [
+      "https://www.mdpi.com/2306-5354/11/7/738"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11273595/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/164398168",
+      "https://api.crossref.org/works/10.3390/bioengineering11070738"
+    ],
+    "notes": [],
+    "codes": [
+      "164398168"
+    ],
+    "volume": "11",
+    "pages": "738",
+    "published-online": "2024-7-22",
+    "primary": "https://doi.org/10.3390/bioengineering11070738",
+    "evidence": "本人 ORCID",
+    "id": "HZ020",
+    "topic": "眼科／眼动与健康AI",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Temporal Dynamics and Physical Priori Multimodal Network for Rehabilitation Physical Training Evaluation",
+    "year": "2024",
+    "date": "2024-06-13",
+    "type": "journal-article",
+    "doi": "10.1109/jbhi.2024.3414291",
+    "authors": "Shuo Gao; Jianan Chen; Xuhang Chen; Julie Uchitel; Chenyu Tang; Cong Li; Yu Pan; Hubin Zhao",
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1172857862"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/164186078",
+      "https://api.crossref.org/works/10.1109/jbhi.2024.3414291"
+    ],
+    "notes": [],
+    "codes": [
+      "164186078"
+    ],
+    "volume": "28",
+    "pages": "5613-5623",
+    "published-print": "2024-9",
+    "primary": "https://doi.org/10.1109/jbhi.2024.3414291",
+    "evidence": "本人 ORCID",
+    "id": "HZ021",
+    "topic": "康复／可穿戴与辅助技术",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "New open source edge acceleration SYCL libraries for motion artifact detection in fNIRS data",
+    "year": "2024",
+    "date": "2024-01-30",
+    "type": "conference-abstract",
+    "doi": "",
+    "authors": "Yunyi Zhao; Yunjia Xia; Rui Loureiro; Hubin Zhao; Uwe Dolinsky; Shufan Yang",
+    "venue": "",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975963"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "154975963"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975963",
+    "evidence": "本人 ORCID",
+    "id": "HZ022",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Mental Fatigue Classification with High-Density Diffuse Optical Tomography: A Feasibility Study",
+    "year": "2024",
+    "date": "2024-12-17",
+    "type": "conference-paper",
+    "doi": "10.1109/embc53108.2024.10782566",
+    "authors": "Jianan Chen; Yunjia Xia; Alexander Thomas; Tom Carlson; Hubin Zhao",
+    "venue": "2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1183572325"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/173490982",
+      "https://api.crossref.org/works/10.1109/embc53108.2024.10782566"
+    ],
+    "notes": [],
+    "codes": [
+      "173490982"
+    ],
+    "volume": "",
+    "pages": "1-5",
+    "published-print": "2024-7-15",
+    "primary": "https://doi.org/10.1109/embc53108.2024.10782566",
+    "evidence": "本人 ORCID",
+    "id": "HZ023",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Memristor-based adaptive neuromorphic perception in unstructured environments",
+    "year": "2024",
+    "date": "2024",
+    "type": "journal-article",
+    "doi": "10.1038/s41467-024-48908-8",
+    "authors": "Shengbo Wang; Shuo Gao; Chenyu Tang; Edoardo Occhipinti; Cong Li; Shurui Wang; Jiaqi Wang; Hubin Zhao; Guohua Hu; Arokia Nathan; Ravinder Dahiya; Luigi Giuseppe Occhipinti",
+    "venue": "Nature Communications",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1172253147"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11143376/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/160730977",
+      "https://api.crossref.org/works/10.1038/s41467-024-48908-8"
+    ],
+    "notes": [],
+    "codes": [
+      "160730977"
+    ],
+    "volume": "15",
+    "pages": "4671",
+    "published-online": "2024-5-31",
+    "primary": "https://doi.org/10.1038/s41467-024-48908-8",
+    "evidence": "本人 ORCID",
+    "id": "HZ024",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An Ultralow-Power Real-Time Machine Learning Based fNIRS Motion Artifacts Detection",
+    "year": "2024",
+    "date": "2024-01-30",
+    "type": "journal-article",
+    "doi": "10.1109/tvlsi.2024.3356161",
+    "authors": "Renas Ercan; Yunjia Xia; Yunyi Zhao; Rui Loureiro; Shufan Yang; Hubin Zhao",
+    "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1168415247"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11100859/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975957",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148412498",
+      "https://api.crossref.org/works/10.1109/tvlsi.2024.3356161"
+    ],
+    "notes": [],
+    "codes": [
+      "154975957",
+      "148412498"
+    ],
+    "volume": "32",
+    "pages": "763-773",
+    "published-print": "2024-4",
+    "primary": "https://doi.org/10.1109/tvlsi.2024.3356161",
+    "evidence": "本人 ORCID",
+    "id": "HZ025",
+    "topic": "实时算法／边缘处理",
+    "priority": 6,
+    "zh": "低功耗运动伪迹检测",
+    "why": "看算法和芯片的贡献；检测运动伪迹与识别心理状态是不同任务。"
+  },
+  {
+    "title": "An FPGA-based, multi-channel, real-time, motion artifact detection technique for fNIRS/DOT systems",
+    "year": "2024",
+    "date": "2024-05-18",
+    "type": "conference-paper",
+    "doi": "10.1109/iscas58744.2024.10558489",
+    "authors": "Yunjia Xia; Elisabetta Maria Frijia; Rui Loureiro; Robert J. Cooper; Hubin Zhao",
+    "venue": "2024 IEEE International Symposium on Circuits and Systems (ISCAS)",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1173478443"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975977",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/150925612",
+      "https://api.crossref.org/works/10.1109/iscas58744.2024.10558489"
+    ],
+    "notes": [],
+    "codes": [
+      "154975977",
+      "150925612"
+    ],
+    "volume": "",
+    "pages": "1-5",
+    "published-print": "2024-5-19",
+    "primary": "https://doi.org/10.1109/iscas58744.2024.10558489",
+    "evidence": "本人 ORCID",
+    "id": "HZ026",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A Real-Time Machine Learning Module for Motion Artifact Detection in fNIRS",
+    "year": "2024",
+    "date": "2024-05-18",
+    "type": "conference-paper",
+    "doi": "10.1109/iscas58744.2024.10557996",
+    "authors": "Renas Ercan; Yunjia Xia; Yunyi Zhao; Rui Loureiro; Shufan Yang; Hubin Zhao",
+    "venue": "2024 IEEE International Symposium on Circuits and Systems (ISCAS)",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1173477955"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975980",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/150925449",
+      "https://api.crossref.org/works/10.1109/iscas58744.2024.10557996"
+    ],
+    "notes": [],
+    "codes": [
+      "154975980",
+      "150925449"
+    ],
+    "volume": "",
+    "pages": "1-5",
+    "published-print": "2024-5-19",
+    "primary": "https://doi.org/10.1109/iscas58744.2024.10557996",
+    "evidence": "本人 ORCID",
+    "id": "HZ027",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A multimodal fNIRS-EEG BCI system for wheelchair control",
+    "year": "2024",
+    "date": "2024-01-30",
+    "type": "conference-abstract",
+    "doi": "",
+    "authors": "Jianan CHEN; Tom Carlson; Hubin Zhao",
+    "venue": "",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975966"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "154975966"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975966",
+    "evidence": "本人 ORCID",
+    "id": "HZ028",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Review of recent advances in frequency-domain near-infrared spectroscopy technologies [Invited]",
+    "year": "2023",
+    "date": "2023-06-12",
+    "type": "journal-article",
+    "doi": "10.1364/boe.484044",
+    "authors": "Xinkai Zhou; Yunjia Xia; Julie Uchitel; Liam Collins-Jones; Shufan Yang; Rui Loureiro; Robert J. Cooper; Hubin Zhao",
+    "venue": "Biomedical Optics Express",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1158551429"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368025/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914007",
+      "https://api.crossref.org/works/10.1364/boe.484044"
+    ],
+    "notes": [],
+    "codes": [
+      "144914007"
+    ],
+    "volume": "14",
+    "pages": "3234",
+    "published-online": "2023-6-12",
+    "published-print": "2023-7-1",
+    "primary": "https://doi.org/10.1364/boe.484044",
+    "evidence": "本人 ORCID",
+    "id": "HZ029",
+    "topic": "频域光学与光源硬件",
+    "priority": 9,
+    "zh": "频域 NIRS 技术综述",
+    "why": "区分连续波、频域的测量能力及硬件难度。"
+  },
+  {
+    "title": "Multimodal fNIRS-EEG BCI system for wheelchair control",
+    "year": "2023",
+    "date": "2023",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "SPIE Photonic West 2024",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148413344"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "148413344"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148413344",
+    "evidence": "本人 ORCID",
+    "id": "HZ030",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Low-cost, smartphone-based instant three-dimensional registration system for infant functional near-infrared spectroscopy applications",
+    "year": "2023",
+    "date": "2023",
+    "type": "journal-article",
+    "doi": "10.1117/1.nph.10.4.046601",
+    "authors": "Yunjia Xia; Kui Wang; Addison Billing; Matthew Billing; Robert J. Cooper; Hubin Zhao",
+    "venue": "Neurophotonics",
+    "links": [
+      "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-10/issue-04/046601/Low-cost-smartphone-based-instant-three-dimensional-registration-system-for/10.1117/1.NPh.10.4.046601.full"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10593123/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/130756594",
+      "https://api.crossref.org/works/10.1117/1.nph.10.4.046601"
+    ],
+    "notes": [],
+    "codes": [
+      "130756594"
+    ],
+    "volume": "10",
+    "pages": "1-14",
+    "published-print": "2023-10-23",
+    "primary": "https://doi.org/10.1117/1.nph.10.4.046601",
+    "evidence": "本人 ORCID",
+    "id": "HZ031",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Learning based motion artifacts processing in fNIRS: a mini review",
+    "year": "2023",
+    "date": "2023",
+    "type": "journal-article",
+    "doi": "10.3389/fnins.2023.1280590",
+    "authors": "Yunyi Zhao; Haiming Luo; Jianan Chen; Rui Loureiro; Shufan Yang; Hubin Zhao",
+    "venue": "Frontiers in Neuroscience",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1165807933"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10683641/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975955",
+      "https://api.crossref.org/works/10.3389/fnins.2023.1280590"
+    ],
+    "notes": [],
+    "codes": [
+      "154975955"
+    ],
+    "volume": "17",
+    "pages": "1280590",
+    "published-online": "2023-11-8",
+    "primary": "https://doi.org/10.3389/fnins.2023.1280590",
+    "evidence": "本人 ORCID",
+    "id": "HZ032",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "FPL Demo: A Learning-Based Motion Artefact Detector for Heterogeneous Platforms",
+    "year": "2023",
+    "date": "2023-11-02",
+    "type": "conference-abstract",
+    "doi": "10.1109/fpl60245.2023.00071",
+    "authors": "Yunyi Zhao; Yunjia Xia; Rui Loureiro; Hubin Zhao; Uwe Dolinsky; Shufan Yang",
+    "venue": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1165536256"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975986",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148413408",
+      "https://api.crossref.org/works/10.1109/fpl60245.2023.00071"
+    ],
+    "notes": [],
+    "codes": [
+      "154975986",
+      "148413408"
+    ],
+    "volume": "",
+    "pages": "366-366",
+    "published-print": "2023-9-4",
+    "primary": "https://doi.org/10.1109/fpl60245.2023.00071",
+    "evidence": "本人 ORCID",
+    "id": "HZ033",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "fNIRS-EEG BCIs for Motor Rehabilitation: A Review",
+    "year": "2023",
+    "date": "2023-12",
+    "type": "journal-article",
+    "doi": "10.3390/bioengineering10121393",
+    "authors": "Jianan Chen; Yunjia Xia; Xinkai Zhou; Ernesto Vidal Rosas; Alexander Thomas; Rui Loureiro; Robert J. Cooper; Tom Carlson; Hubin Zhao",
+    "venue": "Bioengineering",
+    "links": [
+      "https://www.mdpi.com/2306-5354/10/12/1393"
+    ],
+    "oa": "https://eprints.soton.ac.uk/489133/1/bioengineering-10-01393.pdf",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148450663",
+      "https://api.crossref.org/works/10.3390/bioengineering10121393"
+    ],
+    "notes": [],
+    "codes": [
+      "148450663"
+    ],
+    "volume": "10",
+    "pages": "1393",
+    "published-online": "2023-12-6",
+    "primary": "https://doi.org/10.3390/bioengineering10121393",
+    "evidence": "本人 ORCID",
+    "id": "HZ034",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": 8,
+    "zh": "fNIRS–EEG 脑机接口与运动康复综述",
+    "why": "看融合路线已有哪些应用证据与仍未解决的问题。"
+  },
+  {
+    "title": "Editorial: Advances in brain-computer interface technologies for closed-loop neuromodulation",
+    "year": "2023",
+    "date": "2023-11-10",
+    "type": "editorial",
+    "doi": "10.3389/fnins.2023.1327533",
+    "authors": "Yuchen Xu; Hubin Zhao; Cosimo Ieracitano",
+    "venue": "Frontiers in Neuroscience",
+    "links": [
+      "http://dx.doi.org/10.3389/fnins.2023.1327533"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10668009/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/151951665",
+      "https://api.crossref.org/works/10.3389/fnins.2023.1327533"
+    ],
+    "notes": [],
+    "codes": [
+      "151951665"
+    ],
+    "volume": "17",
+    "pages": "1327533",
+    "published-online": "2023-11-10",
+    "primary": "https://doi.org/10.3389/fnins.2023.1327533",
+    "evidence": "本人 ORCID",
+    "id": "HZ035",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Edge Acceleration for Machine Learning-based Motion Artifact Detection on fNIRS Dataset",
+    "year": "2023",
+    "date": "2023",
+    "type": "conference-poster",
+    "doi": "10.1145/3585341.3585380",
+    "authors": "Yunyi Zhao; Yunjia Xia; Rui Loureiro; Hubin Zhao; Uwe Dolinsky; Shufan Yang",
+    "venue": "International Workshop on OpenCL",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1157078472"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914120",
+      "https://api.crossref.org/works/10.1145/3585341.3585380"
+    ],
+    "notes": [],
+    "codes": [
+      "144914120"
+    ],
+    "volume": "",
+    "pages": "1-1",
+    "published-online": "2023-4-18",
+    "published-print": "2023-4-18",
+    "primary": "https://doi.org/10.1145/3585341.3585380",
+    "evidence": "本人 ORCID",
+    "id": "HZ036",
+    "topic": "实时算法／边缘处理",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Development and preliminary testing of a multi-wavelength wearable diffuse optical tomography system for newborn infants",
+    "year": "2023",
+    "date": "2023",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "ECBO 2023",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/130756020",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975959"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "130756020",
+      "154975959"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/130756020",
+    "evidence": "本人 ORCID",
+    "id": "HZ037",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An all-digital, wearable, low-cost, frequency-domain near-infrared spectroscopy technology",
+    "year": "2023",
+    "date": "2023",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "SPIE Photonic West 2024",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148413606",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975967"
+    ],
+    "notes": [
+      "同名记录年份冲突：2023 / 2024；不重复计数。",
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "148413606",
+      "154975967"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/148413606",
+    "evidence": "本人 ORCID",
+    "id": "HZ038",
+    "topic": "频域光学与光源硬件",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A remote-control, smartphone-based automatic 3D scanning system for fNIRS/DOT applications",
+    "year": "2023",
+    "date": "2023",
+    "type": "conference-paper",
+    "doi": "10.1364/brain.2023.bm2b.4",
+    "authors": "Yunjia Xia; Kui Wang; Addison Billing; Robert J. Cooper; Hubin Zhao",
+    "venue": "Biophotonics Congress: Optics in the Life Sciences 2023 (OMA, NTM, BODA, OMP, BRAIN)",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/130756276",
+      "https://api.crossref.org/works/10.1364/brain.2023.bm2b.4"
+    ],
+    "notes": [],
+    "codes": [
+      "130756276"
+    ],
+    "volume": "",
+    "pages": "BM2B.4",
+    "published-print": "2023",
+    "primary": "https://doi.org/10.1364/brain.2023.bm2b.4",
+    "evidence": "本人 ORCID",
+    "id": "HZ039",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Editorial: Wearable and Implantable Electronics for the next Generation of Human-Machine Interactive Devices",
+    "year": "2022",
+    "date": "2022-06-15",
+    "type": "editorial",
+    "doi": "10.3389/felec.2022.935289",
+    "authors": "Yu Wu; Shiwei Wang; Boyang Shen; Hubin Zhao; Haichang Lu; Shuo Gao",
+    "venue": "Frontiers in Electronics",
+    "links": [
+      "http://dx.doi.org/10.3389/felec.2022.935289"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/115693435",
+      "https://api.crossref.org/works/10.3389/felec.2022.935289"
+    ],
+    "notes": [],
+    "codes": [
+      "115693435"
+    ],
+    "volume": "3",
+    "pages": "935289",
+    "published-online": "2022-6-15",
+    "primary": "https://doi.org/10.3389/felec.2022.935289",
+    "evidence": "本人 ORCID",
+    "id": "HZ040",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Development and Preliminary Testing of a Multi-Wavelength Wearable Diffuse Optical Tomography System",
+    "year": "2022",
+    "date": "2022-10",
+    "type": "conference-abstract",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "fNIRS 2022",
+    "links": [
+      "https://fnirs.org/2022/01/01/sfnirs2022_177/"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/130755970"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "130755970"
+    ],
+    "primary": "https://fnirs.org/2022/01/01/sfnirs2022_177/",
+    "evidence": "本人 ORCID",
+    "id": "HZ041",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A low-cost, smartphone-based instant 3D scanning system for infant fNIRS/DOT applications",
+    "year": "2022",
+    "date": "2022-10-05",
+    "type": "conference-abstract",
+    "doi": "",
+    "authors": "Yunjia Xia; Kui Wang; Addison Billing; Robert Cooper; Hubin Zhao",
+    "venue": "",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975962"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "154975962"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/154975962",
+    "evidence": "本人 ORCID",
+    "id": "HZ042",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Wearable, Integrated EEG–fNIRS Technologies: A Review",
+    "year": "2021",
+    "date": "2021-09",
+    "type": "journal-article",
+    "doi": "10.3390/s21186106",
+    "authors": "Julie Uchitel; Ernesto E. Vidal-Rosas; Robert J. Cooper; Hubin Zhao",
+    "venue": "Sensors",
+    "links": [
+      "https://www.mdpi.com/1424-8220/21/18/6106"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8469799/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/100076976",
+      "https://api.crossref.org/works/10.3390/s21186106"
+    ],
+    "notes": [],
+    "codes": [
+      "100076976"
+    ],
+    "volume": "21",
+    "pages": "6106",
+    "published-online": "2021-9-12",
+    "primary": "https://doi.org/10.3390/s21186106",
+    "evidence": "本人 ORCID",
+    "id": "HZ043",
+    "topic": "EEG／光电融合与脑机接口",
+    "priority": 1,
+    "zh": "可穿戴 EEG–fNIRS 融合综述",
+    "why": "先建立光与电各测什么、为什么融合、集成难点在哪里的框架。"
+  },
+  {
+    "title": "Wearable high-density diffuse optical tomography (HDDOT) for unrestricted 3D functional neuroimaging",
+    "year": "2021",
+    "date": "2021-03-08",
+    "type": "conference-paper",
+    "doi": "10.1117/12.2583161",
+    "authors": "Ernesto E. Vidal-Rosas; Rueben Hill; Greg Smith; Hubin Zhao; Samuel Powell; Nick Everdell; Robert J. Cooper",
+    "venue": "Optical Techniques in Neurosurgery, Neurophotonics, and Optogenetics",
+    "links": [
+      "http://dx.doi.org/10.1117/12.2583161"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104973789",
+      "https://api.crossref.org/works/10.1117/12.2583161"
+    ],
+    "notes": [],
+    "codes": [
+      "104973789"
+    ],
+    "volume": "",
+    "pages": "40",
+    "published-print": "2021-3-8",
+    "primary": "https://doi.org/10.1117/12.2583161",
+    "evidence": "本人 ORCID",
+    "id": "HZ044",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Wearable functional neuroimaging of the neonatal sensorimotor cortex with high-density diffuse optical tomography",
+    "year": "2021",
+    "date": "2021",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "BioMedEng 2021",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882765"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882765"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882765",
+    "evidence": "本人 ORCID",
+    "id": "HZ045",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Towards cot-side mapping of the sensorimotor cortex in preterm and term infants with wearable high-density diffuse optical tomography",
+    "year": "2021",
+    "date": "2021-12-09",
+    "type": "conference-paper",
+    "doi": "10.1117/12.2615363",
+    "authors": "Elisabetta Maria Frijia; Hubin Zhao; Liam Collins-Jones; Greg Smith; Nicholas L. Everdell; Topun Austin; Robert J. Cooper",
+    "venue": "Diffuse Optical Spectroscopy and Imaging VIII",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1143757580",
+      "http://www.osapublishing.org/abstract.cfm?URI=ECBO-2021-ETu4C.5"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144913980",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881788",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/171268337",
+      "https://api.crossref.org/works/10.1117/12.2615363"
+    ],
+    "notes": [
+      "与其他 cot-side 会议记录主题／标题接近；无足够会议信息确认是否同一报告，暂分别保留，不用于严格论文总数。"
+    ],
+    "codes": [
+      "144913980",
+      "104881788",
+      "171268337"
+    ],
+    "volume": "",
+    "pages": "47",
+    "published-print": "2021-12-9",
+    "primary": "https://doi.org/10.1117/12.2615363",
+    "evidence": "本人 ORCID",
+    "id": "HZ046",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Towards Cot-side Mapping of the Sensorimotor Cortex in Preterm and Term Infants using High-Density Diffuse Optical Tomography",
+    "year": "2021",
+    "date": "2021",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "fNIRS 2021",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882799"
+    ],
+    "notes": [
+      "与其他 cot-side 会议记录主题／标题接近；无足够会议信息确认是否同一报告，暂分别保留，不用于严格论文总数。",
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882799"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882799",
+    "evidence": "本人 ORCID",
+    "id": "HZ047",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "The ANIMATE - A Wearable, Modular, Neonatal-Specific High-Resolution Optical Neuroimaging Technology",
+    "year": "2021",
+    "date": "2021",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "BioMedEng2021",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882776",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914074"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "104882776",
+      "144914074"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882776",
+    "evidence": "本人 ORCID",
+    "id": "HZ048",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Evaluating a new generation of wearable high-density diffuse optical tomography technology via retinotopic mapping of the adult visual cortex",
+    "year": "2021",
+    "date": "2021-04-09",
+    "type": "journal-article",
+    "doi": "10.1117/1.nph.8.2.025002",
+    "authors": "Ernesto E. Vidal-Rosas; Hubin Zhao; Reuben W. Nixon-Hill; Greg Smith; Luke Dunne; Samuel Powell; Robert J. Cooper; Nicholas L. Everdell",
+    "venue": "Neurophotonics",
+    "links": [
+      "http://dx.doi.org/10.1117/1.nph.8.2.025002"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8033536/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881680",
+      "https://api.crossref.org/works/10.1117/1.nph.8.2.025002"
+    ],
+    "notes": [],
+    "codes": [
+      "104881680"
+    ],
+    "volume": "8",
+    "pages": "1-24",
+    "published-print": "2021-4-9",
+    "primary": "https://doi.org/10.1117/1.nph.8.2.025002",
+    "evidence": "本人 ORCID",
+    "id": "HZ049",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": 3,
+    "zh": "LUMO／HD-DOT 成人视觉皮层验证",
+    "why": "看实际功能成像如何验证，区分仪器性能和面向消费者的效果。"
+  },
+  {
+    "title": "Evaluating a new generation of wearable high-density diffuse optical tomography (HD-DOT) technology via retinotopic mapping in the adult brain",
+    "year": "2021",
+    "date": "2021-12-09",
+    "type": "conference-paper",
+    "doi": "10.1117/12.2615354",
+    "authors": "Ernesto E. Vidal-Rosas; Hubin Zhao; Reuben Nixon-Hill; Greg Smith; Luke Dunne; Samuel Powell; Robert J. Cooper; Nicholas L. Everdell",
+    "venue": "Diffuse Optical Spectroscopy and Imaging VIII",
+    "links": [
+      "http://www.osapublishing.org/abstract.cfm?URI=ECBO-2021-ETu4C.2"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144913983",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881895",
+      "https://api.crossref.org/works/10.1117/12.2615354"
+    ],
+    "notes": [],
+    "codes": [
+      "144913983",
+      "104881895"
+    ],
+    "volume": "",
+    "pages": "44",
+    "published-print": "2021-12-9",
+    "primary": "https://doi.org/10.1117/12.2615354",
+    "evidence": "本人 ORCID",
+    "id": "HZ050",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Design and validation of a mechanically flexible and ultra-lightweight high-density diffuse optical tomography system for functional neuroimaging of newborns",
+    "year": "2021",
+    "date": "2021-03-26",
+    "type": "journal-article",
+    "doi": "10.1117/1.nph.8.1.015011",
+    "authors": "Hubin Zhao; Elisabetta M. Frijia; Ernesto Vidal Rosas; Liam Collins-Jones; Greg Smith; Reuben Nixon-Hill; Samuel Powell; Nicholas L. Everdell; Robert J. Cooper",
+    "venue": "Neurophotonics",
+    "links": [
+      "http://dx.doi.org/10.1117/1.nph.8.1.015011"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995199/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881178",
+      "https://api.crossref.org/works/10.1117/1.nph.8.1.015011"
+    ],
+    "notes": [],
+    "codes": [
+      "104881178"
+    ],
+    "volume": "8",
+    "pages": "1-18",
+    "published-print": "2021-3-26",
+    "primary": "https://doi.org/10.1117/1.nph.8.1.015011",
+    "evidence": "本人 ORCID",
+    "id": "HZ051",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": 4,
+    "zh": "柔性、超轻量新生儿 HD-DOT",
+    "why": "看柔性结构、佩戴和工程整合能力。",
+    "local_pdf": "PDF/2021_neonatal_flexible_HD-DOT.pdf"
+  },
+  {
+    "title": "ANIMATE: wearable, flexible, and ultra-lightweight high-density diffuse optical tomography technologies for functional neuroimaging of newborns",
+    "year": "2021",
+    "date": "2021-12-09",
+    "type": "conference-paper",
+    "doi": "10.1117/12.2615357",
+    "authors": "Hubin Zhao; Elisabetta Maria Frijia; Ernesto Vidal Rosas; Liam Collins-Jones; Greg Smith; Reuben Nixon-Hill; Samuel Powell; Nicholas L. Everdell; Robert J. Cooper",
+    "venue": "Diffuse Optical Spectroscopy and Imaging VIII",
+    "links": [
+      "https://app.dimensions.ai/details/publication/pub.1143757578",
+      "http://www.osapublishing.org/abstract.cfm?URI=ECBO-2021-ETu4C.3"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144913978",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881776",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144913977",
+      "https://api.crossref.org/works/10.1117/12.2615357"
+    ],
+    "notes": [],
+    "codes": [
+      "144913978",
+      "104881776",
+      "144913977"
+    ],
+    "volume": "",
+    "pages": "45",
+    "published-print": "2021-12-9",
+    "primary": "https://doi.org/10.1117/12.2615357",
+    "evidence": "本人 ORCID",
+    "id": "HZ052",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Advances in Development of a New Wearable, Modular, Neonatal-Specific High-Density Diffuse Optical Tomography Technology",
+    "year": "2021",
+    "date": "2021-10-19",
+    "type": "conference-abstract",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "fNIRS 2021",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914076",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882810"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "144914076",
+      "104882810"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914076",
+    "evidence": "本人 ORCID",
+    "id": "HZ053",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Wearable High-Density Diffuse Optical Tomography (HD-DOT) for Unrestricted 3D Functional Neuroimaging",
+    "year": "2020",
+    "date": "2020",
+    "type": "conference-paper",
+    "doi": "10.1364/ots.2020.stu1d.3",
+    "authors": "Ernesto E. Vidal-Rosas; Reuben Hill; Greg Smith; Luke Dunne; Hubin Zhao; Samuel Powell; Nick L. Everdell; Robert J Cooper",
+    "venue": "Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN)",
+    "links": [
+      "http://dx.doi.org/10.1364/ots.2020.stu1d.3"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881935",
+      "https://api.crossref.org/works/10.1364/ots.2020.stu1d.3"
+    ],
+    "notes": [],
+    "codes": [
+      "104881935"
+    ],
+    "volume": "",
+    "pages": "STu1D.3",
+    "published-print": "2020",
+    "primary": "https://doi.org/10.1364/ots.2020.stu1d.3",
+    "evidence": "本人 ORCID",
+    "id": "HZ054",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Optogenetic Implants",
+    "year": "2020",
+    "date": "2020",
+    "type": "book-chapter",
+    "doi": "10.1007/978-1-4614-6623-9_48-1",
+    "authors": "Hubin Zhao",
+    "venue": "Handbook of Biochips",
+    "links": [
+      "http://dx.doi.org/10.1007/978-1-4614-6623-9_48-1"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881659",
+      "https://api.crossref.org/works/10.1007/978-1-4614-6623-9_48-1"
+    ],
+    "notes": [
+      "ORCID记2020；课题组书目记2022，可能为在线版与成书年差异；年份未强行统一。"
+    ],
+    "codes": [
+      "104881659"
+    ],
+    "volume": "",
+    "pages": "1-28",
+    "published-online": "2020-6-19",
+    "published-print": "2020",
+    "primary": "https://doi.org/10.1007/978-1-4614-6623-9_48-1",
+    "evidence": "本人 ORCID",
+    "id": "HZ055",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A wide field-of-view, modular, high-density diffuse optical tomography system for minimally constrained three-dimensional functional neuroimaging",
+    "year": "2020",
+    "date": "2020-07-09",
+    "type": "journal-article",
+    "doi": "10.1364/boe.394914",
+    "authors": "Hubin Zhao; Sabrina Brigadoi; Danial Chitnis; Enrico De Vita; Marco Castellaro; Samuel Powell; Nicholas L. Everdell; Robert J. Cooper",
+    "venue": "Biomedical Optics Express",
+    "links": [
+      "http://dx.doi.org/10.1364/boe.394914"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7449732/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/101946025",
+      "https://api.crossref.org/works/10.1364/boe.394914"
+    ],
+    "notes": [],
+    "codes": [
+      "101946025"
+    ],
+    "volume": "11",
+    "pages": "4110",
+    "published-online": "2020-7-9",
+    "published-print": "2020-8-1",
+    "primary": "https://doi.org/10.1364/boe.394914",
+    "evidence": "本人 ORCID",
+    "id": "HZ056",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": 2,
+    "zh": "宽视场模块化 HD-DOT 系统",
+    "why": "看赵教授第一作者的硬件系统工作，理解与你们项目及 LUMO 的技术渊源。",
+    "local_pdf": "PDF/2020_modular_HD-DOT.pdf"
+  },
+  {
+    "title": "The ANIMATE System: An Infant-Specific Scalable, Wearable, High-Density Diffuse Optical Tomography Technology",
+    "year": "2019",
+    "date": "2019",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "BioMedEng 2019",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104974589"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104974589"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104974589",
+    "evidence": "本人 ORCID",
+    "id": "HZ057",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Integrating motion sensing and wearable, modular high-density diffuse optical tomography: preliminary results",
+    "year": "2019",
+    "date": "2019-07-11",
+    "type": "conference-paper",
+    "doi": "10.1117/12.2527197",
+    "authors": "Sabrina Brigadoi; Aman Ganglani; Hubin Zhao; Robert J. Cooper",
+    "venue": "Diffuse Optical Spectroscopy and Imaging VII",
+    "links": [
+      "http://dx.doi.org/10.1117/12.2527197"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882102",
+      "https://api.crossref.org/works/10.1117/12.2527197"
+    ],
+    "notes": [],
+    "codes": [
+      "104882102"
+    ],
+    "volume": "",
+    "pages": "4",
+    "published-print": "2019-7-11",
+    "primary": "https://doi.org/10.1117/12.2527197",
+    "evidence": "本人 ORCID",
+    "id": "HZ058",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Advances in wearable high-density diffuse optical tomography: first applications of a new commercial technology and development of an infant-specific research device",
+    "year": "2019",
+    "date": "2019-07-11",
+    "type": "conference-paper",
+    "doi": "10.1117/12.2526976",
+    "authors": "Hubin Zhao; Sabrina Brigadoi; Reuben Hill; Greg Smith; Luke Dunne; Elisabetta Maria Frijia; Samuel Powell; Nick L. Everdell; Robert Cooper",
+    "venue": "Diffuse Optical Spectroscopy and Imaging VII",
+    "links": [
+      "http://dx.doi.org/10.1117/12.2526976"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882098",
+      "https://api.crossref.org/works/10.1117/12.2526976"
+    ],
+    "notes": [],
+    "codes": [
+      "104882098"
+    ],
+    "volume": "",
+    "pages": "2",
+    "published-print": "2019-7-11",
+    "primary": "https://doi.org/10.1117/12.2526976",
+    "evidence": "本人 ORCID",
+    "id": "HZ059",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A 1000-Channel Wearable, Full Wireless Diffuse Optical Tomography System",
+    "year": "2019",
+    "date": "2019-07",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "IEEE EMBC",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882577"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882577"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882577",
+    "evidence": "本人 ORCID",
+    "id": "HZ060",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Wearable, Modular, High-Density Diffuse Optical Tomography Systems",
+    "year": "2018",
+    "date": "2018-09",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "BioMedEng 2018",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882552"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882552"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882552",
+    "evidence": "本人 ORCID",
+    "id": "HZ061",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "The ANIMATE Project: Developing a Modular, Wearable, High-Density Diffuse Optical Tomography System for Imaging Newborn Infant Motor Development",
+    "year": "2018",
+    "date": "2018-10",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "fNIRS 2018",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882521"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882521"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882521",
+    "evidence": "本人 ORCID",
+    "id": "HZ062",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "On-Probe Neural Interface ASIC for Combined Electrical Recording and Optogenetic Stimulation",
+    "year": "2018",
+    "date": "2018-06",
+    "type": "journal-article",
+    "doi": "10.1109/tbcas.2018.2818818",
+    "authors": "Reza Ramezani; Andrew Jackson; Timothy G. Constandinou; Patrick Degenaar; Yan Liu; Fahimeh Dehkhoda; Ahmed Soltan; Dorian Haci; Hubin Zhao; Dimitrios Firfilionis; Anupam Hazra; Mark O. Cunningham",
+    "venue": "IEEE Transactions on Biomedical Circuits and Systems",
+    "links": [
+      "http://dx.doi.org/10.1109/tbcas.2018.2818818"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882375",
+      "https://api.crossref.org/works/10.1109/tbcas.2018.2818818"
+    ],
+    "notes": [],
+    "codes": [
+      "104882375"
+    ],
+    "volume": "12",
+    "pages": "576-588",
+    "published-print": "2018-6",
+    "primary": "https://doi.org/10.1109/tbcas.2018.2818818",
+    "evidence": "本人 ORCID",
+    "id": "HZ063",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Investigating the Benefits of Integrated Motion Sensing and Wearable, Modular High-Density Diffuse Optical Tomography",
+    "year": "2018",
+    "date": "2018-10",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "fNIRS 2018",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882531",
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914042"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "104882531",
+      "144914042"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882531",
+    "evidence": "本人 ORCID",
+    "id": "HZ064",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A Scalable Optoelectronic Neural Probe Architecture With Self-Diagnostic Capability",
+    "year": "2018",
+    "date": "2018-01-24",
+    "type": "journal-article",
+    "doi": "10.1109/tcsi.2018.2792219",
+    "authors": "Hubin Zhao; Ahmed Soltan; Pleun Maaskant; Na Dong; Xiaohan Sun; Patrick Degenaar",
+    "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "links": [
+      "http://dx.doi.org/10.1109/tcsi.2018.2792219"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6054034/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/101946125",
+      "https://api.crossref.org/works/10.1109/tcsi.2018.2792219"
+    ],
+    "notes": [],
+    "codes": [
+      "101946125"
+    ],
+    "volume": "65",
+    "pages": "2431-2442",
+    "published-print": "2018-8",
+    "primary": "https://doi.org/10.1109/tcsi.2018.2792219",
+    "evidence": "本人 ORCID",
+    "id": "HZ065",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": 12,
+    "zh": "自诊断光电神经探针架构",
+    "why": "补充理解早期植入式光遗传／电子学背景，与当前非侵入式项目分开阅读。"
+  },
+  {
+    "title": "The μNTS: a wearable, modular, high-density diffuse optical tomography system",
+    "year": "2017",
+    "date": "2017-06-29",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "Robert Cooper; Danial Chitnis; Hubin Zhao; Simone Quaggia; Nick Everdell",
+    "venue": "",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914008"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。"
+    ],
+    "codes": [
+      "144914008"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914008",
+    "evidence": "本人 ORCID",
+    "id": "HZ066",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Self-Diagnosis Implantable Optrode for Optogenetic Stimulation",
+    "year": "2017",
+    "date": "2017",
+    "type": "dissertation",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "Newcastle University",
+    "links": [
+      "https://theses.ncl.ac.uk/jspui/handle/10443/3576"
+    ],
+    "oa": "https://theses.ncl.ac.uk/jspui/bitstream/10443/3576/1/Zhao%2C%20H.%202017.pdf",
+    "sources": [
+      "https://theses.ncl.ac.uk/jspui/handle/10443/3576"
+    ],
+    "notes": [],
+    "codes": [],
+    "primary": "https://theses.ncl.ac.uk/jspui/handle/10443/3576",
+    "evidence": "高校／出版社／作者署名记录",
+    "id": "HZ067",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Review of recent progress toward a fiberless, whole-scalp diffuse optical tomography system",
+    "year": "2017",
+    "date": "2017-09-26",
+    "type": "journal-article",
+    "doi": "10.1117/1.nph.5.1.011012",
+    "authors": "Hubin Zhao; Robert J. Cooper",
+    "venue": "Neurophotonics",
+    "links": [
+      "http://dx.doi.org/10.1117/1.nph.5.1.011012"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5613216/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104881715",
+      "https://api.crossref.org/works/10.1117/1.nph.5.1.011012"
+    ],
+    "notes": [
+      "2017在线发表，2018卷期；不同库可能使用不同年份。"
+    ],
+    "codes": [
+      "104881715"
+    ],
+    "volume": "5",
+    "pages": "1-11",
+    "published-print": "2017-9-26",
+    "primary": "https://doi.org/10.1117/1.nph.5.1.011012",
+    "evidence": "本人 ORCID",
+    "id": "HZ068",
+    "topic": "fNIRS／HD-DOT 成像",
+    "priority": 11,
+    "zh": "无光纤全头 DOT 技术综述",
+    "why": "回看从台式设备到可穿戴成像的技术问题。"
+  },
+  {
+    "title": "Recent Progress of Development of Optogenetic Implantable Neural Probes",
+    "year": "2017",
+    "date": "2017-08",
+    "type": "journal-article",
+    "doi": "10.3390/ijms18081751",
+    "authors": "Hubin Zhao",
+    "venue": "International Journal of Molecular Sciences",
+    "links": [
+      "http://www.mdpi.com/1422-0067/18/8/1751"
+    ],
+    "oa": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5578141/",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/36007411",
+      "https://api.crossref.org/works/10.3390/ijms18081751"
+    ],
+    "notes": [],
+    "codes": [
+      "36007411"
+    ],
+    "volume": "18",
+    "pages": "1751",
+    "published-online": "2017-8-11",
+    "primary": "https://doi.org/10.3390/ijms18081751",
+    "evidence": "本人 ORCID",
+    "id": "HZ069",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "FPGA-based Adaptive Controller for Closed-Loop Neural Interface",
+    "year": "2016",
+    "date": "2016-11",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "IEEE ICSAE",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882563"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882563"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882563",
+    "evidence": "本人 ORCID",
+    "id": "HZ070",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An Integrated Neural Implant for Closed-loop Optical Stimulation and Electrical Recording",
+    "year": "2016",
+    "date": "2016-08",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "UK Sensory Motor Conference",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882601"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882601"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882601",
+    "evidence": "本人 ORCID",
+    "id": "HZ071",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Smart optrode for neural stimulation and sensing",
+    "year": "2015",
+    "date": "2015-11",
+    "type": "conference-paper",
+    "doi": "10.1109/icsens.2015.7370687",
+    "authors": "F. Dehkhoda; A. Soltan; R. Ramezani; H. Zhao; Y. Liu; T. Constandinou; P. Degenaar",
+    "venue": "2015 IEEE SENSORS",
+    "links": [
+      "http://dx.doi.org/10.1109/icsens.2015.7370687"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882634",
+      "https://api.crossref.org/works/10.1109/icsens.2015.7370687"
+    ],
+    "notes": [],
+    "codes": [
+      "104882634"
+    ],
+    "volume": "",
+    "pages": "1-4",
+    "published-print": "2015-11",
+    "primary": "https://doi.org/10.1109/icsens.2015.7370687",
+    "evidence": "本人 ORCID",
+    "id": "HZ072",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Design and Implementation of a CMOS based Brain Implant for Neuroprosthesis",
+    "year": "2015",
+    "date": "2015-01",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "NARC 2015",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882626"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882626"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882626",
+    "evidence": "本人 ORCID",
+    "id": "HZ073",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A CMOS-based neural implantable optrode for optogenetic stimulation and electrical recording",
+    "year": "2015",
+    "date": "2015-10",
+    "type": "conference-paper",
+    "doi": "10.1109/biocas.2015.7348357",
+    "authors": "Hubin Zhao; Fahimeh Dehkhoda; Reza Ramezani; Danil Sokolov; Patrick Degenaar; Yan Liu; Timothy Constandinou",
+    "venue": "2015 IEEE Biomedical Circuits and Systems Conference (BioCAS)",
+    "links": [
+      "http://dx.doi.org/10.1109/biocas.2015.7348357"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882141",
+      "https://api.crossref.org/works/10.1109/biocas.2015.7348357"
+    ],
+    "notes": [],
+    "codes": [
+      "104882141"
+    ],
+    "volume": "",
+    "pages": "1-4",
+    "published-print": "2015-10",
+    "primary": "https://doi.org/10.1109/biocas.2015.7348357",
+    "evidence": "本人 ORCID",
+    "id": "HZ074",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An implantable optrode with Self-diagnostic function in 0.35&amp;#x00B5;m CMOS for optical neural stimulation",
+    "year": "2014",
+    "date": "2014-10",
+    "type": "conference-paper",
+    "doi": "10.1109/biocas.2014.6981708",
+    "authors": "Hubin Zhao; Danil Sokolov; Patrick Degenaar",
+    "venue": "2014 IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings",
+    "links": [
+      "http://dx.doi.org/10.1109/biocas.2014.6981708"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882146",
+      "https://api.crossref.org/works/10.1109/biocas.2014.6981708"
+    ],
+    "notes": [],
+    "codes": [
+      "104882146"
+    ],
+    "volume": "",
+    "pages": "244-247",
+    "published-print": "2014-10",
+    "primary": "https://doi.org/10.1109/biocas.2014.6981708",
+    "evidence": "本人 ORCID",
+    "id": "HZ075",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "An 8100 pixel optoelectronic array for optogenetic retinal prosthesis",
+    "year": "2014",
+    "date": "2014-10",
+    "type": "conference-paper",
+    "doi": "10.1109/biocas.2014.6981735",
+    "authors": "Ahmed Soltan; Hubin Zhao; Lionel Chaudet; Mark Neil; Pleun Maaskant; Patrick Degenaar",
+    "venue": "2014 IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings",
+    "links": [
+      "http://dx.doi.org/10.1109/biocas.2014.6981735"
+    ],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882160",
+      "https://api.crossref.org/works/10.1109/biocas.2014.6981735"
+    ],
+    "notes": [],
+    "codes": [
+      "104882160"
+    ],
+    "volume": "",
+    "pages": "352-355",
+    "published-print": "2014-10",
+    "primary": "https://doi.org/10.1109/biocas.2014.6981735",
+    "evidence": "本人 ORCID",
+    "id": "HZ076",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Hardware based Implementation of Neuronal Computation Model",
+    "year": "2013",
+    "date": "2013-01",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "NARC 2013",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882707"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882707"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882707",
+    "evidence": "本人 ORCID",
+    "id": "HZ077",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "A CMOS-MEMS based Feedback-loop Microsystem for Implantable Biomedical Applications",
+    "year": "2013",
+    "date": "2013-09",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "North East Epilepsy Research Network Symposium",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882672"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882672"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882672",
+    "evidence": "本人 ORCID",
+    "id": "HZ078",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Design of a Servo Control System in Coiled Tubing Test-bed",
+    "year": "2012",
+    "date": "2012",
+    "type": "journal-article",
+    "doi": "",
+    "authors": "",
+    "venue": "Computer Measurement & Control",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882680"
+    ],
+    "notes": [
+      "早期工科成果，本人ORCID收录；缺少可独立核对的出版入口，作者表／全文待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882680"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882680",
+    "evidence": "本人 ORCID",
+    "id": "HZ079",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Design of a Measuring and Controlling System of Test Bed for Hydraulic Bursting based on LabWindows / CVI",
+    "year": "2011",
+    "date": "2011",
+    "type": "conference-paper",
+    "doi": "",
+    "authors": "",
+    "venue": "IEEE CECNet",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882692"
+    ],
+    "notes": [
+      "会议条目：可能仅摘要／海报／报告；全文及最终出版状态待核实。",
+      "早期工科成果，本人ORCID收录；缺少可独立核对的出版入口，作者表／全文待核实。",
+      "来源缺少完整作者表；本人ORCID归属已记录，完整作者顺序待补。"
+    ],
+    "codes": [
+      "104882692"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/104882692",
+    "evidence": "本人 ORCID",
+    "id": "HZ080",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Optical stimulation arrangement",
+    "year": "",
+    "date": "",
+    "type": "patent",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914029"
+    ],
+    "notes": [],
+    "codes": [
+      "144914029"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914029",
+    "evidence": "本人 ORCID",
+    "id": "HZ081",
+    "topic": "其他电子学与交叉研究",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  },
+  {
+    "title": "Implantable optrode with a controller configured for operation in a stimulation mode and in a diagnostic mode",
+    "year": "",
+    "date": "",
+    "type": "patent",
+    "doi": "",
+    "authors": "Hubin Zhao",
+    "venue": "",
+    "links": [],
+    "oa": "",
+    "sources": [
+      "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914031"
+    ],
+    "notes": [],
+    "codes": [
+      "144914031"
+    ],
+    "primary": "https://pub.orcid.org/v3.0/0000-0001-9408-4724/work/144914031",
+    "evidence": "本人 ORCID",
+    "id": "HZ082",
+    "topic": "早期植入式／光遗传与芯片",
+    "priority": null,
+    "zh": "",
+    "why": ""
+  }
+]
