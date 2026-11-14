@@ -52,7 +52,7 @@ Balance columns: names at same top baseline, image band approx middle 35% of pag
 BOTTOM full width thin separator then concise takeaway:
 “科研平台业务与临床整机进展，分别判断”
 Smaller:
-“各图非同比例；设备图、实物照片与组件示意均来自各公司官网素材，经过AI排版。”
+“各图非同比例；设备图、实物照片与组件示意均来自各公司官网素材。”
 Tiny footer:
 “进展基准：2026.11.14。原始图片、官网与研究链接见配套展示版和讲稿。”
 Page number03.
