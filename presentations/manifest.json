@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-14",
+  "approved_slides": [
+    1,
+    2
+  ],
+  "files": [
+    {
+      "path": "presentations/01_定稿/第一页_技术路线与读写机制.png",
+      "bytes": 2179472,
+      "sha256": "d18e1d035c93d5567678d869048a233073e672f0b649da14690b07109e07586a"
+    },
+    {
+      "path": "presentations/01_定稿/第一页讲解稿.html",
+      "bytes": 7588,
+      "sha256": "57c7cc77e6a75c1959ca0b632f9d45a39160e6b27cdaa5f432c54314390ce515"
+    },
+    {
+      "path": "presentations/01_定稿/第一页讲解稿.txt",
+      "bytes": 6166,
+      "sha256": "f68fe269db0c6010257054e0ebfbd14238426e95524f771877c81606b54d6e36"
+    },
+    {
+      "path": "presentations/02_定稿/第二页_侵入式技术与功能.png",
+      "bytes": 2104336,
+      "sha256": "6e4b0f87ae24b8a5453fde71f3ce69d3f997019986cac8bdb7c42a336f8aa01d"
+    },
+    {
+      "path": "presentations/02_定稿/第二页讲解稿.html",
+      "bytes": 6296,
+      "sha256": "900c19df1e548402ea3ee531905a0d44e6be5515b47298ce9f8f5ba9b95ce164"
+    },
+    {
+      "path": "presentations/02_定稿/第二页讲解稿.txt",
+      "bytes": 4645,
+      "sha256": "c321d84461f7fa162816b95f658170de8a6b354cdc52f49e3dd945901430d9b4"
+    },
+    {
+      "path": "presentations/README.md",
+      "bytes": 1147,
+      "sha256": "36dd37f01057379c1e5ba785cdf159445b6605e2b5c986ae0906a187ad961edc"
+    },
+    {
+      "path": "presentations/定稿说明.txt",
+      "bytes": 954,
+      "sha256": "a376782ced9fbcb3614f470b8d1f222d26001c1238627ebb2bba7081a05aa907"
+    }
+  ]
+}

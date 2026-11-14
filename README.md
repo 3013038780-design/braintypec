@@ -8,6 +8,7 @@
 
 | 想做什么 | 打开哪个文件 |
 |---|---|
+| 查看已确认的演示页与配套讲稿 | [图片演示稿：前两页定稿](presentations/README.md) |
 | 看最新的四方向研究与赵教授论文关联 | [下载研究图谱HTML](site/脑机接口研究图谱.html)，在本地浏览器打开 |
 | 阅读赵湖斌教授的作品 | [作品阅读目录HTML](publications/赵湖斌作品阅读目录.html)；[CSV](publications/赵湖斌作品清单.csv)；[BibTeX](publications/赵湖斌作品清单.bib) |
 | 阅读完整的四方向报告 | [四大产品方向竞品与论文调研](reports/四大产品方向竞品与论文调研_20261111.docx) |
