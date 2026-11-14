@@ -4,10 +4,18 @@
     1,
     2,
     3,
-    4
+    4,
+    5,
+    6,
+    7
   ],
   "draft_slides": [],
   "files": [
+    {
+      "path": "presentations/00_封面定稿/封面_脑机接口产品化方向研究.png",
+      "bytes": 1617072,
+      "sha256": "587ab2c9ca9cc4e73522481a6ae27607ed89432dcfc4cc7a87d4b61cebb862c4"
+    },
     {
       "path": "presentations/01_定稿/第一页_技术路线与读写机制.png",
       "bytes": 2179472,
@@ -159,14 +167,64 @@
       "sha256": "3a47c017dc48b3909dafba27032f29fcf87c61426914370447fb82c187f8bfe2"
     },
     {
+      "path": "presentations/05_定稿/第五页_非侵入式技术选择与场景.png",
+      "bytes": 1955438,
+      "sha256": "5807d19c9c92051f2c1a275e149b85fa5b1917e88f48f0bf076de435bec3ac84"
+    },
+    {
+      "path": "presentations/05_定稿/第五页讲解稿.html",
+      "bytes": 5881,
+      "sha256": "49205d8dcf7abde114ece23af8f2a262f6abd9c660ebab095f8cd99888f445cb"
+    },
+    {
+      "path": "presentations/05_定稿/第五页讲解稿.txt",
+      "bytes": 5274,
+      "sha256": "9b8d6daf751e634a84ffc711d2a2084612303e46236936ee986f8019ec53bc9d"
+    },
+    {
+      "path": "presentations/06_定稿/第六页_非侵入式代表公司.png",
+      "bytes": 1775286,
+      "sha256": "4a534a9baa331005481ce57beea719dd2ede749cc692719d9bad37228a13a561"
+    },
+    {
+      "path": "presentations/06_定稿/第六页讲解稿.html",
+      "bytes": 6384,
+      "sha256": "10a3f8a666a1d0f2ad550e0500cd1a422e592511463c4d805d6d4a4fabbe7cca"
+    },
+    {
+      "path": "presentations/06_定稿/第六页讲解稿.txt",
+      "bytes": 5719,
+      "sha256": "4c78c84eaedcd4088a84359f9ccefcbfa1daa83be141ef05b5885663a570b91f"
+    },
+    {
+      "path": "presentations/07_定稿/第七页_产品格局与商业化阶段.png",
+      "bytes": 1663118,
+      "sha256": "89652a026e9dde6728c1ee8f751964a92d8e637811f73085157b7a9363e9d30b"
+    },
+    {
+      "path": "presentations/07_定稿/第七页讲解稿.html",
+      "bytes": 4982,
+      "sha256": "f8c3cdd9d8c2aab5682732a6f5b3de651af6d699a6aa7431595bca7f2174fdfa"
+    },
+    {
+      "path": "presentations/07_定稿/第七页讲解稿.txt",
+      "bytes": 4390,
+      "sha256": "471d6d798654764c444a1aa63050f464c6e62348775901f930f8fef5844b20b4"
+    },
+    {
+      "path": "presentations/PPT与讲稿整合稿.md",
+      "bytes": 41005,
+      "sha256": "90fd6c8ea320ef8d7efdba8c2bf06f382cc3d0340b37d6fcab70dc4f81d291c1"
+    },
+    {
       "path": "presentations/README.md",
-      "bytes": 2277,
-      "sha256": "391154056a4829202c3b9a49b1372af442acf2e74597899355196fdc270c4c98"
+      "bytes": 2280,
+      "sha256": "873b74d3db29596dcfdd70f6607fc36d1184c5c26aa939052adac5860f0d671d"
     },
     {
       "path": "presentations/定稿说明.txt",
-      "bytes": 1197,
-      "sha256": "a2bb6fdfc676fe7cca18d63756b3b7e62c9b3200893978e73fd88fe216d45590"
+      "bytes": 1499,
+      "sha256": "46316423b9889af79517e23a5cfa1cb3504a4f0c0568b291df7c53ef050a8330"
     },
     {
       "path": "presentations/第二页讲稿修订说明.txt",
@@ -177,7 +235,11 @@
   "speaker_notes_revision": {
     "slide_2": "v7：按用户提供开头简洁融合植入规划与读取流程；图片不变",
     "slide_3": "定稿：公司背景、成立时间、聚焦、行业角色和临床产品进展；参考链接不朗读",
-    "slide_4": "定稿：半侵入式三种位置与博睿康、Precision、Synchron上下对应，含来源"
+    "slide_4": "定稿：半侵入式三种位置与博睿康、Precision、Synchron上下对应，含来源",
+    "slide_5": "本次统一定稿：沿用最近暂存稿，保留历史修订记录",
+    "slide_6": "六家公司当前稿：Gowerlabs、Kernel、慧创、Mendi、Neurable、强脑科技",
+    "slide_7": "科研、医疗、消费端：产品用途与商业化阶段"
   },
-  "draft_revisions": {}
+  "draft_revisions": {},
+  "approved_cover": true
 }
