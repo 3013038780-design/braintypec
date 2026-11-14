@@ -7,7 +7,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "draft_slides": [],
   "files": [
@@ -212,19 +213,34 @@
       "sha256": "471d6d798654764c444a1aa63050f464c6e62348775901f930f8fef5844b20b4"
     },
     {
+      "path": "presentations/08_定稿/第八页_赵教授可穿戴光学技术基座.png",
+      "bytes": 1857630,
+      "sha256": "993658dba29e8de2fa9ad289896dba790cbaf34d5f1c82c17fe83ac5eee0cb18"
+    },
+    {
+      "path": "presentations/08_定稿/第八页讲解稿.html",
+      "bytes": 4375,
+      "sha256": "ba6776166903b0b389a589e749e7f47b248c08b583e7749b64e96c92ffe3edf7"
+    },
+    {
+      "path": "presentations/08_定稿/第八页讲解稿.txt",
+      "bytes": 3879,
+      "sha256": "3113013f6d34db1ce680b82987fe48d6df23085d6a66922b6b75fa3de8a04985"
+    },
+    {
       "path": "presentations/PPT与讲稿整合稿.md",
-      "bytes": 41005,
-      "sha256": "90fd6c8ea320ef8d7efdba8c2bf06f382cc3d0340b37d6fcab70dc4f81d291c1"
+      "bytes": 45018,
+      "sha256": "7808bcf73b0256bb9e3c607db80b4c7ece815b19354947c09afabe7693469984"
     },
     {
       "path": "presentations/README.md",
-      "bytes": 2280,
-      "sha256": "873b74d3db29596dcfdd70f6607fc36d1184c5c26aa939052adac5860f0d671d"
+      "bytes": 2544,
+      "sha256": "65d1ba6eb5d01deb596b50eb69761e044d718d1776d77356f4bb0416aded6ab7"
     },
     {
       "path": "presentations/定稿说明.txt",
-      "bytes": 1499,
-      "sha256": "46316423b9889af79517e23a5cfa1cb3504a4f0c0568b291df7c53ef050a8330"
+      "bytes": 1607,
+      "sha256": "c524aac0f0ce304dc164b1fbf21765939e7ed2b9e8df5db237b5d819345262e3"
     },
     {
       "path": "presentations/第二页讲稿修订说明.txt",
@@ -238,7 +254,8 @@
     "slide_4": "定稿：半侵入式三种位置与博睿康、Precision、Synchron上下对应，含来源",
     "slide_5": "本次统一定稿：沿用最近暂存稿，保留历史修订记录",
     "slide_6": "六家公司当前稿：Gowerlabs、Kernel、慧创、Mendi、Neurable、强脑科技",
-    "slide_7": "科研、医疗、消费端：产品用途与商业化阶段"
+    "slide_7": "科研、医疗、消费端：产品用途与商业化阶段",
+    "slide_8": "定稿：成人模块化HD-DOT、新生儿柔性阵列、快速三维配准，含研究范围与来源"
   },
   "draft_revisions": {},
   "approved_cover": true
