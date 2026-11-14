@@ -3,7 +3,8 @@
   "approved_slides": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "draft_slides": [],
   "files": [
@@ -143,14 +144,29 @@
       "sha256": "c6e3d36d9c4bffb1c0421f3d7d4bf5f017c094aea03f9daa7a653eeebe03b8c8"
     },
     {
+      "path": "presentations/04_定稿/第四页_半侵入式接口与代表产品.png",
+      "bytes": 1877692,
+      "sha256": "c8367c9e02f1bfb007f7d1bc32dead086c8c4f06e812cd7c79e583db9a3cd418"
+    },
+    {
+      "path": "presentations/04_定稿/第四页讲解稿.html",
+      "bytes": 4809,
+      "sha256": "282f8cb3c06408d19704058a70a5ea1516f5049f2466f65263f3337fca13fc4d"
+    },
+    {
+      "path": "presentations/04_定稿/第四页讲解稿.txt",
+      "bytes": 4149,
+      "sha256": "3a47c017dc48b3909dafba27032f29fcf87c61426914370447fb82c187f8bfe2"
+    },
+    {
       "path": "presentations/README.md",
-      "bytes": 1840,
-      "sha256": "e1e909d0b3bd56fbd892b4d3f4de8a4f9c3761052b01219bc868c344f513b111"
+      "bytes": 2277,
+      "sha256": "391154056a4829202c3b9a49b1372af442acf2e74597899355196fdc270c4c98"
     },
     {
       "path": "presentations/定稿说明.txt",
-      "bytes": 1086,
-      "sha256": "74b809be01afd6f835bd22fbede792a2080025e9d5ed069f99040588142a29ff"
+      "bytes": 1197,
+      "sha256": "a2bb6fdfc676fe7cca18d63756b3b7e62c9b3200893978e73fd88fe216d45590"
     },
     {
       "path": "presentations/第二页讲稿修订说明.txt",
@@ -160,7 +176,8 @@
   ],
   "speaker_notes_revision": {
     "slide_2": "v7：按用户提供开头简洁融合植入规划与读取流程；图片不变",
-    "slide_3": "定稿：公司背景、成立时间、聚焦、行业角色和临床产品进展；参考链接不朗读"
+    "slide_3": "定稿：公司背景、成立时间、聚焦、行业角色和临床产品进展；参考链接不朗读",
+    "slide_4": "定稿：半侵入式三种位置与博睿康、Precision、Synchron上下对应，含来源"
   },
   "draft_revisions": {}
 }
