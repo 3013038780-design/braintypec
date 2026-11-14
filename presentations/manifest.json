@@ -30,13 +30,13 @@
     },
     {
       "path": "presentations/02_定稿/第二页讲解稿.html",
-      "bytes": 6296,
-      "sha256": "900c19df1e548402ea3ee531905a0d44e6be5515b47298ce9f8f5ba9b95ce164"
+      "bytes": 8327,
+      "sha256": "3ba981308d0a2e31d9b3bc09574fd8447566d07976e9342b3ecd4e1263b8fe55"
     },
     {
       "path": "presentations/02_定稿/第二页讲解稿.txt",
-      "bytes": 4645,
-      "sha256": "c321d84461f7fa162816b95f658170de8a6b354cdc52f49e3dd945901430d9b4"
+      "bytes": 6165,
+      "sha256": "dec93b47217ef86dfac66e9db2b8052b00f78d5288443b1c96116ea6a2e5c60a"
     },
     {
       "path": "presentations/03_草稿/第三页_侵入式公司与商业化_v1.png",
@@ -72,6 +72,14 @@
       "path": "presentations/定稿说明.txt",
       "bytes": 954,
       "sha256": "a376782ced9fbcb3614f470b8d1f222d26001c1238627ebb2bba7081a05aa907"
+    },
+    {
+      "path": "presentations/第二页讲稿修订说明.txt",
+      "bytes": 956,
+      "sha256": "2a97bae96d83206afe5fa8e8738afc2f6fb84c8f9f154e075bcf36e50de7d502"
     }
-  ]
+  ],
+  "speaker_notes_revision": {
+    "slide_2": "v5：植入规划、R1职责与读写边界；图片不变"
+  }
 }
