@@ -1,0 +1,62 @@
+{
+  "checked": "2026-11-14",
+  "assets": [
+    {
+      "company": "Neuralink",
+      "url": "https://neuralink.com/",
+      "domain": "neuralink.com",
+      "file": "Neuralink_R1.webp",
+      "caption": "R1手术机器人（官网设备图）",
+      "title": "全植入系统整合",
+      "lines": [
+        "N1／Telepathy",
+        "PRIME／VOICE临床研究"
+      ],
+      "source": "https://neuralink.com/technology/",
+      "image": "https://neuralink.com/assets/static/main.Cv3VFk6C.webp"
+    },
+    {
+      "company": "Blackrock Neurotech",
+      "url": "https://blackrockneurotech.com/",
+      "domain": "blackrockneurotech.com",
+      "file": "Blackrock_Utah_Array.png",
+      "caption": "Utah Array与连接器（官网实物照片）",
+      "title": "科研平台业务基础",
+      "lines": [
+        "Utah Array／NeuroPort",
+        "MoveAgain仍在开发"
+      ],
+      "source": "https://blackrockneurotech.com/products/utah-array/",
+      "image": "https://blackrockneurotech.com/wp-content/uploads/2023/04/Utah-Array.png"
+    },
+    {
+      "company": "Paradromics",
+      "url": "https://paradromics.com/",
+      "domain": "paradromics.com",
+      "file": "Paradromics_Connexus.png",
+      "caption": "Connexus接口（官网产品图）",
+      "title": "聚焦语言交流恢复",
+      "lines": [
+        "2026.09公司披露实时交流",
+        "现仍为研究设备"
+      ],
+      "source": "https://paradromics.com/connexus/",
+      "image": "https://paradromics.com/wp-content/themes/paradromics/img/connexus/Hand-with-Product.png"
+    },
+    {
+      "company": "阶梯医疗 StairMed",
+      "url": "https://www.stairmed.com/",
+      "domain": "stairmed.com",
+      "file": "StairMed_01.png",
+      "caption": "植入体外壳（官网组件示意）",
+      "title": "中国全侵入式临床转化",
+      "lines": [
+        "WRS运动方向注册临床推进",
+        "语言方向研究已登记"
+      ],
+      "source": "https://www.stairmed.com/",
+      "image": "https://www.stairmed.com/Uploads/image/20240814/17236181469447.png"
+    }
+  ],
+  "note": "原图展示HTML使用下载的官方原始素材，未修改像素；AI生成PNG仅作排版预览，不替代官方设备原图。阶梯外壳为官网组件示意，并未核认为当前WRS完整整机照片。未使用官网驾驶场景等远期概念图作为已完成产品证据。"
+}

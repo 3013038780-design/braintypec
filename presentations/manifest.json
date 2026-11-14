@@ -39,6 +39,11 @@
       "sha256": "55583db94029cf0631cb50ccfc8c795ed18d72f66d485f0eac4c061b55681a26"
     },
     {
+      "path": "presentations/03_草稿/第三页_侵入式公司_v3有图预览.png",
+      "bytes": 1648293,
+      "sha256": "3237861377dc76a60c62327289d4fddece33fd28d1a72c8779be075169805aaf"
+    },
+    {
       "path": "presentations/03_草稿/第三页_侵入式公司与商业化_v1.png",
       "bytes": 1902191,
       "sha256": "9f232a892ecc609da3009b8efdac85ead149569d52e25baa219aaa020725dbab"
@@ -47,6 +52,11 @@
       "path": "presentations/03_草稿/第三页_侵入式公司与商业化_v2.png",
       "bytes": 1733218,
       "sha256": "acffce2c82a9a48f180afd28360cdb6748b4e0bad3c5f3af14798c1253776807"
+    },
+    {
+      "path": "presentations/03_草稿/第三页_官网原图可点击展示版.html",
+      "bytes": 4753563,
+      "sha256": "b8f719f856bf372e794f3758e19386f636985d68d5532279e371c5f9fb85abc0"
     },
     {
       "path": "presentations/03_草稿/第三页_官网可点击展示版.html",
@@ -67,6 +77,16 @@
       "path": "presentations/03_草稿/第三页图片生成提示词_v2.txt",
       "bytes": 3752,
       "sha256": "f5ce523a3fc5ceb654d6cc19c99600409bfd275226f7bcbaede7b121b704a6ec"
+    },
+    {
+      "path": "presentations/03_草稿/第三页图片生成提示词_v3有图版.txt",
+      "bytes": 4136,
+      "sha256": "6a3eda9c9aef69141670d4376f37760876df76c791f417e66263874cbc50727d"
+    },
+    {
+      "path": "presentations/03_草稿/第三页有图版素材来源.json",
+      "bytes": 2390,
+      "sha256": "2ff713c8723d26c9d017e27b9bc927adbf0d83069e97960f2ed7f0f4a82c35d8"
     },
     {
       "path": "presentations/03_草稿/第三页来源与研究记录.txt",
@@ -94,9 +114,19 @@
       "sha256": "66d01629752ee03fd7a693330903d7ff1d07272be0df30f4835aa6ae4b458e15"
     },
     {
+      "path": "presentations/03_草稿/第三页讲解稿_v3有图版.html",
+      "bytes": 9181,
+      "sha256": "1cb08b8020a4a6d2c10a8bebcce5b4e9661e5f8bc3e3ff503a3ff740463157a8"
+    },
+    {
+      "path": "presentations/03_草稿/第三页讲解稿_v3有图版.txt",
+      "bytes": 6394,
+      "sha256": "c6e3d36d9c4bffb1c0421f3d7d4bf5f017c094aea03f9daa7a653eeebe03b8c8"
+    },
+    {
       "path": "presentations/README.md",
-      "bytes": 1554,
-      "sha256": "0ee3f4a3ca20bb9776856f9d7451de5c7b0f23b5a8d30e0cd6c8f338ffb42640"
+      "bytes": 1888,
+      "sha256": "687609471fb53188ce3d79619d458bdaa71b13cf0010e758ab639fdadb4bce99"
     },
     {
       "path": "presentations/定稿说明.txt",
@@ -113,6 +143,6 @@
     "slide_2": "v7：按用户提供开头简洁融合植入规划与读取流程；图片不变"
   },
   "draft_revisions": {
-    "slide_3": "v2：区分公司代表性，更新Paradromics实时交流及阶梯语言登记；增加官网点击展示版"
+    "slide_3": "v3有图版：减少页面文字，增加四家官方设备/组件图，附保留原图的可点击展示；待讨论"
   }
 }
