@@ -1,0 +1,65 @@
+Use case: scientific-educational / professional research presentation.
+Create the THIRD CONTENT SLIDE of a Chinese BCI industry research deck as a single beautiful raster image. Landscape 16:9 high resolution. The attached second slide is STYLE REFERENCE ONLY. Match white background, deep navy bold Chinese typography resembling Source Han Sans, restrained teal accents, very fine rules, clean readable professional medical/technology research style. No gore, no decorative glowing brain, no invented logos, no superscript citation numbers, no numbered footnote markers. This is a company/product comparison page, not another anatomy page. No need to repeat brain anatomy. No rounded UI cards.
+
+Title exactly:
+“侵入式代表公司：科研平台与临床产品并行推进”
+Subtitle:
+“聚焦皮层内电极：比较具体产品、目标应用、落地阶段与已有业务”
+
+Main area a beautifully typeset airy comparison matrix, NOT a dense spreadsheet. Five aligned columns with very subtle horizontal separators; muted teal header text. Column widths approximately 18%,22%,15%,25%,20%. Four spacious company rows. Body text ample readable 24-28px at 1672x940. Chinese names and English product names accurately rendered. Company names navy bold, country smaller muted.
+Column headers:
+“公司”
+“产品与技术”
+“目标应用”
+“落地阶段”
+“业务与商业状态”
+
+ROW1
+Company “Neuralink” smaller “美国”
+Product “N1／Telepathy” second line “柔性丝状电极、无线植入”
+Applications “电脑控制” second line “辅助数字交互”
+Stage “PRIME 等临床研究” second line “仍为研究用途”
+Commercial “试验相关费用由研究方承担” second line “尚非零售产品”
+
+ROW2
+Company “Blackrock Neurotech” smaller “美国”
+Product “Utah Array／NeuroPort” second line “MoveAgain 临床系统”
+Applications “科研记录与刺激” second line “交流、运动控制研究”
+Stage “科研产品已形成供货体系” second line “MoveAgain 仍在开发”
+Commercial “面向科研机构提供平台” second line “临床产品开发并行”
+
+ROW3
+Company “Paradromics” smaller “美国”
+Product “Connexus” second line “皮层内微电极、全植入”
+Applications “辅助表达与交流”
+Stage “Connect-One 早期可行性研究” second line “2026 年 6 月首次长期植入*”
+Commercial “研究用途” second line “尚未获准商业销售”
+
+ROW4
+Company “阶梯医疗 StairMed” smaller “中国”
+Product “WRS 无线系统” second line “超柔性皮层内电极”
+Applications “脊髓损伤者脑控交互”
+Stage “多中心临床研究已登记” second line “NCT07603752”
+Commercial “提供科研产品” second line “临床转化推进中”
+
+After matrix a small understated annotation:
+“* Paradromics 植入进展据其 2026 年 10 月官方公告。科研设备与整套临床脑机接口分开判断。”
+
+Lower takeaway band with a teal left bar, like previous slide, approximately bottom 20%:
+Bold teal “已有业务集中于科研平台；植入式整机沿医疗临床路径推进”
+Below navy smaller:
+“主要客户与合作方：科研机构、临床中心，以及有严重功能障碍的目标患者”
+Below muted:
+“财务口径：本轮未取得上述四家可核验的分产品营收，不以融资或试验入组代替销售收入。”
+Small classification note just above footer:
+“本页沿用‘进入脑实质’的分类；NEO、Synchron、Precision 放在后续半侵入式页面讨论。”
+This is classification choice, do not imply these companies cannot have any other route/product.
+
+Footer tiny, no bracket or superscript:
+“资料基准：2026.11.11；核查：2026.11.14。来源：各公司官方资料、ClinicalTrials.gov；链接见配套讲稿。”
+Page number “03”.
+
+Scientific/editorial constraints:
+No exact revenue or funding digits invented. Do not label breakthrough designation as approval, clinical trials as market launch, or all company revenue as BCI implant revenue. Do not add patient counts, price tags or performance metrics that were not provided. No photos of actual products generated from imagination. The goal is clear professional comparison with generous white space and crisp elegant typography, consistent with second slide. Keep all body text legible, avoid any clipping, crowded English company names or overly long lines. Render full slide image only.
+
+局部修订：删除Paradromics日期后的星号与下方说明行前的星号，其余不变。

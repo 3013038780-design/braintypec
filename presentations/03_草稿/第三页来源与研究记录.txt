@@ -1,0 +1,64 @@
+第三页：侵入式代表公司、产品与商业化
+状态：第一版，待讨论，不是定稿。
+资料基准：2026-11-11；核查：2026-11-14。对无发布日期的现行公司网页，仅说明核查时可见内容，不据此精确回推历史某日状态。
+与前两页的分类一致：侵入式在本组页面特指脑实质内/皮层内电极。半侵入式为不直接穿入脑实质的植入方案这一比较口径。
+本页四家为代表性样本，非国内外所有公司排名或完整清单。
+
+Neuralink
+https://neuralink.com/trials/device-control/
+https://neuralink.com/trials/
+本轮读取官方正文：N1/Telepathy电脑控制，PRIME等研究，设备标为investigational、未获FDA或其他监管机构批准；参与者研究相关费用覆盖。
+本页不添加未核实参与者总数、当前融资额、收入或零售价格。
+商业状态：临床试验产品开发。付费患者市场/未来商业模式，不作为现有销售事实。
+“N1/Telepathy”是并列标示硬件与应用/产品线，不把两个名称视为同一物理器件。
+
+Blackrock Neurotech
+https://blackrockneurotech.com/products/
+https://blackrockneurotech.com/faq/
+https://blackrockneurotech.com/our-tech/
+本轮读取官方正文：科研工具套件、电极/硬件/软件目录；Utah Array用于记录与刺激研究；MoveAgain被称为upcoming medical device，页面列2021年Breakthrough Designation。
+本页采用：科研平台供货与临床系统开发并行。
+不把Breakthrough designation写成上市批准；不把学术团队用其硬件取得的全部成果写成MoveAgain成品能力。
+官方供货与客户资料不能替代审计财报；未核实本轮分产品营收。
+
+Paradromics
+https://paradromics.com/connexus/
+https://paradromics.com/clinical-study/
+https://paradromics.com/news/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide/
+本轮读取官方正文，2026-10-26公告明确：2025-11取得Connect-One IDE；2026-06密歇根完成首例长期植入；此次更新是扩展招募地域范围。
+首例长期植入日期为公司披露，本页明确注明来源性质；未写为独立审计。
+Connexus：皮层内接口、植入组件与无线链路、外部解码，初始临床聚焦交流。页面仍明确investigational。
+不将2025年短期人体植入与2026年长期植入混用；不把临床试验许可写成商业销售批准。
+产品中近红外光链路用于通信，不是fNIRS测量或脑光刺激。
+
+阶梯医疗 StairMed
+https://www.stairmed.com/
+https://www.stairmed.com/linchuangjiejuefangan.html
+https://www.stairmed.com/xinwenzaixian.html
+https://clinicaltrials.gov/study/NCT07603752
+官方API：
+https://clinicaltrials.gov/api/v2/studies/NCT07603752
+南通大学附属医院合作原始报道：
+https://www.ahnmc.com/shownews.asp?id=21573
+本轮读取公司官网、产品/临床方向、新闻页，及ClinicalTrials.gov官方API JSON。
+API快照存于research/slide_style_options/slide3_sources/NCT07603752.json。
+注册申办者：Shanghai StairMed Technology Co., Ltd.；协作方华山医院。器械名WRS。
+设计：前瞻性、开放、多中心、单组；计划入组34人。登记开始2026-04-28；首次发布2026-05-22；状态记录最后更新同日，RECRUITING。
+上述计划入组数和旧状态不作为2026年11月实际人数；图片只写多中心研究已登记，不写当前精确招募状态。
+最新媒体在2026-10-28披露42例、注册临床8月完成入组等，本页未采用这些数值，因为本轮未获得同等更新的原始监管/登记记录。留待后续深入，不将旧注册状态覆盖媒体的新近披露。
+科研产品目录包括HNE超柔性电极、采集系统、辅助植入工具，支持存在科研产品供给这一判断；未取得审计营收。
+官网临床解决方案也含远期应用方向，不把视听修复等规划全部写成已实现功能。
+ChiCTR入口322930本轮打开405，已如实保留，不声称阅读全文。
+StairPlex产品页已打开核查：https://www.stairmed.com/caijixit.html 。该产品面向小鼠、大鼠等科研用途，不作为临床植入整机的销售证据。
+
+商业与财务口径
+“已有业务集中于科研平台”是基于本页四家样本的产品/业务形态判断，不是全球收入构成的统计结论。
+“本轮未取得分产品营收”是研究资料取得范围，不等于营收为零，也不等于公司从未披露任何财务数字。
+本页不推测零售定价，不以融资金额计算市场规模。
+目标患者、科研机构、临床中心的角色不同，讲稿将目标用户与采购/研究合作方分开解释。
+
+制作
+内置imagegen，以第二页定稿作视觉参考。非PPT工具。
+图片一轮生成后去除唯一星号标记，以遵守不使用上角标的偏好。
+完整提示词保存于本目录。
+
