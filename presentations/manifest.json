@@ -2,11 +2,10 @@
   "date": "2026-11-14",
   "approved_slides": [
     1,
-    2
-  ],
-  "draft_slides": [
+    2,
     3
   ],
+  "draft_slides": [],
   "files": [
     {
       "path": "presentations/01_定稿/第一页_技术路线与读写机制.png",
@@ -37,6 +36,26 @@
       "path": "presentations/02_定稿/第二页讲解稿.txt",
       "bytes": 6068,
       "sha256": "55583db94029cf0631cb50ccfc8c795ed18d72f66d485f0eac4c061b55681a26"
+    },
+    {
+      "path": "presentations/03_定稿/第三页_侵入式代表公司.png",
+      "bytes": 1737703,
+      "sha256": "f23284bce48f799286c54f837d079167da45a53098bc0e4aa3ac80da35362e27"
+    },
+    {
+      "path": "presentations/03_定稿/第三页_可点击展示版.html",
+      "bytes": 660,
+      "sha256": "114f9e803a9e25ee52ca402db58962e98a69084d2fb38bb37312823e9edb2e61"
+    },
+    {
+      "path": "presentations/03_定稿/第三页讲解稿.html",
+      "bytes": 6174,
+      "sha256": "c914087dc67f4df2f4616e787332c42ad541578f378b9f4ed544b313cadff901"
+    },
+    {
+      "path": "presentations/03_定稿/第三页讲解稿.txt",
+      "bytes": 5376,
+      "sha256": "a6e2cbcb61c8ce7e4e2f7d113d401212371e4c888f23bc6d5117978177e17d95"
     },
     {
       "path": "presentations/03_草稿/第三页_侵入式公司_v3有图预览.png",
@@ -125,13 +144,13 @@
     },
     {
       "path": "presentations/README.md",
-      "bytes": 1888,
-      "sha256": "687609471fb53188ce3d79619d458bdaa71b13cf0010e758ab639fdadb4bce99"
+      "bytes": 1840,
+      "sha256": "e1e909d0b3bd56fbd892b4d3f4de8a4f9c3761052b01219bc868c344f513b111"
     },
     {
       "path": "presentations/定稿说明.txt",
-      "bytes": 954,
-      "sha256": "a376782ced9fbcb3614f470b8d1f222d26001c1238627ebb2bba7081a05aa907"
+      "bytes": 1086,
+      "sha256": "74b809be01afd6f835bd22fbede792a2080025e9d5ed069f99040588142a29ff"
     },
     {
       "path": "presentations/第二页讲稿修订说明.txt",
@@ -140,9 +159,8 @@
     }
   ],
   "speaker_notes_revision": {
-    "slide_2": "v7：按用户提供开头简洁融合植入规划与读取流程；图片不变"
+    "slide_2": "v7：按用户提供开头简洁融合植入规划与读取流程；图片不变",
+    "slide_3": "定稿：公司背景、成立时间、聚焦、行业角色和临床产品进展；参考链接不朗读"
   },
-  "draft_revisions": {
-    "slide_3": "有图版删除底部AI排版字样，保留图片来源及非同比例说明；其他内容不变"
-  }
+  "draft_revisions": {}
 }
