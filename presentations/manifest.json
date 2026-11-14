@@ -8,7 +8,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "draft_slides": [],
   "files": [
@@ -228,14 +229,29 @@
       "sha256": "3113013f6d34db1ce680b82987fe48d6df23085d6a66922b6b75fa3de8a04985"
     },
     {
+      "path": "presentations/09_定稿/第九页_赵教授软件与算法积累.png",
+      "bytes": 1975988,
+      "sha256": "326570336f7c6900e8350bf03fdc45f334564bc5e2a7a2e85bf47b5782dfacd6"
+    },
+    {
+      "path": "presentations/09_定稿/第九页讲解稿.html",
+      "bytes": 4785,
+      "sha256": "e2008398e61d6caf7c8c26e4f75a3cf66a793c517964eb7b5c74af0ea533fc08"
+    },
+    {
+      "path": "presentations/09_定稿/第九页讲解稿.txt",
+      "bytes": 4238,
+      "sha256": "3d5758baef910b6a52bd01bc5994c3e65a84e1cda8c1f99e8454459f9d291785"
+    },
+    {
       "path": "presentations/PPT与讲稿整合稿.md",
-      "bytes": 45103,
-      "sha256": "1391ddfab06b3c45603673b8e4904fd6eaa53355418d9b7c38c2f2af68dfb266"
+      "bytes": 49706,
+      "sha256": "c42a8a3775b80086c5890c535b764d504736d9ee862521221c3ee2fa2f4a20dd"
     },
     {
       "path": "presentations/README.md",
-      "bytes": 2544,
-      "sha256": "65d1ba6eb5d01deb596b50eb69761e044d718d1776d77356f4bb0416aded6ab7"
+      "bytes": 2789,
+      "sha256": "d35bb505ae65d757cb798337748ab30f07a21479bc15456c4639f7b64352d7a9"
     },
     {
       "path": "presentations/定稿说明.txt",
@@ -255,7 +271,8 @@
     "slide_5": "本次统一定稿：沿用最近暂存稿，保留历史修订记录",
     "slide_6": "六家公司当前稿：Gowerlabs、Kernel、慧创、Mendi、Neurable、强脑科技",
     "slide_7": "科研、医疗、消费端：产品用途与商业化阶段",
-    "slide_8": "定稿：成人模块化HD-DOT、新生儿柔性阵列、快速三维配准，含研究范围与来源"
+    "slide_8": "定稿：成人模块化HD-DOT、新生儿柔性阵列、快速三维配准，含研究范围与来源",
+    "slide_9": "定稿：光学在线处理、疲劳负荷、MI-CES与NeuroSpeech；按后续意见补充图中原始光强输入及fNIRS／DOT中文名称"
   },
   "draft_revisions": {},
   "approved_cover": true
