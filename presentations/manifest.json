@@ -230,23 +230,23 @@
     },
     {
       "path": "presentations/09_定稿/第九页_赵教授软件与算法积累.png",
-      "bytes": 1975988,
-      "sha256": "326570336f7c6900e8350bf03fdc45f334564bc5e2a7a2e85bf47b5782dfacd6"
+      "bytes": 1847959,
+      "sha256": "14ca8ec081e391dffb58776ea3bffab87a040fc83c7c8964a464d30cc61fa63d"
     },
     {
       "path": "presentations/09_定稿/第九页讲解稿.html",
-      "bytes": 4785,
-      "sha256": "e2008398e61d6caf7c8c26e4f75a3cf66a793c517964eb7b5c74af0ea533fc08"
+      "bytes": 3490,
+      "sha256": "019026efc7f8c3cab53f7ebafaf5dae1cfc048d9ff318d00b2e4ccaad9785fc3"
     },
     {
       "path": "presentations/09_定稿/第九页讲解稿.txt",
-      "bytes": 4238,
-      "sha256": "3d5758baef910b6a52bd01bc5994c3e65a84e1cda8c1f99e8454459f9d291785"
+      "bytes": 2958,
+      "sha256": "67733bfef97b1eefb9bfa4c4410991764f78eee85aa68bbad0011326b3ea3c89"
     },
     {
       "path": "presentations/PPT与讲稿整合稿.md",
-      "bytes": 49706,
-      "sha256": "c42a8a3775b80086c5890c535b764d504736d9ee862521221c3ee2fa2f4a20dd"
+      "bytes": 48417,
+      "sha256": "3be7a0796f03840d7ad5fa8b5bf4bc066054d6763c2ccc8a4444bf70b45be5ea"
     },
     {
       "path": "presentations/README.md",
@@ -272,7 +272,7 @@
     "slide_6": "六家公司当前稿：Gowerlabs、Kernel、慧创、Mendi、Neurable、强脑科技",
     "slide_7": "科研、医疗、消费端：产品用途与商业化阶段",
     "slide_8": "定稿：成人模块化HD-DOT、新生儿柔性阵列、快速三维配准，含研究范围与来源",
-    "slide_9": "定稿：光学在线处理、疲劳负荷、MI-CES与NeuroSpeech；按后续意见补充图中原始光强输入及fNIRS／DOT中文名称"
+    "slide_9": "定稿：能力表达版，突出在线成像、疲劳负荷分析、运动想象和脑电与声音识别；删除正文中的样本及评估流程"
   },
   "draft_revisions": {},
   "approved_cover": true
