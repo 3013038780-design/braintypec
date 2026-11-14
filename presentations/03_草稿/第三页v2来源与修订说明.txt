@@ -1,0 +1,60 @@
+第三页v2修订与证据说明
+状态：待讨论，未标定稿。更新基准2026-11-14，历史v1保留。
+
+调整：
+四家公司保留，重新强调代表性，不把阶梯的科研产品布局等同Blackrock的科研平台业务成熟度。
+Paradromics由仅写首次长期植入，更新为2026-06植入、2026-09披露实时交流。
+阶梯补入中文语音研究登记；运动注册临床进展以原始试验目的及创始人采访核对。
+图片增加四家公司官网域名；配套HTML展示版在公司名称和域名处提供可点击外链。PNG自身不具备超链接。
+阶段判断与业务模式比较属于基于来源的分析，不代表收入排名或企业排名。
+
+Paradromics：
+2026-09-14官方公告
+https://paradromics.com/news/paradromics-achieves-real-time-speech-connexus-brain-computer-interface/
+本轮读取正文：首位参与者在Connect-One早期可行性研究中，使用全植入Connexus进行实时语音/文字交流、自主表达、开放式问答及家庭通话。
+公司披露，非本轮独立核查的同行评审效果研究。本页不引用单句零错误为普遍准确率，不给出未核实速度或总体效果。
+2026-10-26官方公告继续支持2026-06首次长期植入日期。
+https://paradromics.com/news/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide/
+
+阶梯运动方向：
+原始ChiCTR登记的研究目的通过官网检索内容核对，明确“为产品注册上市提供依据”；页面直接访问可能405。
+https://www.chictr.org.cn/showproj.html?proj=322930
+历史版本：
+https://www.chictr.org.cn/hvshowproject.html?id=302569&v=1.0
+ClinicalTrials.gov官方API此前读取并保存NCT07603752，研究类型和申办者已核查。
+中国证券报2026-11-11创始人直接采访：
+https://epaper.cs.com.cn/zgzqb/html/2026-11/11/nw.D110000zgzqb_20261111_4-A07.htm
+核对正文中的WRS 01与注册临床进展，不使用转载平台的AI摘要作独立证据。
+本页未加入42例、融资总额及“全球第一”等较强宣传口径。
+“注册临床推进”与器械获批销售区别保留。
+
+阶梯语言方向：
+https://clinicaltrials.gov/study/NCT07647315
+官方API已取得：
+https://clinicaltrials.gov/api/v2/studies/NCT07647315
+标题：Wireless Implantable Mandarin Chinese Speech Neuroprosthesis Evaluation，简称WISE。
+申办者Shanghai StairMed Technology Co., Ltd.；前瞻性、单组、开放研究；估计4人，不是已完成4人。
+最近更新2026-09-11，登记实际开始2026-09-01；本页仅写研究已登记，不将招募状态当作已发表效果。
+原始JSON保存research/slide_style_options/slide3_sources/NCT07647315.json。
+
+Blackrock：
+https://blackrockneurotech.com/products/
+https://blackrockneurotech.com/our-tech/
+https://blackrockneurotech.com/faq/
+科研工具、硬件和软件产品目录；MoveAgain为仍在开发的临床系统。已有科研供给作为事实，科研业务成熟度为本页比较判断。
+未获得审计收入、具体产品销量或复购记录，不写已证明“持续收入”。
+
+Neuralink：
+https://neuralink.com/
+https://neuralink.com/trials/device-control/
+https://neuralink.com/trials/speech-restoration/
+全植入N1、电脑控制与语音研究；PRIME/VOICE仍是研究产品。
+各公司官网超链接：
+Neuralink https://neuralink.com/
+Blackrock https://blackrockneurotech.com/
+Paradromics https://paradromics.com/
+阶梯 https://www.stairmed.com/
+
+图像制作：
+内置imagegen，沿用第三页v1布局和风格修订。全部链接通过HTML锚点实现，透明点击区只覆盖公司名称/域名，不覆盖其他表格单元。
+

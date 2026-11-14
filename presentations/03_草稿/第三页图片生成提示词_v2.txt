@@ -1,0 +1,56 @@
+Edit this Chinese company-comparison slide, preserving white background, deep navy typography, restrained teal headers, thin rules, spacious 5-column/4-company matrix and page number03. This is a professional research presentation IMAGE. Same 16:9 landscape, high resolution. No new illustrations or logos, no citation superscripts, no asterisks.
+
+Replace title with:
+“侵入式代表公司：产品定位、临床进展与商业化”
+Subtitle:
+“四家代表企业，各有不同的产品化侧重；科研平台与临床整机分别比较”
+
+Keep five columns but use these headings:
+“公司与官网”
+“产品与技术”
+“目标应用”
+“临床与落地进展”
+“代表性与业务模式”
+Widen progress column as needed and keep all text legible.
+
+Row1 company “Neuralink”, smaller “美国”, under this small teal website domain “neuralink.com”
+Product: “N1／Telepathy” and “柔性丝状电极、全植入”
+Applications: “数字设备控制” and “交流功能研究”
+Progress: “PRIME／VOICE 等临床研究” and “当前仍为研究用途”
+Representative: “全植入系统产品化” and “硬件、手术机器人与解码整合”
+
+Row2 company “Blackrock Neurotech”, smaller “美国”, website “blackrockneurotech.com”
+Product: “Utah Array／NeuroPort” and “MoveAgain 临床系统”
+Applications: “科研记录与刺激” and “交流、运动控制研究”
+Progress: “科研产品已有供货体系” and “MoveAgain 仍在开发”
+Representative: “科研平台业务基础突出” and “向临床产品延伸”
+
+Row3 company “Paradromics”, smaller “美国”, website “paradromics.com”
+Product: “Connexus” and “高数据率皮层内、全植入”
+Applications: “语言交流恢复”
+Progress: “2026.06 首次长期植入” and “2026.09 披露实时语言交流”
+Smaller third line “公司披露，早期可行性研究”
+Representative: “聚焦交流的临床产品” and “现仍为研究设备”
+
+Row4 company “阶梯医疗 StairMed”, smaller “中国”, website “stairmed.com”
+Product: “WRS 系统” and “超柔性皮层内电极”
+Applications: “运动交互” and “语言交流研究”
+Progress: “运动方向注册临床推进” and “语言方向研究已登记”
+Representative: “中国全侵入式临床转化” and “科研工具为配套布局”
+Do NOT imply StairMed has the same mature scientific instrument revenue base as Blackrock. Clinical registration progress is not product approval.
+
+Below matrix small annotation:
+“Paradromics 进展据公司 2026 年 9 月公告；阶梯语言研究登记：NCT07647315。”
+Then strong teal bottom takeaway:
+“比较重点：科研平台的业务基础，与临床整机的转化进度”
+Smaller navy text:
+“Blackrock 突出科研供给；Neuralink、Paradromics 与阶梯医疗分别推进临床整机。”
+Smaller muted text:
+“财务：本轮未取得四家可核验的分产品营收；融资与临床入组不计作销售收入。”
+Small classification note:
+“本页聚焦进入脑实质的电极；NEO、Synchron、Precision 在后续半侵入式部分讨论。”
+Footer:
+“进展基准：2026.11.14。来源：公司官网、原始研究登记与创始人采访；完整链接见讲稿。”
+Page “03”.
+
+Web domains in company column must be spelled exactly and visually clearly as site links; actual clickability will be added externally in a companion display document. Do not claim the raster PNG itself is clickable. No upper citation markers. No invented financial figures, patient counts or extra regulatory claims. Preserve refined compact readability, no clipped English names or domains.

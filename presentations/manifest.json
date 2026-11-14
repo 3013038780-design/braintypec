@@ -44,9 +44,29 @@
       "sha256": "9f232a892ecc609da3009b8efdac85ead149569d52e25baa219aaa020725dbab"
     },
     {
+      "path": "presentations/03_草稿/第三页_侵入式公司与商业化_v2.png",
+      "bytes": 1733218,
+      "sha256": "acffce2c82a9a48f180afd28360cdb6748b4e0bad3c5f3af14798c1253776807"
+    },
+    {
+      "path": "presentations/03_草稿/第三页_官网可点击展示版.html",
+      "bytes": 2313824,
+      "sha256": "9bee7a4371be61eda663479191f4c2b1106da4200b3e4ffe7962494622520a9f"
+    },
+    {
+      "path": "presentations/03_草稿/第三页v2来源与修订说明.txt",
+      "bytes": 3706,
+      "sha256": "b5f152dad227bead899dac6eebe3989b8d5a1c27f8db1defd894debf519f6c76"
+    },
+    {
       "path": "presentations/03_草稿/第三页图片生成提示词.txt",
       "bytes": 4629,
       "sha256": "807fc40671ca719fdfc8a81554cf5c38730a1fcf4c88380f13e4c0ce71b5ebaa"
+    },
+    {
+      "path": "presentations/03_草稿/第三页图片生成提示词_v2.txt",
+      "bytes": 3752,
+      "sha256": "f5ce523a3fc5ceb654d6cc19c99600409bfd275226f7bcbaede7b121b704a6ec"
     },
     {
       "path": "presentations/03_草稿/第三页来源与研究记录.txt",
@@ -64,9 +84,19 @@
       "sha256": "537593c2369ef327a187406cd93be8e2e1d615c9eb1b533647646a55094f157d"
     },
     {
+      "path": "presentations/03_草稿/第三页讲解稿_v2.html",
+      "bytes": 8913,
+      "sha256": "cf850a31f6a30245b2c0dfc8b701be551de2ef5f81b41473b4d3604eb4e45c14"
+    },
+    {
+      "path": "presentations/03_草稿/第三页讲解稿_v2.txt",
+      "bytes": 6062,
+      "sha256": "66d01629752ee03fd7a693330903d7ff1d07272be0df30f4835aa6ae4b458e15"
+    },
+    {
       "path": "presentations/README.md",
-      "bytes": 1394,
-      "sha256": "727d9bb8e001c8ef8d33f30bdac4255e6fa77a4ae3dd6539bcd6d9ffdc611305"
+      "bytes": 1554,
+      "sha256": "0ee3f4a3ca20bb9776856f9d7451de5c7b0f23b5a8d30e0cd6c8f338ffb42640"
     },
     {
       "path": "presentations/定稿说明.txt",
@@ -81,5 +111,8 @@
   ],
   "speaker_notes_revision": {
     "slide_2": "v7：按用户提供开头简洁融合植入规划与读取流程；图片不变"
+  },
+  "draft_revisions": {
+    "slide_3": "v2：区分公司代表性，更新Paradromics实时交流及阶梯语言登记；增加官网点击展示版"
   }
 }
