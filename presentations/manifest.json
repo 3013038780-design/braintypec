@@ -30,13 +30,13 @@
     },
     {
       "path": "presentations/02_定稿/第二页讲解稿.html",
-      "bytes": 8327,
-      "sha256": "3ba981308d0a2e31d9b3bc09574fd8447566d07976e9342b3ecd4e1263b8fe55"
+      "bytes": 8309,
+      "sha256": "406bc99b22c82e2af956b6dd5c765c5853c9cb2aa13195dcb068b2d8a701ac9b"
     },
     {
       "path": "presentations/02_定稿/第二页讲解稿.txt",
-      "bytes": 6165,
-      "sha256": "dec93b47217ef86dfac66e9db2b8052b00f78d5288443b1c96116ea6a2e5c60a"
+      "bytes": 6147,
+      "sha256": "b7dd748d9e31fd4131b56fe537780b34521a3cccc12a50e2e59e3661b3f17a73"
     },
     {
       "path": "presentations/03_草稿/第三页_侵入式公司与商业化_v1.png",
@@ -75,11 +75,11 @@
     },
     {
       "path": "presentations/第二页讲稿修订说明.txt",
-      "bytes": 956,
-      "sha256": "2a97bae96d83206afe5fa8e8738afc2f6fb84c8f9f154e075bcf36e50de7d502"
+      "bytes": 1204,
+      "sha256": "6d8ec694f8966e2188920adfe1c454e204fccd85c289efb16f9101d70b861e8f"
     }
   ],
   "speaker_notes_revision": {
-    "slide_2": "v5：植入规划、R1职责与读写边界；图片不变"
+    "slide_2": "v6：明确电位采集与信号提取，压缩重复段落；图片不变"
   }
 }
