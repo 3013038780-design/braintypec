@@ -707,18 +707,18 @@
       "id": "N40",
       "name": "强脑科技 BrainCo",
       "region": "中国",
-      "group": "自有应用与平台",
-      "depth": "全景",
+      "group": "科研开发平台与自有应用产品",
+      "depth": "重点",
       "product": "BCIGo／BrainAI／儿童与睡眠产品",
-      "optical": "本轮未核实HD-DOT",
-      "eeg": "脑电和外周神经产品分线",
-      "developer": "平台产品已列；SDK及授权须核实",
+      "optical": "OxyZen已披露PPG；未获其自有fNIRS／HD-DOT平台证据",
+      "eeg": "BCIGo 32通道无线系统及干／湿电极；家庭EEG产品另按用途比较",
+      "developer": "BCIGo多语言SDK；Python包与官方采集文档；OxyZen SDK为专有商业许可；有第三方机器人集成教程",
       "commercial": "自有产品、平台方案及仿生业务",
       "capital": "未核实证券上市完成；不等于已证实未上市",
-      "sources": "S66 S118",
-      "assessment": "自有产品矩阵与平台业务并行的国内参照",
-      "gap": "不把肌电义肢全算成EEG收入；融资IPO报道未获得一级确认则不写成完成。",
-      "dynamic": "未核实近24个月重大动态；保留产品状态，不以网页存续推断增长",
+      "sources": "S66 S118 S154 S155 S156 S157 S158 S159 S160 S161 S162 S163 S164",
+      "assessment": "平台加产品的核心国内对标；同时比较科研工作流、开发授权、家庭终端与产业合作，不能仅按消费头环或仿生手定位",
+      "gap": "BCIGo正式报价、相应SDK商业授权与支持条款；独立实测；分产品收入、付费开发者及持续部署；婴儿筛查和急性卒中检测证据",
+      "dynamic": "2026-11-09 BCIGo Python SDK发行记录；2026-07-16机器人集成教程版本说明；2025-07喜临门合作；2026-01约20亿元融资",
       "capital_summary": "融资：约20亿元人民币（2026-01-09公司向媒体确认）；估值／市值：未获得可核实估值（未核实，未核实）；证据：S118"
     },
     {
@@ -2550,6 +2550,116 @@
       "kind": "证券行情数据",
       "supports": "市值约1.14亿欧元；1.642欧元，ISIN NL0015000HT4",
       "limits": "为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名"
+    },
+    {
+      "id": "S154",
+      "title": "BCIGo科研系统产品",
+      "url": "https://www.brainco.cn/products/bcigo",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业产品",
+      "supports": "32通道采集、实验软件及Python/JavaScript/Rust SDK",
+      "limits": "规格为厂商披露，未统一实测"
+    },
+    {
+      "id": "S155",
+      "title": "BCIGo官方快速开始",
+      "url": "https://www.brainco-hz.com/docs/bcigo/getting-started.html",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业开发文档",
+      "supports": "可运行采集流程、系统兼容性；部分示例仓库需授权",
+      "limits": "未连接实机；不推定全部平台可自由分发"
+    },
+    {
+      "id": "S156",
+      "title": "BCIGo SDK PyPI发行",
+      "url": "https://pypi.org/project/bcigo-sdk/",
+      "published": "发行2026-11-09；访问日可见2.2.1",
+      "accessed": "2026-11-17",
+      "kind": "开发者发行记录",
+      "supports": "公开发行Python包与采集、记录接口",
+      "limits": "不将可下载等同商业授权或已实机验证"
+    },
+    {
+      "id": "S157",
+      "title": "OxyZen开发者工具说明",
+      "url": "https://www.brainco-hz.com/docs/oxyzen-sdk/",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业开发文档",
+      "supports": "EEG+PPG、多终端SDK与专有商业许可",
+      "limits": "PPG不证明fNIRS/HD-DOT脑成像能力"
+    },
+    {
+      "id": "S158",
+      "title": "OxyZen SDK商业许可",
+      "url": "https://www.brainco-hz.com/docs/oxyzen-sdk/LICENSE.txt",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业许可文本",
+      "supports": "需有效商业协议或授权；限制转授及SDK独立再分发",
+      "limits": "仅按该文件适用的软件解释，不自动覆盖所有其他产品许可；实际签约条款优先"
+    },
+    {
+      "id": "S159",
+      "title": "OxyZen产品与价格",
+      "url": "https://www.brainco.cn/health/oxyzen",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业产品",
+      "supports": "EEG+PPG；公开标价2699元",
+      "limits": "标价不是成交价；营销效果不作为独立疗效证明"
+    },
+    {
+      "id": "S160",
+      "title": "Easleep产品与价格",
+      "url": "https://www.brainco.cn/health/easleep",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业产品",
+      "supports": "睡眠产品、反馈及应用；公开标价2499元起",
+      "limits": "不据营销效果判断医疗有效或扩大用途"
+    },
+    {
+      "id": "S161",
+      "title": "开星果儿童训练产品",
+      "url": "https://www.brainco.cn/health/starkids",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业产品",
+      "supports": "儿童社交沟通训练定位",
+      "limits": "儿童训练不等于普通婴儿筛查适应证"
+    },
+    {
+      "id": "S162",
+      "title": "BR仿生手隐私政策",
+      "url": "https://app.brainco.cn/stark/protocol/privacy.html",
+      "published": "访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "企业数据政策",
+      "supports": "仿生手配置、训练与EMG肌电数据",
+      "limits": "该数据流不能当作头皮EEG或脑光学能力证据"
+    },
+    {
+      "id": "S163",
+      "title": "BrainCoTech宇树G1集成教程",
+      "url": "https://github.com/BrainCoTech/unitree-g1-brainco-hand/blob/main/README_zh.md",
+      "published": "版本说明2026-07-16；访问日可见",
+      "accessed": "2026-11-17",
+      "kind": "厂商代码仓库",
+      "supports": "第三方机器人集成、ROS2及脑控任务接入",
+      "limits": "教程存在不证明规模交付、外部生态或实测性能"
+    },
+    {
+      "id": "S164",
+      "title": "强脑与喜临门合作",
+      "url": "https://finance.cnr.cn/ycbd/20250707/t20250707_527249550.shtml",
+      "published": "2025-07-07",
+      "accessed": "2026-11-17",
+      "kind": "媒体采访",
+      "supports": "产品发布及研发、供应链和渠道合作",
+      "limits": "合作不等于销量；不采用未经独立确认的疗效数字"
     }
   ],
   "capital": [
@@ -3652,6 +3762,6 @@
       "status": "有公开资本事件"
     }
   ],
-  "version": "v1.1-capital",
+  "version": "v1.2-brainco",
   "capital_method": "上市市值与私募融资、投前投后估值、收购股权值、融资目标、模型估计分开；A为交易/官方一手，B为媒体/公开资料，C为数据库线索；未知不为零。"
 }

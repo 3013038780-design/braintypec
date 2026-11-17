@@ -152,3 +152,14 @@ S150,Ceribell YCharts市值快照,https://ycharts.com/companies/CBLL/market_cap,
 S151,翔宇长桥证券市值快照,https://longbridge.com/zh-CN/quote/688626.SH,2026-11-16 15:00中国,2026-11-17,证券行情数据,总市值64.42亿元人民币；40.26元,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
 S152,NeuroOne市值快照,https://stockanalysis.com/stocks/nmtc/market-cap/,2026-11-13美东收盘,2026-11-17,证券行情数据,市值678万美元；历史表四舍五入680万美元,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
 S153,ONWARD布鲁塞尔市值快照,https://www.boursorama.com/cours/FF11-ONWD/,2026-11-16 17:35:21 CET,2026-11-17,证券行情数据,市值约1.14亿欧元；1.642欧元，ISIN NL0015000HT4,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S154,BCIGo科研系统产品,https://www.brainco.cn/products/bcigo,访问日可见,2026-11-17,企业产品,32通道采集、实验软件及Python/JavaScript/Rust SDK,规格为厂商披露，未统一实测
+S155,BCIGo官方快速开始,https://www.brainco-hz.com/docs/bcigo/getting-started.html,访问日可见,2026-11-17,企业开发文档,可运行采集流程、系统兼容性；部分示例仓库需授权,未连接实机；不推定全部平台可自由分发
+S156,BCIGo SDK PyPI发行,https://pypi.org/project/bcigo-sdk/,发行2026-11-09；访问日可见2.2.1,2026-11-17,开发者发行记录,公开发行Python包与采集、记录接口,不将可下载等同商业授权或已实机验证
+S157,OxyZen开发者工具说明,https://www.brainco-hz.com/docs/oxyzen-sdk/,访问日可见,2026-11-17,企业开发文档,EEG+PPG、多终端SDK与专有商业许可,PPG不证明fNIRS/HD-DOT脑成像能力
+S158,OxyZen SDK商业许可,https://www.brainco-hz.com/docs/oxyzen-sdk/LICENSE.txt,访问日可见,2026-11-17,企业许可文本,需有效商业协议或授权；限制转授及SDK独立再分发,仅按该文件适用的软件解释，不自动覆盖所有其他产品许可；实际签约条款优先
+S159,OxyZen产品与价格,https://www.brainco.cn/health/oxyzen,访问日可见,2026-11-17,企业产品,EEG+PPG；公开标价2699元,标价不是成交价；营销效果不作为独立疗效证明
+S160,Easleep产品与价格,https://www.brainco.cn/health/easleep,访问日可见,2026-11-17,企业产品,睡眠产品、反馈及应用；公开标价2499元起,不据营销效果判断医疗有效或扩大用途
+S161,开星果儿童训练产品,https://www.brainco.cn/health/starkids,访问日可见,2026-11-17,企业产品,儿童社交沟通训练定位,儿童训练不等于普通婴儿筛查适应证
+S162,BR仿生手隐私政策,https://app.brainco.cn/stark/protocol/privacy.html,访问日可见,2026-11-17,企业数据政策,仿生手配置、训练与EMG肌电数据,该数据流不能当作头皮EEG或脑光学能力证据
+S163,BrainCoTech宇树G1集成教程,https://github.com/BrainCoTech/unitree-g1-brainco-hand/blob/main/README_zh.md,版本说明2026-07-16；访问日可见,2026-11-17,厂商代码仓库,第三方机器人集成、ROS2及脑控任务接入,教程存在不证明规模交付、外部生态或实测性能
+S164,强脑与喜临门合作,https://finance.cnr.cn/ycbd/20250707/t20250707_527249550.shtml,2025-07-07,2026-11-17,媒体采访,产品发布及研发、供应链和渠道合作,合作不等于销量；不采用未经独立确认的疗效数字

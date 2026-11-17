@@ -1,19 +1,25 @@
 {
-  "version": "v1.1-capital",
+  "version": "v1.2-brainco",
   "as_of": "2026-11-17",
-  "pdf_pages": 40,
+  "pdf_pages": 45,
+  "focus_profiles": 19,
   "capital_records": 61,
-  "source_records": 153,
+  "source_records": 164,
   "files": [
     {
       "file": "README.md",
-      "bytes": 3659,
-      "sha256": "22dc3ca7a36739a73752352860f40d224cd9d53d67096344f79737f8f65808c1"
+      "bytes": 4023,
+      "sha256": "b05568c16389f8f4bfa0182e0a55351594fd3ed267fa18f3d6ff234452580c1f"
     },
     {
       "file": "VALIDATION.md",
-      "bytes": 3900,
-      "sha256": "a57c000a5fdb535a60060c035b1b91a5e20f70ce2c5c6eae87b93cb810645ce0"
+      "bytes": 4163,
+      "sha256": "35bd8d9489acb8b6bc4321dfeb422767c8df916805946c6135198669b1dec044"
+    },
+    {
+      "file": "brainco.md",
+      "bytes": 7920,
+      "sha256": "dc5ec1984f1275c5940f9b26ec85e5947743b50ac0662823c16a4a1f490546bb"
     },
     {
       "file": "capital.csv",
@@ -22,18 +28,18 @@
     },
     {
       "file": "capital.md",
-      "bytes": 70330,
-      "sha256": "285814fb1c017c4d7c9e9334e5479e5e1d3ef64677b1f35fdc23b1782a29e844"
+      "bytes": 73303,
+      "sha256": "96b6f8cffd45e0c5f353603d9008d206dbb3415f207a2efb8c4dab50ed868a83"
     },
     {
       "file": "companies.csv",
-      "bytes": 27339,
-      "sha256": "f20e49d1db30445818c943ce521bb197d9c70d5c61dc67d86ebe2072dbeceb2f"
+      "bytes": 27799,
+      "sha256": "338a416ef8c7746546680968f7277eaeeb76559afa3dc8c123de90b78759ee2e"
     },
     {
       "file": "evidence.json",
-      "bytes": 163612,
-      "sha256": "b5b7e5ebafbb56794e79fe3bee3f37206f708d6b6e0c5d8c69f67ac8de917a05"
+      "bytes": 168428,
+      "sha256": "1c763ef8ab4dff08548bc825ae70198725222d7743e2677e5f38162e52fcbc06"
     },
     {
       "file": "implants.csv",
@@ -42,28 +48,28 @@
     },
     {
       "file": "report.md",
-      "bytes": 92619,
-      "sha256": "5f31776588ac8e9c6e0d3909ace1d5e88ace8574ba76664ea59d4a2157337c46"
+      "bytes": 103773,
+      "sha256": "c787d7e59d2d23b3fcb1097994de71f1a8fdc96fce07caf3121b191a4f9e1f84"
     },
     {
       "file": "sources.csv",
-      "bytes": 39649,
-      "sha256": "06db80e02e504ca2f2feba38abe46316b6d4d42c643575638ab82c2f02096113"
+      "bytes": 42234,
+      "sha256": "aba9a421520acb66658f5074cf4e24df874bced46b2d208c4c2bf27ac13a5bb9"
     },
     {
       "file": "光电融合平台竞品与证据库_20261117.xlsx",
-      "bytes": 65301,
-      "sha256": "2c7c9a016931736f128fc7f5e207b5466ff65a2af9b13066e445f73498abea85"
+      "bytes": 67512,
+      "sha256": "c3d728f9125d3b16510687b5b595781ef4330992d63d811fb9812c5b9f8e9031"
     },
     {
       "file": "非侵入式光电融合平台与自研产品竞争研究_20261117.docx",
-      "bytes": 81865,
-      "sha256": "20940ce5cc35b421ef58d9853a3c9cd690b5dd0a6ab3fee71ed464388c16fee4"
+      "bytes": 87486,
+      "sha256": "4e0685ea9264ebdca3b7b84b78a9aa84e917090aa77062790eb476d0fc8a3a27"
     },
     {
       "file": "非侵入式光电融合平台与自研产品竞争研究_20261117.pdf",
-      "bytes": 1439937,
-      "sha256": "3405a60eae86512afdbf3c134a8ae30c72bc261caff4453e26549b6768ed4a30"
+      "bytes": 1564893,
+      "sha256": "38be661675eb652454e0c14d80a63a3229ea70d68789ee541bd73458b82a3c60"
     }
   ]
 }
