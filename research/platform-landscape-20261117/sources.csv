@@ -1,0 +1,100 @@
+﻿id,title,url,published,accessed,kind,supports,limits
+S01,Blackrock科研产品,https://blackrockneurotech.com/products/,未标注,2026-11-17,企业产品,电极、采集与研究工具供给,产品或公司自述，未独立实测；未披露部分记为未知
+S02,Blackrock科研平台,https://blackrockneurotech.com/for-researchers/,未标注,2026-11-17,企业产品,集成神经电生理工具；平台商业模式参照,产品或公司自述，未独立实测；未披露部分记为未知
+S03,Gowerlabs LUMO,https://www.gowerlabs.co.uk/lumo,未标注,2026-11-17,企业产品,模块化六边形传感单元、可穿戴HD-DOT、婴儿至成人头帽,产品或公司自述，未独立实测；未披露部分记为未知
+S04,Gowerlabs软件,https://www.gowerlabs.co.uk/software,未标注,2026-11-17,技术文档,Lumox、lumomat、SNIRF、LSL事件及开源分析衔接,产品或公司自述，未独立实测；未披露部分记为未知
+S05,NIRSport2,https://nirx.net/nirsport,未标注,2026-11-17,企业产品,Aurora、原始数据、SNIRF及LSL实时输出；研究用途,产品或公司自述，未独立实测；未披露部分记为未知
+S06,NIRx EEG整合,https://nirx.net/fnirs-eeg,未标注,2026-11-17,技术文档,与Brain Products及TMSi等EEG整合,产品或公司自述，未独立实测；未披露部分记为未知
+S07,Artinis产品比较,https://artinis.com/device-overview,未标注,2026-11-17,企业产品,Brite MKIV、BabyBrite、OxySoft和LSL,产品或公司自述，未独立实测；未披露部分记为未知
+S08,Artinis光电刺激联合,https://artinis.com/starstim-fnirs/,未标注,2026-11-17,技术文档,OptEStim、Starstim和Brite联合,产品或公司自述，未独立实测；未披露部分记为未知
+S09,Brain Products LiveAmp,https://www.brainproducts.com/solutions/liveamp/,未标注,2026-11-17,企业产品,无线EEG、多种电极及扩展；本产品非医疗器械,产品或公司自述，未独立实测；未披露部分记为未知
+S10,Brain Products开源连接器,https://github.com/brain-products,2026-06-02等更新,2026-11-17,代码仓库,LSL连接器、数据读取工具,产品或公司自述，未独立实测；未披露部分记为未知
+S11,Kernel开发者,https://www.kernel.com/developers,未标注,2026-11-17,技术文档,Flow 2、SNIRF、实时SDK、参考任务,产品或公司自述，未独立实测；未披露部分记为未知
+S12,Kernel研究计划,https://www.kernel.com/participate,未标注,2026-11-17,企业研究,认知、抑郁、纵向等研究及商业标志物探索,研究与产品方向自述；不作为特定疾病诊断获批证明
+S13,OBELAB官网,https://www.obelab.com/,未标注,2026-11-17,企业产品,NIRSIT、儿童和成人LITE、ON产品及发展历史,产品或公司自述，未独立实测；未披露部分记为未知
+S14,OBELAB NIRSIT SCAN发布,https://www.obelab.com/info/notice_view.php?nt_idx=107,2024-08-27,2026-11-17,企业动态,SCAN平台发布；超出近24个月窗口，作为历史节点,产品或公司自述，未独立实测；未披露部分记为未知
+S15,Cortivision支持,https://www.cortivision.com/support-center/,未标注,2026-11-17,技术文档,CortiView、HTTP、实验软件集成、IMU及光极配置,产品或公司自述，未独立实测；未披露部分记为未知
+S16,Cortivision更新,https://www.cortivision.com/category/product/,2024-10-10等,2026-11-17,企业动态,眼动整合等更新；未找到可公开读取的更新细节不推测,产品或公司自述，未独立实测；未披露部分记为未知
+S17,g.tec光电融合,https://www.gtec.at/product/gnautilus-wireless-eeg-fnirs/,未标注,2026-11-17,企业产品,同步EEG-fNIRS及生理传感扩展,产品或公司自述，未独立实测；未披露部分记为未知
+S18,g.tec互操作,https://www.gtec.at/2026/11/05/eeg-interoperability/,2026-11-05,2026-11-17,技术文档,LSL、Python、MATLAB及BCI开源生态，接口授权区分,产品或公司自述，未独立实测；未披露部分记为未知
+S19,ANT Neuro常见问题,https://academy.ant-neuro.com/faq,未标注,2026-11-17,技术文档,eego SDK、LSL和TTL同步,产品或公司自述，未独立实测；未披露部分记为未知
+S20,OpenBCI文档,https://docs.openbci.com/,未标注,2026-11-17,技术文档,Cyton、Ganglion、开发者及第三方硬件文档,产品或公司自述，未独立实测；未披露部分记为未知
+S21,EMOTIV开发者定价,https://www.emotiv.com/developer,未标注,2026-11-17,商业条款,开发者分层，原始EEG访问与商业授权条件,网页条款会变更；不据此推断其他企业定价
+S22,EMOTIV Cortex API,https://emotiv.gitbook.io/cortex-api,未标注,2026-11-17,技术文档,JSON/WebSocket API及原始EEG访问许可区分,产品或公司自述，未独立实测；未披露部分记为未知
+S23,Neuroelectrics Enobio,https://www.neuroelectrics.com/products/research/enobio,未标注,2026-11-17,企业产品,无线EEG、SDK与临床研究支持,产品或公司自述，未独立实测；未披露部分记为未知
+S24,Neuroelectrics NIC2,https://www.neuroelectrics.com/product-page-1/nic2,未标注,2026-11-17,技术文档,协议编辑、记录、回放和第三方集成,产品或公司自述，未独立实测；未披露部分记为未知
+S25,Starstim Home旧版说明,https://www.neuroelectrics.com/manuals-starstim-home,未标注,2026-11-17,产品生命周期,旧版标明2024年停产,旧版手册与仍在网站展示的Home页面并存；现售型号须询证
+S26,慧创政府采购配置,https://zfcg.henan.gov.cn/cmsweb81e27e/nas/webfile2024/henan/rootfiles/2025/02/19/010206ad14604c6a859db791d85c69e2.pdf,2025-02-19,2026-11-17,政府采购,NirScan-3000XS、硬件及分析软件组合；文件列示注册证,采购清单证明采购配置，不等于本次直接核验注册数据库
+S27,慧创采购结果,https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2024/8a1d040993e35cf00193f817bb2f5182.html,2024-12-25,2026-11-17,政府采购,NirSmart-3000BS与HeroScan-400BS包件预中标210万元,包件价格包含配置和服务，不是裸机统一市场价格
+S28,博睿康光电同步,https://www.neuracle.cn/newsinfo/358392.html,历史方案,2026-11-17,技术文档,脑电光极复用帽、触发同步和开源数据导出,历史产品方案，现售SKU和参数需询证
+S29,博睿康加拿大NRC装机,https://www.neuracle.cn/newsinfo/8304327.html,2025-04-24,2026-11-17,企业动态,NeuroHUB多模态平台在NRC装机,企业发布；本条不足以证明HD-DOT集成
+S30,博睿康招股申报稿,https://static.sse.com.cn/stock/disclosure/announcement/c/202606/002198_20260611_0RN0.pdf,2026-06-11,2026-11-17,交易所披露,公司业务、非侵入式产品及NEO管线、IPO申请,为申报稿，不是证券上市完成证明；全文财务数据未逐表审计
+S31,中科搏锐园区产品信息,https://mpark.zgcgroup.com.cn/xwzx/yqxw/art/2026/art_933b1cfab5cf40c5ae0d81b6075a6be8.html,2026-09-17,2026-11-17,园区公开信息,BRS-800A/B及临床场景,转述技术与应用，不作为卒中识别准确率或诊断许可证明
+S32,中科搏锐产品展出,https://chanye.bjdx.gov.cn/chanye/qyfw8/cydt/2417262/index.html,2026-06-04,2026-11-17,政府园区信息,BRS-100、BRS-800和多参数整合,有展示不等于完成所有适应症验证
+S33,傲意官网,https://www.oymotion.com/,未标注,2026-11-17,企业产品,传感器、脑电、肌电、康复及开发者中心,产品或公司自述，未独立实测；未披露部分记为未知
+S34,傲意业务上市公司披露,https://static.cninfo.com.cn/finalpage/2026-01-05/1224917845.PDF,2026-01-05,2026-11-17,上市公司披露,科研工具开发平台和脑卒中临床产品并行,为投资合作相关披露，傲意自身不等同上市主体
+S35,回车科技,https://www.entertech.cn/,未标注,2026-11-17,企业产品,传感模块、VR、自有头环和情感云,产品或公司自述，未独立实测；未披露部分记为未知
+S36,回车情感云开发文档,https://docs.affectivecloud.cn/,未标注,2026-11-17,技术文档,模块接入、蓝牙与串口、云端算法反馈,情绪指标是企业模型输出，非临床诊断证据
+S37,臻泰智能,https://www.zhentecbci.com/,未标注,2026-11-17,企业产品,科研采集、算法、通用平台与康复产品,产品或公司自述，未独立实测；未披露部分记为未知
+S38,ISS官网,https://iss.com/,未标注,2026-11-17,企业产品,Imagent、MetaOx和组织氧监测系列,产品或公司自述，未独立实测；未披露部分记为未知
+S39,Shimadzu LABNIRS,https://www.shimadzu.com/an/products/life-science-lab-instruments/imaging/labnirs/index.html,未标注,2026-11-17,企业产品,可扩展fNIRS科研系统，明确研究用途,产品或公司自述，未独立实测；未披露部分记为未知
+S40,Shimadzu证券资料,https://www.shimadzu.com/ir/stock/base.html,2026-03-31,2026-11-17,投资者关系,东证Prime 7701,产品或公司自述，未独立实测；未披露部分记为未知
+S41,Bitbrain下载中心,https://downloads.bitbrain.com/,未标注,2026-11-17,技术文档,EEG各形态、儿童设备与SDK,产品或公司自述，未独立实测；未披露部分记为未知
+S42,Wearable Sensing API,https://support.wearablesensing.com/api/index.html,2026-02-10,2026-11-17,技术文档,DSI API 1.20.5，C/C++、Python及跨平台,产品或公司自述，未独立实测；未披露部分记为未知
+S43,BioSemi产品,https://www.biosemi.com/products.htm,未标注,2026-11-17,企业产品,Active3及停产旧产品，科研用途,产品或公司自述，未独立实测；未披露部分记为未知
+S44,BioSemi升级与维护,https://www.biosemi.com/faq/Upgrade_to_Active2.5_or_upgrade_to_Active3.htm,2026时间节点,2026-11-17,产品生命周期,连接器供应变化与ActiveTwo升级维护安排,产品或公司自述，未独立实测；未披露部分记为未知
+S45,TMSi官网,https://www.tmsi.artinis.com/,未标注,2026-11-17,企业产品,标明Artinis旗下，EEG/HD-EMG与光学产品链接,作为业务品牌列一行，不计为独立集团
+S46,Soterix NIRSIT ON,https://www.soterixmedical.com/research/nirsit/nirsit-on,未标注,2026-11-17,授权经销与企业产品,OBELAB北美经销，NIRSIT ON和研究用途限制,经销商与原厂分开，不重复计算为独立光学原厂
+S47,Openwater光血流平台评估,https://docs.openwater.health/research/platform-evaluation/optical-blood-flow-monitoring/,2026,2026-11-17,技术文档,Open-Motion、同步输出，研究用途、前代验证不可直接迁移,产品或公司自述，未独立实测；未披露部分记为未知
+S48,Openwater卒中论文,https://pmc.ncbi.nlm.nih.gov/articles/PMC11415534/,2024在线／2025卷期,2026-11-17,同行评议论文,162例评估，135例进入分析；交叉验证LVO模型,非独立外部测试；排除样本需计入可用性评价；不验证当前硬件版本
+S49,Time is Brain,https://www.tibtimeisbrain.com/,未标注,2026-11-17,企业产品与动态,BraiN20、卒中流程监测、CE/MDR及融资公告,CE/MDR范围和证书需进一步直接获取，不推断为中国获批
+S50,Hyperfine 2026年三季报,https://investors.hyperfine.io/static-files/cdd9f303-309d-403d-adaf-38c8ae9c1b8f,2026-11-09,2026-11-17,证券披露,Swoop、DWI及Optive AI 2026软件许可进展,便携MRI替代方案，非光电头戴直接同类
+S51,Ceribell三季度业绩,https://investors.ceribell.com/node/9026/pdf,2026-11-03,2026-11-17,证券披露,Nasdaq CBLL；季度收入2930万美元、747活跃账户、谵妄产品及新许可,收入与账户均为公司口径，不等于BCI全行业规模
+S52,Natus产品,https://natus.com/neuro-products/,未标注,2026-11-17,企业产品,新生儿aEEG、床旁EEG、动态EEG和软件,产品或公司自述，未独立实测；未披露部分记为未知
+S53,Natus收购Holberg,https://natus.com/news/natus-acquires-holberg-eeg-expanding-innovation-in-neurodiagnostic-ai-solutions/,2025-09-30,2026-11-17,企业并购,取得Holberg全部股权，整合EEG AI,产品或公司自述，未独立实测；未披露部分记为未知
+S54,Natus历史所有权,https://natus.com/news/natus-medical-to-aquire-micromed/,2022-12-02,2026-11-17,企业并购,披露2022年7月被ARCHIMED收购,历史状态；本轮未发现恢复证券上市的一级证据
+S55,日本光电证券信息,https://www.nihonkohden.com/en/ir/stock/stockoverview.html,2026-03-31,2026-11-17,投资者关系,东证Prime 6849,产品或公司自述，未独立实测；未披露部分记为未知
+S56,Compumedics FY2026报告,https://www.compumedics.com.au/en/asx-announcements/annual-report-fy2026/,2026-09-30,2026-11-17,证券披露,ASX CMP，拥有Neuroscan和DWL；睡眠、神经及血流业务,产品或公司自述，未独立实测；未披露部分记为未知
+S57,Compumedics投资者资料,https://www.compumedics.com.au/wp-content/uploads/2026/09/Investor-Presentation-2026-1.pdf,2026-09,2026-11-17,证券披露,设备、软件SaaS、耗材及服务商业组合,产品或公司自述，未独立实测；未披露部分记为未知
+S58,Muse官网,https://choosemuse.com/,未标注,2026-11-17,企业产品,Muse S Athena标称EEG与fNIRS；网页显示起价474.99美元,访问日价格，地区促销税费可变；非科研HD-DOT等效证明
+S59,Neurable官网,https://www.neurable.com/,未标注,2026-11-17,企业产品,Neurable One耳机EEG及Neurable AI集成路线,消费产品指标不等于临床疾病检测
+S60,NeuroSky官网,https://neurosky.com/,未标注,2026-11-17,企业产品,OEM传感器与SDK开发者生态,产品或公司自述，未独立实测；未披露部分记为未知
+S61,Neurosity常见问题,https://neurosity.co/faq,未标注,2026-11-17,技术文档,Crown原始EEG、SDK及第三方工具,仅采用接口事实，不采纳最高通道等比较宣传
+S62,Epitel官网,https://www.epitel.com/,未标注,2026-11-17,企业产品,REMI院内及动态EEG用途分线,产品或公司自述，未独立实测；未披露部分记为未知
+S63,Beacon官网,https://beacon.bio/,未标注,2026-11-17,企业产品,脑电AI、药物研发与居家睡眠检测、头带,产品或公司自述，未独立实测；未披露部分记为未知
+S64,Zeto官方比较,https://zeto-inc.com/point-of-care-eeg-comparison/,未标注,2026-11-17,企业产品,ONE K233403及New Wave K260455，专业人员操作,许可编号来自企业页面，本轮未逐一打开FDA档案
+S65,Zeto临床研究支持,https://zeto-inc.com/annual-clinical-trial-sponsorship/,2024—2025,2026-11-17,企业研究,EDF、实时LSL和研究设备支持,产品或公司自述，未独立实测；未披露部分记为未知
+S66,强脑科技产品,https://www.brainco.cn/en-US,未标注,2026-11-17,企业产品,BCIGo、BrainAI、儿童训练、睡眠及仿生产品,肌电义肢不能自动计为脑电BCI；未核实证券上市完成
+S67,念通产品活动,https://www.econtek.cn/news/131.html,2025-09-25,2026-11-17,企业动态,eCon-Hand、iRecorder和iSense,产品或公司自述，未独立实测；未披露部分记为未知
+S68,翔宇医疗半年报,https://static.cninfo.com.cn/finalpage/2026-08-29/1225531621.PDF,2026-08-29,2026-11-17,证券披露,非侵入式康复布局及多模态产品推进,产品或公司自述，未独立实测；未披露部分记为未知
+S69,翔宇医疗风险披露,https://static.cninfo.com.cn/finalpage/2026-01-07/1224922246.PDF,2026-01-07,2026-11-17,证券披露,688626；截至2025年底相关收入较小且未规模销售,不得将2025年底状态直接写成2026年11月状态
+S70,Neuralink更新,https://neuralink.com/updates/,2026多条,2026-11-17,企业动态,2026年1月21名参与者及10月语音与解码研究,企业进展，参与者数有日期；不作为上市销售许可
+S71,Neuralink试验,https://neuralink.com/trials/device-control/,未标注,2026-11-17,临床试验说明,N1研究用途，未获商业批准,产品或公司自述，未独立实测；未披露部分记为未知
+S72,Paradromics临床扩展,https://paradromics.com/news/paradromics-receives-fda-approval-to-expand-connexus-brain-computer-interface-clinical-study-recruitment-nationwide/,2026-10-26,2026-11-17,企业动态,Connexus长期植入及临床招募地域扩展,该更新较旧招募网页新；IDE变更不是商业上市
+S73,阶梯公司介绍,https://www.stairmed.com/jietijianjie.html,未标注,2026-11-17,企业背景,2021年成立，超柔性电极、系统、算法和机器人,产品或公司自述，未独立实测；未披露部分记为未知
+S74,脑虎公司与产品,https://www.neuroxess.com/?a=show&c=index&catid=82&id=30&m=content,未标注,2026-11-17,企业背景,多路线柔性BCI及XessOS,公司同时涉及皮层表面与刺入研究，必须按产品分类
+S75,智冉医疗,https://bciflex.com/,2026-03-30等,2026-11-17,企业背景与动态,柔性电极、千通道系统及2026年2月A+融资3亿元,产品或公司自述，未独立实测；未披露部分记为未知
+S76,NeuroNexus,https://www.neuronexus.com/,未标注,2026-11-17,企业产品,硅探针、记录系统与软件科研工具,产品或公司自述，未独立实测；未披露部分记为未知
+S77,Microprobes MEA,https://microprobes.com/products/multichannel-arrays/mea,未标注,2026-11-17,企业产品,定制刺入式微电极阵列,科研供应商，不等同人体长期BCI临床领先企业
+S78,Plexon产品文档,https://plexon.com/documentation-2/,未标注,2026-11-17,技术文档,OmniPlex、SiNAPS、采集与软件工具,产品或公司自述，未独立实测；未披露部分记为未知
+S79,Ripple Neuro,https://rippleneuro.com/,未标注,2026-11-17,企业产品,Grapevine、前端、Trellis及植入研究集成,采集平台供应商，电极位置由系统集成决定
+S80,Synchron技术,https://synchron.com/technology,未标注,2026-11-17,企业产品,Stentrode血管内BCI,产品或公司自述，未独立实测；未披露部分记为未知
+S81,Synchron状态,https://synchron.com/about,未标注,2026-11-17,企业声明,明确系统仍为研究用途，未在任何地区获商业批准,产品或公司自述，未独立实测；未披露部分记为未知
+S82,Precision FDA许可,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K242618,2025-03-30,2026-11-17,监管记录,Layer 7-T、510(k) K242618,皮层电极许可，不代表完整无线慢性BCI系统获批
+S83,Precision公司公告,https://www.globenewswire.com/news-release/2025/04/17/3063418/0/en/Precision-Neuroscience-Receives-FDA-Clearance-for-High-Resolution-Cortical-Electrode-Array.html,2025-04-17,2026-11-17,企业公告,电极允许最长30天用途；完整BCI继续研发,产品或公司自述，未独立实测；未披露部分记为未知
+S84,CorTec Brain Interchange,https://cortec-neuro.com/bci/brain-interchange,未标注,2026-11-17,技术文档,读写、无线、C/C++、Python与MATLAB API；研究用途,产品或公司自述，未独立实测；未披露部分记为未知
+S85,CorTec临床管线,https://cortec-neuro.com/bci/clinical-pipeline,2026-11-10等,2026-11-17,企业临床,卒中、癫痫、瘫痪及抑郁项目分期,产品或公司自述，未独立实测；未披露部分记为未知
+S86,Neurosoft解决方案,https://www.neurosoft-bio.com/solutions,未标注,2026-11-17,企业产品,SOFT ECoG等柔性皮层表面接口,产品或公司自述，未独立实测；未披露部分记为未知
+S87,Neurosoft与Mila合作,https://www.neurosoft-bio.com/onlinepr/neurosoft-x-mila-partnership,2026-09-24,2026-11-17,企业动态,AI神经接口合作,产品或公司自述，未独立实测；未披露部分记为未知
+S88,NeuroOne季报,https://www.sec.gov/Archives/edgar/data/1500198/000121390026088724/ea0301141-10q_neuro.htm,2026-08,2026-11-17,证券披露,Evo Cortical、sEEG、OneRF分别获许可及商业进展,产品或公司自述，未独立实测；未披露部分记为未知
+S89,NeuroOne年度初步收入公告,https://www.sec.gov/Archives/edgar/data/1500198/000121390026106677/ea030757701ex99-1.htm,2026-10-05,2026-11-17,证券披露,Nasdaq NMTC及四类产品；未经审计年度初步收入公告,产品或公司自述，未独立实测；未披露部分记为未知
+S90,国家药监局NEO获批,https://www.nmpa.gov.cn/directory/web/nmpa/zhuanti/zt2023/ypgzhlfzh/shypqxgg/ggjzcx/20260313134742156.html,2026-03-13,2026-11-17,监管记录,博睿康植入式手功能代偿系统批准及预期用途,监管称侵入式；本报告按硬膜外位置归入半侵入式；不是中风检测许可
+S91,北脑一号临床与路线,https://kw.beijing.gov.cn/xwdt/kcyx/xwdtyqqy/202608/t20260813_4821140.html,2026-08-13,2026-11-17,政府发布转载,芯智达北脑一号硬膜外、二号刺入；40余例及2027年申证目标,目标时间不是已获证；数量仅适用于该发布日期
+S92,ONWARD BCI平台,https://www.onwd.com/brain-computer-interface/,截至2025年中信息,2026-11-17,企业产品,WIMAGINE独家权利、ARC-BCI与人体研究,ARC-EX许可不自动覆盖ARC-BCI
+S93,ONWARD证券信息,https://ir.onwd.com/us-investors-0,未标注,2026-11-17,投资者关系,Euronext ONWD；OTCQX ADR另列,产品或公司自述，未独立实测；未披露部分记为未知
+S94,INBRAIN人体研究,https://icn2.cat/en/news/5605-patient-enrolment-for-first-in-human-trial-of-icn2-developed-graphene-electrodes-is-completed,2026,2026-11-17,研究机构,石墨烯皮层接口首个人体研究完成入组,术中安全及映射研究不能等同长期闭环疗效
+S95,Ad-Tech皮层电极,https://adtechmedical.com/subdural-electrodes,未标注,2026-11-17,企业产品,硬膜下格栅和条带，最长29天用途,产品或公司自述，未独立实测；未披露部分记为未知
+S96,Ad-Tech与日本光电,https://adtechmedical.com/,未标注,2026-11-17,企业并购与产品,已被日本光电收购及电极产品线,列为业务主体，集团层面与日本光电不重复计数
+S97,脑机接口分类指导解读,https://www.nmpa.gov.cn/xxgk/zhcjd/zhcjdylqx/20260630140915198.html,2026-06-30,2026-11-17,监管政策,中枢实时解码双向交互/反馈的医疗BCI定义及适用范围,不将单向采集或外周肌电设备强行归入该指导原则
+S98,Hamamatsu近红外探测器,https://www.hamamatsu.com/us/en/product/optical-sensors/mppc/mppc_mppc-array/S15639-1325PS.html,未标注,2026-11-17,上游器件,近红外高灵敏SiPM候选,仅为器件供应示例，不宣称是任何竞品实际BOM
+S99,TI ADS1299,https://www.ti.com/product/ADS1299,未标注,2026-11-17,上游器件,脑电生物电AFE与ADC候选,芯片位数不等同整机有效精度，不宣称竞品实际采用

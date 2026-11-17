@@ -1,0 +1,57 @@
+{
+  "version": "v1",
+  "as_of": "2026-11-17",
+  "pdf_pages": 32,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 2347,
+      "sha256": "fc3bab7117d3d8761b0d9119b174d9e2e7b069027ee2553c2e85bd901382a0eb"
+    },
+    {
+      "file": "VALIDATION.md",
+      "bytes": 2917,
+      "sha256": "df7e2ce615445fe6da01062ed75644d8525e1e85e6da1d289552bd51550ea373"
+    },
+    {
+      "file": "companies.csv",
+      "bytes": 20071,
+      "sha256": "9e9c009f34d5fdf75acf810b202a00f53da27c606419ecdecf7b47258d942231"
+    },
+    {
+      "file": "evidence.json",
+      "bytes": 80424,
+      "sha256": "9789ea811d190c057b006709bfcbb42bd1fc13ae3b12595a87a8c2d6ce06647e"
+    },
+    {
+      "file": "implants.csv",
+      "bytes": 5430,
+      "sha256": "2253ee77516b1285d325bf06ab174c9aed09cb27fc38bd7ab81dfd96475dea08"
+    },
+    {
+      "file": "report.md",
+      "bytes": 64431,
+      "sha256": "d58a08c6efa4dfb0a8294c7abf0fd529fe8bea7b168ecc8f624f7dce225f9f5b"
+    },
+    {
+      "file": "sources.csv",
+      "bytes": 22595,
+      "sha256": "5021f2c6e0048debe4161a7f8514a5a97ca78d14172d3589ad01f210aadd220a"
+    },
+    {
+      "file": "光电融合平台竞品与证据库_20261117.xlsx",
+      "bytes": 44054,
+      "sha256": "3669a6277074dcec6db860f709c9a3fae467defaa7869cd8eef59c846e61d930"
+    },
+    {
+      "file": "非侵入式光电融合平台与自研产品竞争研究_20261117.docx",
+      "bytes": 69090,
+      "sha256": "6a1fb4e414781c0dd3fa724fad111e93fa7cfd5b3abb37b626c00bea9f9133d1"
+    },
+    {
+      "file": "非侵入式光电融合平台与自研产品竞争研究_20261117.pdf",
+      "bytes": 1121852,
+      "sha256": "a889906b06df8a5967475da6f9347f56e433a89bd2c168fbe16c47d32ecdd4b3"
+    }
+  ]
+}
