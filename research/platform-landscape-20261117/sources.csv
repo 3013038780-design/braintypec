@@ -28,7 +28,7 @@ S26,慧创政府采购配置,https://zfcg.henan.gov.cn/cmsweb81e27e/nas/webfile2
 S27,慧创采购结果,https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2024/8a1d040993e35cf00193f817bb2f5182.html,2024-12-25,2026-11-17,政府采购,NirSmart-3000BS与HeroScan-400BS包件预中标210万元,包件价格包含配置和服务，不是裸机统一市场价格
 S28,博睿康光电同步,https://www.neuracle.cn/newsinfo/358392.html,历史方案,2026-11-17,技术文档,脑电光极复用帽、触发同步和开源数据导出,历史产品方案，现售SKU和参数需询证
 S29,博睿康加拿大NRC装机,https://www.neuracle.cn/newsinfo/8304327.html,2025-04-24,2026-11-17,企业动态,NeuroHUB多模态平台在NRC装机,企业发布；本条不足以证明HD-DOT集成
-S30,博睿康招股申报稿,https://static.sse.com.cn/stock/disclosure/announcement/c/202606/002198_20260611_0RN0.pdf,2026-06-11,2026-11-17,交易所披露,公司业务、非侵入式产品及NEO管线、IPO申请,为申报稿，不是证券上市完成证明；全文财务数据未逐表审计
+S30,博睿康招股申报稿,https://static.sse.com.cn/stock/disclosure/announcement/c/202606/002198_20260611_0RN0.pdf,2026-06-11,2026-11-17,交易所披露,公司业务、非侵入式产品及NEO管线、IPO申请；E轮3亿元、投前37亿元，计算投后40亿元（PDF51–52、103页）,为申报稿，不是证券上市完成证明；全文财务数据未逐表审计
 S31,中科搏锐园区产品信息,https://mpark.zgcgroup.com.cn/xwzx/yqxw/art/2026/art_933b1cfab5cf40c5ae0d81b6075a6be8.html,2026-09-17,2026-11-17,园区公开信息,BRS-800A/B及临床场景,转述技术与应用，不作为卒中识别准确率或诊断许可证明
 S32,中科搏锐产品展出,https://chanye.bjdx.gov.cn/chanye/qyfw8/cydt/2417262/index.html,2026-06-04,2026-11-17,政府园区信息,BRS-100、BRS-800和多参数整合,有展示不等于完成所有适应症验证
 S33,傲意官网,https://www.oymotion.com/,未标注,2026-11-17,企业产品,传感器、脑电、肌电、康复及开发者中心,产品或公司自述，未独立实测；未披露部分记为未知
@@ -98,3 +98,57 @@ S96,Ad-Tech与日本光电,https://adtechmedical.com/,未标注,2026-11-17,企�
 S97,脑机接口分类指导解读,https://www.nmpa.gov.cn/xxgk/zhcjd/zhcjdylqx/20260630140915198.html,2026-06-30,2026-11-17,监管政策,中枢实时解码双向交互/反馈的医疗BCI定义及适用范围,不将单向采集或外周肌电设备强行归入该指导原则
 S98,Hamamatsu近红外探测器,https://www.hamamatsu.com/us/en/product/optical-sensors/mppc/mppc_mppc-array/S15639-1325PS.html,未标注,2026-11-17,上游器件,近红外高灵敏SiPM候选,仅为器件供应示例，不宣称是任何竞品实际BOM
 S99,TI ADS1299,https://www.ti.com/product/ADS1299,未标注,2026-11-17,上游器件,脑电生物电AFE与ADC候选,芯片位数不等同整机有效精度，不宣称竞品实际采用
+S100,Gilde将Artinis与NIRx组合为神经影像集团,https://gildehealthcare.com/news/private-equity/gilde-healthcares-private-equity-fund-combines-artinis-and-nirx-into-a-world-leading-neuroimaging-group/,2025-07-08,2026-11-17,企业或交易参与方披露,同时投资及集团整合；未披露价格,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S101,Kernel历史5300万美元融资,https://kernel-showcase.webflow.io/kernel-raises-series-c,2020-07-09,2026-11-17,企业或交易参与方披露,5300万美元融资、General Catalyst领投；历史公司公告镜像,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S102,Neuroelectrics融资律师案例,https://www.goodwinlaw.com/en/insights/case-studies/leveraging-neuroscience-data-to-restore,2021-06-15,2026-11-17,企业或交易参与方披露,2021年5月1750万美元A轮，Morningside领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S103,汪待发与慧创公开人物资料,https://www.jssh.org.cn/dzqk/xss/2025/202512/P020251231075271904130.pdf,2025-12,2026-11-17,公开人物资料,累计融资近6亿元、估值30亿元,未注明估值基准日、轮次、投前或投后；不能当作当前成交估值；不采用文中未独立证实的疗效宣传
+S104,傲意公司披露C1轮,https://oymotion.com/news8/448,2026；事件2026-03-26,2026-11-17,企业或交易参与方披露,C1轮1.5亿元，中金脑科学基金领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S105,雷迪克2025年年报中的傲意交易,https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/999bf065-44b2-4463-acc4-9da7e3b6b802.PDF,2026-04-29,2026-11-17,交易所上市公司年报,2025年交易：7999.98万元老股转让13.33%；8000万元增资取得8.16%,老股和新股价格不同；不可直接以总对价除合计股比推断统一估值
+S106,中科搏锐数千万元B轮,https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202603/t20260311_240593.html,2026-03-11,2026-11-17,政府平台转载融资公告,B轮数千万元，三泽创投投资,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S107,臻泰最新B轮融资报道,https://www.36kr.com/p/4055104890655622,2026-11-05,2026-11-17,媒体首发,数千万元B轮；张江科投、信达未来产业基金,金额为约数，未披露估值；盈利与医院数量属公司口径
+S108,回车融资数据库公开记录,https://www.vbdata.cn/comp/2874af77863077c1f58b5617d9f86439,访问日可见；事件2024-06-24,2026-11-17,行业数据库,A轮金额未透露；2015年Pre-A为1500万元,未获公司原始融资公告；投资方名不等于伯克希尔，不作关联推断
+S109,Openwater公司公告：累计1亿美元,https://www.streetinsider.com/Business%2BWire/Openwater%2BAchieves%2BQuantum%2BLeap%2Bin%2BMedicine%3A%2BHarnesses%2BLight%2C%2BSound%2C%2Band%2BElectromagnetics%2Bto%2BDiagnose%2Band%2BTreat%2BDiseases%2Bat%2BCellular%2BLevel/23635649.html,2024-08-22,2026-11-17,企业新闻稿转载,1亿美元为累计融资,不把累计1亿美元误写为该轮新增融资
+S110,Openwater当轮5400万美元报道,https://www.axios.com/pro/health-tech-deals/2024/08/22/openwater-open-source-medical-device-chip,2024-08-22,2026-11-17,媒体采访,CEO接受采访称当轮5400万美元,可见摘要支持当轮金额；累计金额采用公司新闻稿；不合并不同数据库累计口径
+S111,加泰罗尼亚创业库：Time is Brain,https://startupshub.catalonia.com/startup/barcelona/time-is-brain/5355,访问日可见；事件2026-07,2026-11-17,政府创业数据库,2026年7月300万欧元股权融资,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S112,InteraXon 950万美元C轮公司公告,https://www.businesswire.com/news/home/20220811005493/en/Interaxon-Inc.-Muse-Announces-%249.5M-Series-C-Funding-Round-To-Expand-Brain-Health-and-Wellness-Offerings,2022-08-11,2026-11-17,企业或交易参与方披露,950万美元C轮；BDC、Alabaster、EDC领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S113,Neurable融资公司新闻稿,https://www.neurofounders.co/press-releases/neurable-raises-35-million-series-a-to-accelerate-deployment-of-everyday-brain-computer-interface-technology,2025-12-19,2026-11-17,公司新闻稿转载,3500万美元A轮；累计6500万美元；Spectrum Moonshot领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S114,Epitel 2600万美元B轮,https://www.utahbusiness.com/industry/2026/07/28/epitel-raises-26-million-expand-wireless-eeg-monitoring-health-series-b/,2026-07-28,2026-11-17,媒体转述公司公告,2600万美元B轮；此前1250万美元A轮；另有超过750万美元科研资助,媒体注明自动改写、编辑审核；不将科研补助计入股权融资累计
+S115,Beacon B轮扩至9700万美元,https://beacon.bio/news/beacon-biosignals-upsizes-series-b-to-over-97-million,2026-04-06,2026-11-17,企业或交易参与方披露,B轮由8600万扩至9700万美元；累计超过1.32亿美元,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S116,Forge Beacon融资及估值公开表,https://forgeglobal.com/beacon-biosignals_ipo/,访问2026-11-17；表列2026-10-26,2026-11-17,私募交易平台数据库,B-2融资1.3亿美元，投后6.8616亿美元；累计2.6313亿美元,C级线索：公司未独立确认该B-2；与4月公告的轮次口径不同，不自行相加；非实时可成交市值
+S117,Zeto 3100万美元B轮,https://zeto-inc.com/news/zeto-secures-31m-series-b-funding-eeg-revolution/,2025-01-08,2026-11-17,企业或交易参与方披露,3100万美元B轮，MindWorks Global领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S118,强脑公司确认约20亿元新融资,https://m.eeo.com.cn/2026/0110/778355.shtml,2026-01-10,2026-11-17,媒体采访,记者向公司确认已完成约20亿元人民币融资,未公布该轮估值；不使用2025年拟融资估值作为该轮成交值
+S119,念通融资公开数据库,https://www.vbdata.cn/comp/96a77731709aaef87d5a5cc903ee124a,访问日可见；事件2026-07-01,2026-11-17,行业数据库,A轮近亿元，骄成超声、闵金投、临港数科基金,原始融资报道未全文复核；不采用标题中的临床有效率
+S120,Natus收购完成SEC披露,https://www.sec.gov/Archives/edgar/data/878526/000087852622000066/jointpressrelease-closingt.htm,2022-07-21,2026-11-17,SEC收录公司公告,约12亿美元总股权价值收购完成；33.50美元每股,历史完整Natus交易，不等于当前Natus Neuro业务价值或当前企业价值EV
+S121,Neuralink完成6.5亿美元E轮,https://neuralink.com/updates/neuralink-raises-650m-series-e/,2025-06-02,2026-11-17,企业或交易参与方披露,已完成6.5亿美元Series E,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S122,Reuters转述Semafor的Neuralink估值报道,https://www.marketscreener.com/news/latest/Musk-s-Neuralink-raises-fresh-cash-at-9-billion-valuation-Semafor-reports-50077116/,2025-05-27,2026-11-17,媒体引述消息人士,约90亿美元投前估值；当时报道融资6亿美元,公司未确认估值；媒体6亿美元与后续官方6.5亿美元有时间差，不自动计算投后
+S123,Blackrock披露Tether投资2亿美元,https://blackrockneurotech.com/insights/tether-invested-200m-in-blackrock-neurotech-accelerating-development-and-commercialization-of-implantable-bci-technology/,2024-04-29,2026-11-17,公司公告,Tether Evo投资2亿美元,未披露估值与具体持股比例；投资额不是公司估值
+S124,Paradromics与NEOM战略投资,https://paradromics.com/news/neom-investment-fund-partners-with-paradromics-to-drive-innovation-in-neurotechnology-healthcare/,2025-02-12,2026-11-17,企业或交易参与方披露,NEOM Investment Fund战略投资，金额未公开,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S125,阶梯融资与IPO辅导报道,https://m.thepaper.cn/newsDetail_forward_34393222,2026-11-03,2026-11-17,媒体报道,2026下半年约14亿元融资，至9月累计26亿元；IPO辅导,14亿元是期间累计，不是单轮；累计基准日为9月；IPO辅导不是上市
+S126,脑虎7亿元B轮,https://www.36kr.com/p/4043628160685189,2026-10-28,2026-11-17,媒体首发,7亿元B轮；国投聚力、深创投、勤智领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S127,智冉最新超6亿元融资报道,https://finance.sina.com.cn/roll/2026-09-23/doc-inisvumr5833225.shtml,2026-09-23,2026-11-17,媒体报道,本轮超6亿元；自2025年8月至本轮累计超12亿元,与数据库6亿元约数并列；不把A+3亿元继续当最新轮
+S128,智冉B轮投资事件表,https://vc.pedaily.cn/invest/427054.html,2026-09-22,2026-11-17,行业数据库,B轮6亿元，顺禧等投资方,与新闻超6亿元口径存在约数差；不据此得出精确累计
+S129,Synchron 2亿美元D轮公司公告,https://www.businesswire.com/news/home/20251106150841/en/Synchron-Raises-%24200-Million-Series-D-to-Advance-Brain-Computer-Interface-Technology,2025-11-06,2026-11-17,企业或交易参与方披露,D轮2亿美元；累计3.45亿美元；Double Point领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S130,Synchron历史估值线索,https://sacra.com/c/synchron/,访问日可见；事件2025-11,2026-11-17,研究数据库,报道近10亿美元估值,C级线索：非融资合同，投前投后未明确，不按精确10亿美元使用
+S131,Precision 2.5亿美元D轮公司公告,https://www.globenewswire.com/news-release/2026/09/24/3368254/0/en/precision-neuroscience-closes-oversubscribed-250m-series-d-led-by-pershing-square-inc-the-ackman-oxman-institute-and-a-leading-life-sciences-investment-fund.html,2026-09-24,2026-11-17,公司新闻稿,D轮2.5亿美元；累计4.3亿美元,估值不在公司融资公告中；与媒体及数据库估值分开
+S132,Precision D轮估值线索,https://sacra.com/c/precision-neuroscience/,访问日可见；事件2026-09-24,2026-11-17,研究数据库,约10.3亿美元投后估值,C级线索，尚无公司或监管文件确认；不使用二级平台隐含市值替代
+S133,CorTec 1300万欧元历史融资,https://cortec-neuro.com/news/struengmann-group-invests-in-further-expansion-of-cortec,2019-11-07,2026-11-17,企业或交易参与方披露,1300万欧元融资，Santo领投,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S134,Neurosoft 750万美元种子轮,https://www.neurofounders.co/press-releases/neurosoft-bioelectronics-closes-7-5m-oversubscribed-seed-round-to-build-stretchable-and-scalable-brain-computer-interfaces,2026-05-20,2026-11-17,公司新闻稿转载,750万美元种子轮；累计超过2000万美元；Skybound领投,累计可能含非稀释资金，公司未拆分，不直接当股权融资总额
+S135,INBRAIN B轮投资方公告,https://www.imec-int.com/en/press/inbrain-neuroelectronics-raises-50m-series-b-advance-graphene-based-brain-computer-interface,2024-10-29,2026-11-17,企业或交易参与方披露,B轮5000万美元，累计6800万美元,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S136,EMOTIV中国总裁谈融资计划,https://www.36kr.com/p/3983983846784002,2026-09；采访2026-08,2026-11-17,管理层媒体采访,计划按20亿美元估值募资2.5亿美元,融资目标及估值诉求，不是已完成融资；未明确投前投后
+S137,BITKRAFT确认OpenBCI投资组合关系,https://www.bitkraft.vc/portfolio/openbci/,访问日可见,2026-11-17,企业或交易参与方披露,OpenBCI为投资组合；金额及估值未披露,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S138,OpenBCI创始人谈SAFE与自筹,https://astera.org/wp-content/uploads/2025/12/Founders-Guide-to-Funding_Astera.pdf,2025-12,2026-11-17,研究机构创始人访谈,接受天使、机构与家办SAFE；采访时未做定价轮,历史采访，不代表2026仍无定价轮；不把营收或SAFE上限当估值
+S139,NeuroNexus所有权说明,https://www.neuronexus.com/company,访问日可见,2026-11-17,企业或交易参与方披露,NEL Group全资拥有NeuroNexus；未披露价格,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S140,芯智达市场化融资阶段采访,https://www.eeo.com.cn/2026/0719/964516.shtml,2026-07-19,2026-11-17,媒体采访,国资控股，受访时尚未进入市场化融资阶段,不把注册资本或政府项目经费当公司估值
+S141,Gowerlabs英国工商登记,https://find-and-update.company-information.service.gov.uk/company/08616297,访问日可见,2026-11-17,政府工商登记,存续的私人有限公司；不披露市场估值,为该日期公开记录，不代表2026年11月的即时估值；金额口径以原文为准
+S142,EMOTIV融资数据库线索,https://pitchbook.com/profiles/company/103988-71,访问日可见,2026-11-17,融资数据库,公开页称累计1000万美元；2023-07后期VC，金额隐藏,C级未逐轮对账；其他数据库120K、3.9M等覆盖不全，不能混合相加
+S143,OBELAB融资数据库线索,https://www.caplight.com/company/obelab,访问日可见,2026-11-17,私募数据平台,2025-05-07 VC记录；估计估值2940万美元,C级模型估计；非已披露成交估值，不纳入可比估值
+S144,Epitel融资数据库口径差异,https://www.caplight.com/company/epitel,访问日可见,2026-11-17,私募数据平台,估计估值8800万美元,C级模型估计；不作为公开成交估值，累计融资与其他来源存在差异
+S145,Wearable Sensing历史资助记录,https://www.cbinsights.com/company/wearable-sensing/financials,访问日可见；事件2017-08-30,2026-11-17,行业数据库,CTIP Grant记录，金额不可见,补助不是股权融资；隐藏金额不是0
+S146,岛津FT市值快照,https://markets.ft.markitdigital.com/data/equities/tearsheet/summary?s=7701%3ATYO,2026-11-16 05:35 GMT,2026-11-17,证券行情数据,市值约1.35万亿日元；Yahoo字段约1.28万亿至1.32万亿存在异步,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S147,日本光电Yahoo市值快照,https://finance.yahoo.com/quote/6849.T/,2026-11-12统计字段,2026-11-17,证券行情数据,市值2441亿日元，非Ad-Tech独立估值,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S148,Compumedics投资者更新,https://company-announcements.afr.com/asx/cmp/c48b4c98-dd52-11f1-a12b-c212f289ad60.pdf,2026-11-11；快照2026-11-10,2026-11-17,公司投资者材料,市值4790万澳元；0.24澳元及1.998亿股,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S149,Hyperfine市值快照,https://www.financecharts.com/stocks/HYPR/summary/market-cap,2026-11-13,2026-11-17,证券行情数据,市值6683.1万美元；页面不同模块更新可能异步,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S150,Ceribell YCharts市值快照,https://ycharts.com/companies/CBLL/market_cap,2026-11-16 14:29美东,2026-11-17,证券行情数据,市值10.21亿美元，盘中快照,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S151,翔宇长桥证券市值快照,https://longbridge.com/zh-CN/quote/688626.SH,2026-11-16 15:00中国,2026-11-17,证券行情数据,总市值64.42亿元人民币；40.26元,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S152,NeuroOne市值快照,https://stockanalysis.com/stocks/nmtc/market-cap/,2026-11-13美东收盘,2026-11-17,证券行情数据,市值678万美元；历史表四舍五入680万美元,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名
+S153,ONWARD布鲁塞尔市值快照,https://www.boursorama.com/cours/FF11-ONWD/,2026-11-16 17:35:21 CET,2026-11-17,证券行情数据,市值约1.14亿欧元；1.642欧元，ISIN NL0015000HT4,为来源注明时点的股权市值快照，非全部同步收盘；集团整体不等于BCI业务独立价值；不与未上市估值机械排名

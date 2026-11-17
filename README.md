@@ -1,6 +1,6 @@
 # BrainTypeC｜非侵入式脑机接口研究与产品探索
 
-**2026年11月17日新增：** [非侵入式光电融合平台与自研产品竞争研究](research/platform-landscape-20261117/README.md)。含公司全景、18家重点档案、三类自研产品场景、上市与动态、侵入式及半侵入式各10家代表，以及Word、PDF和Excel证据库。研究任务见 [issue #1](https://github.com/3013038780-design/braintypec/issues/1)。
+**2026年11月17日更新 v1.1：** [非侵入式光电融合平台与自研产品竞争研究](research/platform-landscape-20261117/README.md)。含公司全景、18家重点档案、三类自研产品场景、上市与动态、侵入式及半侵入式各10家代表，以及Word、PDF和Excel证据库。新增[融资、估值与市值专题](research/platform-landscape-20261117/capital.md)，含61条资本主体记录及8个上市集团市值快照。研究任务见 [issue #1](https://github.com/3013038780-design/braintypec/issues/1)。
 
 这个仓库归档脑机接口项目截至 **2026年11月14日** 的研究交付物，便于阅读、追溯来源和讨论产品方向。
 
